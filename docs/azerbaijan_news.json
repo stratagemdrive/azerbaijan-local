@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-28T16:25:50Z",
+  "generated_at": "2026-03-28T23:58:51Z",
   "country": "Azerbaijan",
-  "total_stories": 57,
+  "total_stories": 68,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Iran's FM Aragchi thanks Azerbaijan for comprehensive support",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/256309.html",
+      "published_date": "2026-03-28T18:23:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran's Foreign Minister thanks Azerbaijan",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4169045.html",
+      "published_date": "2026-03-28T18:11:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "G7 clash between Rubio and Kallas: ‘Step aside if you can do it better’",
       "source": "Azernews",
@@ -58,6 +72,20 @@
       "url": "https://jam-news.net/nato-secretary-general-we-continue-cooperation-with-georgia/",
       "published_date": "2026-03-26T17:10:33Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Qatar reports interception of drones launched from Iran",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/4169046.html",
+      "published_date": "2026-03-28T18:44:30Z",
+      "category": "Military"
+    },
+    {
+      "title": "One month of Iran war: Trillions wiped out as global markets slide",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/256302.html",
+      "published_date": "2026-03-28T16:50:00Z",
+      "category": "Military"
     },
     {
       "title": "Drone strike targets residence of Kurdish region leader Nechirvan Barzani",
@@ -151,6 +179,41 @@
       "category": "Military"
     },
     {
+      "title": "Uzbekistan maintains high share of fossil fuel generation, EDB says",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4168969.html",
+      "published_date": "2026-03-28T22:09:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "EDB identifies core fuel powering Kazakhstan’s energy mix",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/green-economy/4168957.html",
+      "published_date": "2026-03-28T19:55:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "EDB highlights Tajikistan’s continued reliance on hydroelectric energy",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/green-economy/4168954.html",
+      "published_date": "2026-03-28T19:01:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Kyrgyzstan’s electricity generation remains largely hydro-based - EDB",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/green-economy/4168953.html",
+      "published_date": "2026-03-28T18:02:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Weekly review of Azerbaijani oil prices",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/energy/4168947.html",
+      "published_date": "2026-03-28T17:04:00Z",
+      "category": "Energy"
+    },
+    {
       "title": "Turkmen State Concern launches tender for carbon black plant in Balkanabat",
       "source": "Trend News Agency",
       "url": "https://www.trend.az/business/4168948.html",
@@ -198,6 +261,20 @@
       "url": "https://jam-news.net/armenia-georgia-gas-pipeline-relocation/",
       "published_date": "2026-03-27T16:40:08Z",
       "category": "Energy"
+    },
+    {
+      "title": "Belarus boosts investments in Azerbaijani economy in 2025",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4168971.html",
+      "published_date": "2026-03-28T21:14:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Estonia steps up its investment in Azerbaijan's eсonomy",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4168956.html",
+      "published_date": "2026-03-28T20:22:00Z",
+      "category": "Economy"
     },
     {
       "title": "Belarus boosts investment in Azerbaijan despite overall FDI decline",
@@ -268,6 +345,55 @@
       "url": "https://jam-news.net/economic-growth-and-living-standards-in-armenia/",
       "published_date": "2026-03-27T18:22:42Z",
       "category": "Economy"
+    },
+    {
+      "title": "China highlights Turkmenistan’s crucial role in gas supplies to country",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4168986.html",
+      "published_date": "2026-03-28T23:07:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran allows 20 Pakistani ships to pass through Strait of Hormuz",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4169057.html",
+      "published_date": "2026-03-28T20:58:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran permits 2 Pakistani cargo ships to pass through Strait of Hormuz",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/256295.html",
+      "published_date": "2026-03-28T19:20:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "US carrier Gerald R. Ford arrives in Croatia for repairs",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/256298.html",
+      "published_date": "2026-03-28T18:55:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "22 reported dead as drifting migrant boat rescued near Greek island",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/256301.html",
+      "published_date": "2026-03-28T18:25:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "SpaceX president says humans could land on Moon by 2030",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/256279.html",
+      "published_date": "2026-03-28T17:54:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "S. Korea, Japan conduct joint rescue operation for missing Indonesian crewman for 2nd day",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/256303.html",
+      "published_date": "2026-03-28T17:25:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Millions angry with Trump expected to fill American streets",
@@ -358,55 +484,6 @@
       "source": "Trend News Agency",
       "url": "https://www.trend.az/iran/4168958.html",
       "published_date": "2026-03-28T08:39:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Belarus and Turkmenistan streamline international road freight permits for 2027",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4168951.html",
-      "published_date": "2026-03-28T08:26:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kazakhstan launches digital financial map to track retail trade nationwide",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4168942.html",
-      "published_date": "2026-03-28T08:01:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkmenistan, Poland discuss expanding political contacts",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4168940.html",
-      "published_date": "2026-03-28T07:44:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran’s Shipping Companies report surge in freight traffic along Gulf routes",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4168930.html",
-      "published_date": "2026-03-28T07:31:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kyrgyzstan updates rules on stay of foreign nationals",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/tourism/4168922.html",
-      "published_date": "2026-03-28T07:01:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan's security agencies celebrate their 107th anniversary",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/256277.html",
-      "published_date": "2026-03-28T06:01:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Georgia’s death rate still outpaces births",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/georgian-demographics-2025/",
-      "published_date": "2026-03-27T18:30:09Z",
       "category": "Local Events"
     }
   ]
