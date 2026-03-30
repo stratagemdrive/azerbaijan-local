@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-29T11:56:22Z",
+  "generated_at": "2026-03-30T00:04:40Z",
   "country": "Azerbaijan",
-  "total_stories": 80,
+  "total_stories": 94,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,34 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Judo Federation announces preliminary squad for European Championships in Tbilisi",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/sports/256332.html",
+      "published_date": "2026-03-29T17:37:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN establishes task force to secure supply routes through Strait of Hormuz",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/256326.html",
+      "published_date": "2026-03-29T15:14:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Strasbourg University holds annual meeting for Azerbaijani students and doctoral candidates",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/256320.html",
+      "published_date": "2026-03-29T14:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trade turnover via East Azerbaijan province customs reaches $177 billion",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4169108.html",
+      "published_date": "2026-03-29T12:37:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Azerbaijani FM responds to Iran's expression of thanks",
       "source": "Azernews",
@@ -79,6 +107,41 @@
       "url": "https://jam-news.net/nato-secretary-general-we-continue-cooperation-with-georgia/",
       "published_date": "2026-03-26T17:10:33Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "WHO Chief says Israeli attack kills another health worker",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/256339.html",
+      "published_date": "2026-03-29T21:52:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Israel strikes Iranian military industry facilities",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/4169164.html",
+      "published_date": "2026-03-29T21:37:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Corridor of consequence: Armenia, Azerbaijan and politics of transit",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/analysis/256307.html",
+      "published_date": "2026-03-29T15:55:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Defense Ministry releases summary of last week",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/256325.html",
+      "published_date": "2026-03-29T13:50:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Operations underway to seize illegal firearms and ammunition",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/256318.html",
+      "published_date": "2026-03-29T13:10:00Z",
+      "category": "Military"
     },
     {
       "title": "Azerbaijani Defense Ministry presents review of events of last week (VIDEO)",
@@ -186,25 +249,32 @@
       "category": "Military"
     },
     {
-      "title": "US universities introduce oral exams amid rising AI use by students",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/256254.html",
-      "published_date": "2026-03-28T05:00:00Z",
-      "category": "Military"
+      "title": "Turkish energy sector contributes 86% of greenhouse gas emissions",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4169131.html",
+      "published_date": "2026-03-29T22:21:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Prosecutors accuse former Georgia defence minister of calling for overthrow of government",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/prosecutors-accuse-former-georgia-defence-minister-of-calling-for-overthrow-of-government/",
-      "published_date": "2026-03-27T11:54:57Z",
-      "category": "Military"
+      "title": "Türkiye’s rail energy use tops 10,000 terajoules in 2024",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4169128.html",
+      "published_date": "2026-03-29T18:29:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Why Abkhaz didn’t like Georgia’s Patriarch Ilia II: perspective from Abkhazia",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/why-abkhazians-didnt-like-georgias-patriarch-ilia-ii/",
-      "published_date": "2026-03-27T08:12:16Z",
-      "category": "Military"
+      "title": "Türkiye’s aviation fuel consumption rises in 2024 - TurkStat",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4169126.html",
+      "published_date": "2026-03-29T16:32:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Diesel dominates Türkiye’s road transport energy use in 2024",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4169125.html",
+      "published_date": "2026-03-29T14:26:00Z",
+      "category": "Energy"
     },
     {
       "title": "Turkmen exchange records domestic deal for heating oil",
@@ -319,6 +389,41 @@
       "category": "Energy"
     },
     {
+      "title": "China posts strong growth in industrial and infrastructure investment",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4169121.html",
+      "published_date": "2026-03-29T19:46:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "China’s fixed-asset investment rises 1.8% in 2M2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4169119.html",
+      "published_date": "2026-03-29T17:21:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Azerbaijan's social data project wins recognition at Singapore Innovation Awards",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/256316.html",
+      "published_date": "2026-03-29T14:32:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Majority of China’s industries post growth in Jan–Feb 2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4169115.html",
+      "published_date": "2026-03-29T13:28:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Over 1,600 people trained at Garabagh Vocational Training Center",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/256324.html",
+      "published_date": "2026-03-29T12:10:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "Uzcard reports low tax payments under IT Park regime",
       "source": "Trend News Agency",
       "url": "https://www.trend.az/business/4169011.html",
@@ -424,11 +529,88 @@
       "category": "Economy"
     },
     {
-      "title": "Analysis: Economic growth and living standards rise in Armenia — but may be overstated",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/economic-growth-and-living-standards-in-armenia/",
-      "published_date": "2026-03-27T18:22:42Z",
-      "category": "Economy"
+      "title": "Kyrgyzstan notes decrease in cross-border transfers to Russia",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/finance/4169170.html",
+      "published_date": "2026-03-29T23:17:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "China’s industrial output rises 6.3% in Jan–Feb 2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4169114.html",
+      "published_date": "2026-03-29T20:27:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hannah Montana 20th Anniversary Special surpasses six million streams",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/256337.html",
+      "published_date": "2026-03-29T19:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested after car hits seven people in UK’s Derby city",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/256336.html",
+      "published_date": "2026-03-29T18:35:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Japan tightens rules for foreign citizenship, extends residency requirement",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/256335.html",
+      "published_date": "2026-03-29T18:07:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "U.S.-Iran talks may take place in Islamabad in coming days",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/4169154.html",
+      "published_date": "2026-03-29T18:01:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "State Medical-Social Expertise and Rehabilitation Agency introduces robotic therapy services",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/healthcare/256319.html",
+      "published_date": "2026-03-29T17:10:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Baku State University joins global 'Earth Hour' campaign",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/256323.html",
+      "published_date": "2026-03-29T16:34:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijani students welcome spring festival in Vienna",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/culture/256322.html",
+      "published_date": "2026-03-29T16:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "China reports mixed industrial output trends in Jan–Feb 2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4169118.html",
+      "published_date": "2026-03-29T15:19:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijani para-taekwondo athletes win four medals (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4169138.html",
+      "published_date": "2026-03-29T14:02:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "International Theatre Day celebrated in Baku with festive event",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/culture/256331.html",
+      "published_date": "2026-03-29T12:37:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Azerbaijan begins procedures to repatriateate People’s Artist Rasim Balayev from Turkiye",
@@ -484,90 +666,6 @@
       "source": "Trend News Agency",
       "url": "https://www.trend.az/azerbaijan/politics/4169100.html",
       "published_date": "2026-03-29T08:37:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scientific Research Coordination Council approves 'Code of Scientific Ethics'",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/256315.html",
-      "published_date": "2026-03-29T08:27:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan makes debut at Migrations, Cultures and Citizenship Festival",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/256317.html",
-      "published_date": "2026-03-29T08:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ministry of Internal Affairs detains 17 crime suspects",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/256314.html",
-      "published_date": "2026-03-29T07:26:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Asaf Chopurov successfully defends title in UAE",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4169095.html",
-      "published_date": "2026-03-29T07:24:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijani team ranks among top five at cybersecurity competition in Belarus",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/256313.html",
-      "published_date": "2026-03-29T07:09:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "National sabreuse wins bronze at Fencing World Cup in Tashkent",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/sports/256311.html",
-      "published_date": "2026-03-29T06:25:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ICTA warns of possible delays in international postal deliveries",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/256310.html",
-      "published_date": "2026-03-29T06:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Number of foreign students in S. Korea surpasses 310,000 for 1st time",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/256304.html",
-      "published_date": "2026-03-29T05:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesia becomes first in Southeast Asia to ban social media for kids",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/256300.html",
-      "published_date": "2026-03-29T04:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kazakhstan announces plans for agro-industrial projects in Almaty region",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4169080.html",
-      "published_date": "2026-03-29T03:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kyrgyzstan launches major power transformer maintenance and upgrade program",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/green-economy/4169071.html",
-      "published_date": "2026-03-29T00:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "US strikes more than 11,000 targets in Iran - CENTCOM",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/world/us/4169063.html",
-      "published_date": "2026-03-29T00:00:00Z",
       "category": "Local Events"
     }
   ]
