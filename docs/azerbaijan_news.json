@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T11:36:21Z",
+  "generated_at": "2026-04-12T23:26:00Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,34 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Saudi Arabia summons Iraqi ambassador over drone attacks and security threats",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/256950.html",
+      "published_date": "2026-04-12T17:02:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "NATO now wants to help with Hormuz, according to Trump",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/256945.html",
+      "published_date": "2026-04-12T16:47:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Azerbaijan reopens embassy in Iran, resumes operations with limited staff",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/256937.html",
+      "published_date": "2026-04-12T13:05:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Azerbaijan’s embassy in Iran resumes operations",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4173883.html",
+      "published_date": "2026-04-12T12:24:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Serbia could lose €1.5bn from EU over close ties with Moscow",
       "source": "Azernews",
@@ -123,32 +151,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Azerbaijan, Germany hold political consultations in Baku",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4173546.html",
-      "published_date": "2026-04-10T14:41:08Z",
-      "category": "Diplomacy"
+      "title": "What has Iran refused in ceasefire talks?",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/256952.html",
+      "published_date": "2026-04-12T18:49:00Z",
+      "category": "Military"
     },
     {
-      "title": "Lithuanian PM Inga Ruginienė visits Heydar Aliyev Center in Baku",
+      "title": "Iran reports over 3,300 war deaths as civilian toll details emerge",
       "source": "Azernews",
-      "url": "https://www.azernews.az/nation/256884.html",
-      "published_date": "2026-04-10T13:38:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/region/256942.html",
+      "published_date": "2026-04-12T15:15:00Z",
+      "category": "Military"
     },
     {
-      "title": "Next roundtable between Azerbaijan, Armenia begins under “Peace Bridge” initiative",
+      "title": "Israel on alert for possible return to war with Iran",
       "source": "Azernews",
-      "url": "https://www.azernews.az/karabakh/256875.html",
-      "published_date": "2026-04-10T12:39:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/region/256940.html",
+      "published_date": "2026-04-12T14:13:00Z",
+      "category": "Military"
     },
     {
-      "title": "Armenia signals need for third-country partners in TRIPP construction phase",
+      "title": "Putin ready to help resolve Iran conflict after US failed negotiations",
       "source": "Azernews",
-      "url": "https://www.azernews.az/karabakh/256869.html",
-      "published_date": "2026-04-10T12:35:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/region/256936.html",
+      "published_date": "2026-04-12T12:47:21Z",
+      "category": "Military"
+    },
+    {
+      "title": "Azerbaijani Defense Ministry presents review of events of last week",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/256934.html",
+      "published_date": "2026-04-12T12:04:00Z",
+      "category": "Military"
     },
     {
       "title": "Russia and Iran’s declining influence reshapes South Caucasus",
@@ -256,39 +291,18 @@
       "category": "Military"
     },
     {
-      "title": "Azerbaijan, China forge military partnership",
+      "title": "China’s renewable energy generation rises sharply in 2023-2025, IRENA says",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4173538.html",
-      "published_date": "2026-04-10T14:16:00Z",
-      "category": "Military"
+      "url": "https://www.trend.az/business/4173907.html",
+      "published_date": "2026-04-12T21:33:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Azerbaijan’s Special Forces units undergo inspections (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4173513.html",
-      "published_date": "2026-04-10T13:25:05Z",
-      "category": "Military"
-    },
-    {
-      "title": "Baku’s Old City walls undergo scientific restoration after erosion incident",
+      "title": "UBOC extends ‘Neptun’ rig operations at Umid gas field through 2027",
       "source": "Azernews",
-      "url": "https://www.azernews.az/business/256872.html",
-      "published_date": "2026-04-10T13:16:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "US–Iran 'uneasy' ceasefire: What happened and what comes next?",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/analysis/256860.html",
-      "published_date": "2026-04-10T12:58:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Azerbaijan rejects ‘missile launch’ claims, condemns disinformation amid regional tensions",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/256874.html",
-      "published_date": "2026-04-10T12:22:19Z",
-      "category": "Military"
+      "url": "https://www.azernews.az/oil_and_gas/256939.html",
+      "published_date": "2026-04-12T13:49:00Z",
+      "category": "Energy"
     },
     {
       "title": "Weekly review of Azerbaijan’s oil and energy sector",
@@ -417,18 +431,81 @@
       "category": "Energy"
     },
     {
-      "title": "Japan taps strategic oil reserves",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/256836.html",
-      "published_date": "2026-04-10T05:00:00Z",
-      "category": "Energy"
+      "title": "Tajikistan’s private sector sees strong growth in early 2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/finance/4173910.html",
+      "published_date": "2026-04-12T23:21:00Z",
+      "category": "Economy"
     },
     {
-      "title": "EDB projects continued growth in Kazakhstan’s electricity consumption",
+      "title": "World Bank upgrades Uzbekistan’s growth outlook through 2027",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4173155.html",
-      "published_date": "2026-04-10T02:17:00Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/business/4173909.html",
+      "published_date": "2026-04-12T22:27:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Kyrgyzstan launches major transport interchange project near Bishkek",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/transport/4173887.html",
+      "published_date": "2026-04-12T20:27:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "ADB forecasts moderate inflation growth in Tajikistan through 2027",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/finance/4173860.html",
+      "published_date": "2026-04-12T19:47:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Kyrgyzstan’s El Plast reports strong output and sales growth",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4173591.html",
+      "published_date": "2026-04-12T18:09:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Kazakhstan sees growth in UPT outbound money transfers",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kazakhstan/4173720.html",
+      "published_date": "2026-04-12T16:34:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "ADY boosts grain transport in March as rail freight growth continues from 2024 levels",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/business/256944.html",
+      "published_date": "2026-04-12T16:20:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Uzbekistan reports stable coal production in 2M2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4173718.html",
+      "published_date": "2026-04-12T15:19:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Azerbaijan's repo market shows balanced dynamics with stable-high liquidity demand in 2025",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4173709.html",
+      "published_date": "2026-04-12T14:27:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Turkmenistan’s Lebap region exceeds budget revenue plan in first quarter of 2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4173699.html",
+      "published_date": "2026-04-12T13:18:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Azerbaijan's trading volume grows amid dominant financial sector in stock market in 2025",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4173694.html",
+      "published_date": "2026-04-12T12:17:00Z",
+      "category": "Economy"
     },
     {
       "title": "Orthodox Christians in Azerbaijan mark easter with night services in Khachmaz",
@@ -494,81 +571,123 @@
       "category": "Economy"
     },
     {
-      "title": "OECD highlights measure to boost female labor participation in Türkiye",
+      "title": "UK will not participate in the US mission in Strait of Hormuz",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4173690.html",
-      "published_date": "2026-04-12T03:06:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/world/europe/4173929.html",
+      "published_date": "2026-04-12T20:22:29Z",
+      "category": "Local Events"
     },
     {
-      "title": "Turkmenistan’s Lebap region records growth in cargo transportation as of 1Q2026",
+      "title": "Earthquake hits Caspian Sea",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4173688.html",
-      "published_date": "2026-04-12T02:07:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/azerbaijan/society/4173924.html",
+      "published_date": "2026-04-12T19:20:15Z",
+      "category": "Local Events"
     },
     {
-      "title": "Kyrgyzstan expands capital investment support for Osh city",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4173691.html",
-      "published_date": "2026-04-12T00:05:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "OECD sets out reform path to improve business conditions in Türkiye",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4173686.html",
-      "published_date": "2026-04-11T23:05:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Turkmenistan's Lebap region sees rise in retail trade turnover for 1Q2026",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4173682.html",
-      "published_date": "2026-04-11T21:06:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Kazakhstan records growth in cross-border transfers via Zolotaya Korona",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4173678.html",
-      "published_date": "2026-04-11T19:57:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "IMF and World Bank 2029 meetings to be held in Abu Dhabi",
+      "title": "Peru votes for ninth president in less than decade",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/256916.html",
-      "published_date": "2026-04-11T18:55:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/region/256948.html",
+      "published_date": "2026-04-12T19:16:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Turkmenistan reports growth in vegetable, food production in Lebap region",
+      "title": "American ships retreat after attempting to pass through Strait of Hormuz",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4173663.html",
-      "published_date": "2026-04-11T18:12:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/world/us/4173917.html",
+      "published_date": "2026-04-12T18:25:24Z",
+      "category": "Local Events"
     },
     {
-      "title": "Kazakhstan sees growth in MoneyGram outbound transfers in February 2026",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4173707.html",
-      "published_date": "2026-04-11T17:07:00Z",
-      "category": "Economy"
+      "title": "Hungarian parliamentary election voting held at embassy in Baku",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/256951.html",
+      "published_date": "2026-04-12T18:13:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "ADB sheds light on Tajikistan’s GDP growth trajectory through 2027",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4173589.html",
-      "published_date": "2026-04-11T15:06:00Z",
-      "category": "Economy"
+      "title": "China launches wide-ranging initiative to expand influence over Taiwan",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/256947.html",
+      "published_date": "2026-04-12T18:10:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Uzbekistan reports steady trade growth with India",
+      "title": "Hungarian citizens in Azerbaijan vote in parliamentary elections",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4173657.html",
-      "published_date": "2026-04-11T14:07:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/azerbaijan/politics/4173903.html",
+      "published_date": "2026-04-12T17:44:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's far-right AfD promises to fix nation by removing everything that currently exists in it",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/256946.html",
+      "published_date": "2026-04-12T17:35:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkmenistan presents Lebap region’s share in national transport sector",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4173734.html",
+      "published_date": "2026-04-12T17:12:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "China successfully launches test satellite for satellite internet technology support",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/256943.html",
+      "published_date": "2026-04-12T15:47:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian President names conditions for reaching agreement with U.S.",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/politics/4173897.html",
+      "published_date": "2026-04-12T15:43:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Orban believes this will not be his last election",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/256941.html",
+      "published_date": "2026-04-12T14:44:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Water inflow into Iran’s reservoirs increases",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4173888.html",
+      "published_date": "2026-04-12T14:23:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "U.S. to begin process of blockading ships trying to enter or leave Strait of Hormuz",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/4173891.html",
+      "published_date": "2026-04-12T13:53:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Donald Trump reportedly orders blockade of Hormuz Strait and threatens to blow to hell Iranian vessels",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/256938.html",
+      "published_date": "2026-04-12T13:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UBOC, COS sign contract extension for Neptune jack-up rig through end of 2027",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/energy/4173880.html",
+      "published_date": "2026-04-12T12:33:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran identifies 3,375 people killed in U.S. and Israeli strikes",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4173877.html",
+      "published_date": "2026-04-12T12:10:16Z",
+      "category": "Local Events"
     },
     {
       "title": "Azerbaijani gymnasts perform successfully at European Championship (VIDEO)",
@@ -589,125 +708,6 @@
       "source": "Trend News Agency",
       "url": "https://www.trend.az/business/4173636.html",
       "published_date": "2026-04-12T10:04:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran–US diplomacy in Islamabad steps Pakistan into global negotiation arena",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/analysis/256932.html",
-      "published_date": "2026-04-12T09:55:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "U.S. failed to win Iran’s trust - Ghalibaf",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/politics/4173869.html",
-      "published_date": "2026-04-12T09:32:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran to restore damaged facilities of Lavan refinery",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/4173861.html",
-      "published_date": "2026-04-12T08:54:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan unveils bold plan to separate church from itself, igniting constitutional concerns",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/256930.html",
-      "published_date": "2026-04-12T08:53:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijani Premier League round 27 concludes with Gabala vs Imishli clash",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/sports/256931.html",
-      "published_date": "2026-04-12T08:23:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Polls open in Hungarian parliamentary election",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/256925.html",
-      "published_date": "2026-04-12T06:55:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tehran decided not to accept US terms as Trump hints at potential naval blockade of Iran",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/256924.html",
-      "published_date": "2026-04-12T06:02:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran reports partial consensus in talks with U.S.",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/politics/4173848.html",
-      "published_date": "2026-04-12T05:17:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "First VP Mehriban Aliyeva makes post on occasion of Easter",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/256923.html",
-      "published_date": "2026-04-12T05:15:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Orbán vs Magyar: Election that could shake Europe’s balance",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/analysis/256922.html",
-      "published_date": "2026-04-12T04:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "IBM to pay $17 million to settle US government probe over DEI",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/256904.html",
-      "published_date": "2026-04-12T04:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "First VP Mehriban Aliyeva makes post on occasion of Easter (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4173844.html",
-      "published_date": "2026-04-12T04:21:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "U.S. says Iran rejected proposed terms in Pakistan negotiations",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/world/us/4173839.html",
-      "published_date": "2026-04-12T04:04:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan proposes joint patrols in Strait of Hormuz during Iran-U.S. talks",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/world/4173832.html",
-      "published_date": "2026-04-12T03:19:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Qatari authorities resume all daytime maritime transport",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/world/4173829.html",
-      "published_date": "2026-04-12T00:31:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran-US talks in Islamabad to continue on April 12",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/4173823.html",
-      "published_date": "2026-04-11T23:31:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan announces tender for construction of club-community center in Jabrayil",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4173640.html",
-      "published_date": "2026-04-11T22:07:00Z",
       "category": "Local Events"
     }
   ]
