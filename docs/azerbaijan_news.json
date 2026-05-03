@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T11:45:14Z",
+  "generated_at": "2026-05-03T23:35:18Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Yerevan welcomes European Political Community summit participants. Photos, video",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/epc-summit-in-armenia-participants-photos-video/",
+      "published_date": "2026-05-03T17:26:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "European Parliament’s biased resolution is political provocation against Azerbaijan’s sovereignty and peace process in South Caucasus - Statement",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4181919.html",
+      "published_date": "2026-05-03T14:12:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Could Baku really become the table where Russia's war ends?",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/analysis/257906.html",
+      "published_date": "2026-05-03T13:01:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "EFSD reveals leading international financiers of Tajikistan in sovereign funding",
       "source": "Trend News Agency",
@@ -130,25 +151,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Leyla Aliyeva, Arzu Aliyeva and Alena Aliyeva visit \"Art in Motion\" exhibition (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4181514.html",
-      "published_date": "2026-05-01T19:22:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Azerbaijani NGOs send open letter to European leaders participating in 8th European Political Community Summit and EU-Armenia Summit",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4181519.html",
-      "published_date": "2026-05-01T18:12:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran demands compensation from Gulf states",
+      "title": "US Republicans: Germany troop cuts send wrong signal to Russia",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/257828.html",
-      "published_date": "2026-05-01T17:52:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/region/257919.html",
+      "published_date": "2026-05-03T19:26:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Israel approves plan to buy F-35, F-15IA fighter jets from US",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/257916.html",
+      "published_date": "2026-05-03T17:58:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "US top politician claims to be suffocating Iran",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/257922.html",
+      "published_date": "2026-05-03T17:23:00Z",
+      "category": "Military"
     },
     {
       "title": "Azerbaijani Defense Ministry presents review of events of last week (VIDEO)",
@@ -270,25 +291,18 @@
       "category": "Military"
     },
     {
-      "title": "Air defense systems activated in Tehran",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/4181042.html",
-      "published_date": "2026-04-30T23:31:54Z",
-      "category": "Military"
+      "title": "Iranian supertanker carrying $220M of oil evades US blockade, says tracker",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/257918.html",
+      "published_date": "2026-05-03T18:57:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Türkiye’s HÜRJET enters global market with Spain export deal",
+      "title": "Global LNG market expands despite geopolitical tensions in first quarter",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/257762.html",
-      "published_date": "2026-04-30T17:21:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "World Azerbaijanis launch petition over New York Mayor’s social media post",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/257755.html",
-      "published_date": "2026-04-30T09:00:00Z",
-      "category": "Military"
+      "url": "https://www.azernews.az/region/257911.html",
+      "published_date": "2026-05-03T15:36:00Z",
+      "category": "Energy"
     },
     {
       "title": "Ukraine destroys two shadow fleet oil tankers",
@@ -417,18 +431,39 @@
       "category": "Energy"
     },
     {
-      "title": "Azerbaijani gasoline helped stabilize prices in Armenia, minister Papoyan says",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/karabakh/257835.html",
-      "published_date": "2026-05-01T15:23:00Z",
-      "category": "Energy"
+      "title": "Kazakhstan’s refinery throughput shows steady growth in 2025",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4181951.html",
+      "published_date": "2026-05-03T19:15:26Z",
+      "category": "Economy"
     },
     {
-      "title": "BTC pipeline exports decline in first quarter amid lower volumes",
+      "title": "Azerbaijan expands economic agenda at ADB meeting in Samarkand",
       "source": "Azernews",
-      "url": "https://www.azernews.az/oil_and_gas/257834.html",
-      "published_date": "2026-05-01T13:38:00Z",
-      "category": "Energy"
+      "url": "https://www.azernews.az/business/257910.html",
+      "published_date": "2026-05-03T15:04:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran's Export Development Bank multiplies lending to startup companies",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4181776.html",
+      "published_date": "2026-05-03T14:27:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Tajikistan requires major climate financing for adaptation and green growth, EFSD says",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/green-economy/4181764.html",
+      "published_date": "2026-05-03T13:22:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Kazakhstan’s petroleum output rises amid steady growth trend in 2025",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4181765.html",
+      "published_date": "2026-05-03T12:15:00Z",
+      "category": "Economy"
     },
     {
       "title": "Iran announces exports of goods through Golestan province customs",
@@ -536,178 +571,143 @@
       "category": "Economy"
     },
     {
-      "title": "Tajikistan reports sharp rise in joint capital investments in 1Q2026",
+      "title": "European Rhythmic Gymnastics Cup concludes in Baku (PHOTO)",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/finance/4181719.html",
-      "published_date": "2026-05-02T16:19:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/azerbaijan/society/4181957.html",
+      "published_date": "2026-05-03T22:51:14Z",
+      "category": "Local Events"
     },
     {
-      "title": "Turkmenistan reports growth in trade turnover in 4M2026",
+      "title": "ING Group sees low probability of near-term rate cut in Uzbekistan",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4181686.html",
-      "published_date": "2026-05-02T15:16:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/business/4181965.html",
+      "published_date": "2026-05-03T22:34:51Z",
+      "category": "Local Events"
     },
     {
-      "title": "Tajikistan records growth in communal services sector in 1Q2026",
+      "title": "Secretary General of the Inter-Parliamentary Union arrives in Azerbaijan (PHOTO)",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4181685.html",
-      "published_date": "2026-05-02T14:24:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/azerbaijan/politics/4181961.html",
+      "published_date": "2026-05-03T21:36:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Iran's Khorramshahr announces agricultural export volume",
+      "title": "Belgrade-Baku flight to strengthen interregional communication – Azerbaijani minister",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4181679.html",
-      "published_date": "2026-05-02T13:46:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/azerbaijan/society/4181952.html",
+      "published_date": "2026-05-03T20:59:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "IsDB Group Chairman Al Jasser to visit Azerbaijan",
+      "title": "Baku–Belgrade flights boost Azerbaijan–Serbia relations - Samir Rzayev",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/society/4181948.html",
+      "published_date": "2026-05-03T20:25:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "42 kilometers of action – how Baku marathon becomes main event of spring! (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/society/4181947.html",
+      "published_date": "2026-05-03T19:37:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two women die trying to cross English Channel in small boat",
       "source": "Azernews",
-      "url": "https://www.azernews.az/nation/257886.html",
-      "published_date": "2026-05-02T13:35:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/region/257917.html",
+      "published_date": "2026-05-03T18:22:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Leyla Aliyeva and Arzu Aliyeva visit International Carpet Festival",
+      "title": "Iran receives response from U.S. via Pakistan regarding agreement - FM",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4181939.html",
+      "published_date": "2026-05-03T18:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran announces copper reserves in Sistan and Baluchestan province",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4181902.html",
+      "published_date": "2026-05-03T17:59:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Air Serbia Belgrade–Baku flight welcomed at Heydar Aliyev International Airport",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4181935.html",
+      "published_date": "2026-05-03T16:54:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Peskov: Trump, Putin have similar views on 'Kiev regime'",
       "source": "Azernews",
-      "url": "https://www.azernews.az/culture/257902.html",
-      "published_date": "2026-05-03T11:34:53Z",
+      "url": "https://www.azernews.az/region/257915.html",
+      "published_date": "2026-05-03T16:54:00Z",
       "category": "Local Events"
     },
     {
-      "title": "I am very happy to have taken first place in Baku Marathon – Ahmet Alkanoglu",
+      "title": "Section of highway between Iran’s Qom and Simnan provinces to be put into operation",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4181894.html",
-      "published_date": "2026-05-03T10:39:22Z",
+      "url": "https://www.trend.az/business/4181909.html",
+      "published_date": "2026-05-03T16:37:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Winners of “Baku Marathon 2026” determined (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4181890.html",
-      "published_date": "2026-05-03T10:09:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijani artists showcased at Empower Her Art Forum in Cairo",
+      "title": "Tusk says there is no alternative to Europe-US friendship",
       "source": "Azernews",
-      "url": "https://www.azernews.az/culture/257898.html",
-      "published_date": "2026-05-03T09:58:00Z",
+      "url": "https://www.azernews.az/region/257912.html",
+      "published_date": "2026-05-03T16:28:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Iran reports transit through Incheh Borun customs",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4181879.html",
-      "published_date": "2026-05-03T09:43:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Ilham Aliyev sends congratulatory letter to President of Poland",
+      "title": "Azerbaijani musician becomes Altus Flutes artist",
       "source": "Azernews",
-      "url": "https://www.azernews.az/nation/257901.html",
-      "published_date": "2026-05-03T09:29:00Z",
+      "url": "https://www.azernews.az/culture/257921.html",
+      "published_date": "2026-05-03T16:20:42Z",
       "category": "Local Events"
     },
     {
-      "title": "IRGC: Decision-making space for US is limited",
+      "title": "Azerbaijani musician becomes Altus Flutes artist",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4181931.html",
+      "published_date": "2026-05-03T16:11:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Beyond conflict: how Ankara, Baku, and Yerevan testing new regional order",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/257897.html",
-      "published_date": "2026-05-03T09:10:00Z",
+      "url": "https://www.azernews.az/analysis/257890.html",
+      "published_date": "2026-05-03T16:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "President Ilham Aliyev sends congratulatory letter to President of Poland",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4181881.html",
-      "published_date": "2026-05-03T08:56:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russian wheat continues transit to Armenia via Azerbaijan",
+      "title": "First VP Mehriban Aliyeva watches European Cup in Rhythmic Gymnastics",
       "source": "Azernews",
-      "url": "https://www.azernews.az/karabakh/257896.html",
-      "published_date": "2026-05-03T08:41:51Z",
+      "url": "https://www.azernews.az/nation/257920.html",
+      "published_date": "2026-05-03T15:53:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Sporting spirit and strong support can be felt at Baku Marathon – Russian participant",
+      "title": "First VP Mehriban Aliyeva watches European Cup in Rhythmic Gymnastics (PHOTO)",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4181877.html",
-      "published_date": "2026-05-03T08:19:35Z",
+      "url": "https://www.trend.az/azerbaijan/politics/4181927.html",
+      "published_date": "2026-05-03T15:47:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Full marathon in Baku inspires people of different ages to take start – 67-year-old participant",
+      "title": "Concert organized at start and finish of “Baku Marathon 2026” (PHOTO)",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4181874.html",
-      "published_date": "2026-05-03T08:16:36Z",
+      "url": "https://www.trend.az/azerbaijan/society/4181924.html",
+      "published_date": "2026-05-03T15:33:34Z",
       "category": "Local Events"
     },
     {
-      "title": "Wind gives Baku Marathon special character – Kyrgyz participant",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4181871.html",
-      "published_date": "2026-05-03T07:54:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baku Marathon becomes truly recognizable and significant event – Eduard Mammadov",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4181868.html",
-      "published_date": "2026-05-03T07:50:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Holding full marathon in Baku takes this event to new level – Olympic champion",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4181865.html",
-      "published_date": "2026-05-03T07:24:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baku Marathon is space of equal opportunities and inner strength – para-cyclist",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4181862.html",
-      "published_date": "2026-05-03T07:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran said to set 1-month deadline for Hormuz deal",
+      "title": "Baku Marathon 2026 brings together thousands as winners crowned across categories",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/257891.html",
-      "published_date": "2026-05-03T06:28:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Grand \"Baku Marathon 2026\" kicks off with many celebrities, concert program, fan zone, and prizes",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/257894.html",
-      "published_date": "2026-05-03T06:27:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Grand \"Baku Marathon 2026\" kicks off – celebrities, concert program, fan zone, prizes (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4181850.html",
-      "published_date": "2026-05-03T06:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baku Marathon 2026 kicks off (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4181857.html",
-      "published_date": "2026-05-03T06:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerishig announces tender for power network reconstruction in Khojavend",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4181623.html",
-      "published_date": "2026-05-02T23:22:00Z",
+      "url": "https://www.azernews.az/nation/257913.html",
+      "published_date": "2026-05-03T15:27:24Z",
       "category": "Local Events"
     }
   ]
