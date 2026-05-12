@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T13:05:38Z",
+  "generated_at": "2026-05-12T23:51:14Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,34 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "UN-HABITAT Executive Director expresses gratitude to President Ilham Aliyev",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4185163.html",
+      "published_date": "2026-05-12T15:38:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK envoy applauds Azerbaijan’s efforts in advancing peace with Armenia",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4185158.html",
+      "published_date": "2026-05-12T15:15:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK sees strong potential in Azerbaijan’s economic diversification – ambassador",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4185147.html",
+      "published_date": "2026-05-12T14:54:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Azerbaijan, Greece hold new round of political consultations in Athens",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4185138.html",
+      "published_date": "2026-05-12T14:17:56Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Baku port welcomes new vessel to boost Middle Corridor trade",
       "source": "Azernews",
@@ -123,32 +151,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran demands US oil sanctions be lifted",
+      "title": "Renewed conflict with Iran to damage global economy - Turkish FM",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/4184619.html",
-      "published_date": "2026-05-10T21:43:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.trend.az/world/turkey/4185212.html",
+      "published_date": "2026-05-12T23:09:00Z",
+      "category": "Military"
     },
     {
-      "title": "Footage of meeting with families moving to first residential complex in Zangilan published on President Ilham Aliyev's social media pages",
+      "title": "U.S. considers new Greenland bases",
       "source": "Azernews",
-      "url": "https://www.azernews.az/nation/258242.html",
-      "published_date": "2026-05-10T16:46:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/region/258318.html",
+      "published_date": "2026-05-12T18:43:00Z",
+      "category": "Military"
     },
     {
-      "title": "Erdoğan to visit Kazakhstan ahead of Turkic States summit in Turkistan",
+      "title": "South Korea to jail unauthorized drone launches into North Korea",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/258236.html",
-      "published_date": "2026-05-10T14:25:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/region/258310.html",
+      "published_date": "2026-05-12T16:41:00Z",
+      "category": "Military"
     },
     {
-      "title": "First VP Mehriban Aliyeva shares footage from trip to Zangilan with President Ilham Aliyev (VIDEO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4184582.html",
-      "published_date": "2026-05-10T13:27:00Z",
-      "category": "Diplomacy"
+      "title": "How Zangilan becomes symbol of Azerbaijan’s post-conflict order",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/analysis/258301.html",
+      "published_date": "2026-05-12T14:46:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "How Heydar Aliyev explained Azerbaijan’s turbulent 1990s: power, war and opposition",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/how-heydar-aliyev-explained-azerbaijans-turbulent-1990s-power-war-and-opposition/",
+      "published_date": "2026-05-12T13:21:32Z",
+      "category": "Military"
     },
     {
       "title": "Gilavar Photo Club presents mine awareness exhibition",
@@ -256,39 +291,25 @@
       "category": "Military"
     },
     {
-      "title": "Azerbaijani Defense Ministry presents review of events of last week (VIDEO)",
+      "title": "Turkmen commodity exchange records foreign deals in oil, textile sectors",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4184592.html",
-      "published_date": "2026-05-10T16:21:11Z",
-      "category": "Military"
+      "url": "https://www.trend.az/business/4185108.html",
+      "published_date": "2026-05-12T23:15:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Azerbaijan Army commemorates 103rd anniversary of birth of National Leader Heydar Aliyev (PHOTO/VIDEO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4184585.html",
-      "published_date": "2026-05-10T14:34:13Z",
-      "category": "Military"
+      "title": "‘They didn’t warn us’: Bolnisi residents oppose mining over environmental fears",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/they-didnt-warn-us-bolnisi-residents-oppose-mining-over-environmental-fears/",
+      "published_date": "2026-05-12T17:49:41Z",
+      "category": "Energy"
     },
     {
-      "title": "21 police officers killed in terror attack in northwestern Pakistan",
+      "title": "Azerbaijan, bp sign agreements on energy cooperation",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/258229.html",
-      "published_date": "2026-05-10T10:24:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Azerbaijan’s FM comments on drone attack on Nakhchivan",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4184495.html",
-      "published_date": "2026-05-10T07:28:23Z",
-      "category": "Military"
-    },
-    {
-      "title": "Türkiye’s missile leap adds new layer to Eurasian security balance",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/analysis/258177.html",
-      "published_date": "2026-05-09T11:58:00Z",
-      "category": "Military"
+      "url": "https://www.azernews.az/nation/258311.html",
+      "published_date": "2026-05-12T15:17:00Z",
+      "category": "Energy"
     },
     {
       "title": "Tashkent hosts talks on dev't of Central Asia-Azerbaijan-Europe energy corridor",
@@ -410,25 +431,60 @@
       "category": "Energy"
     },
     {
-      "title": "Turkmenistan's Balkan region posts major rise in oil production as of Jan.-Apr. 2026",
+      "title": "Azerbaijan’s foreign public debt declines year-on-year",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4184303.html",
-      "published_date": "2026-05-09T20:12:00Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/business/4184963.html",
+      "published_date": "2026-05-12T21:11:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Copernicus reports surge in ocean temperatures ahead of El Niño",
+      "title": "Azerbaijan reports growth in retail trade turnover",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4184994.html",
+      "published_date": "2026-05-12T19:12:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Cryptocurrency marketplace spills beans on its latest performance",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4184863.html",
+      "published_date": "2026-05-12T18:14:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran’s Minister of Road Construction and Urban Development to visit Azerbaijan",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4185178.html",
+      "published_date": "2026-05-12T15:58:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Azerbaijan discusses healthcare co-op with Asian Development Bank (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/society/4185175.html",
+      "published_date": "2026-05-12T15:44:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran's water reservoirs see growth in reserves",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4184874.html",
+      "published_date": "2026-05-12T15:23:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Baku, Belgrade discuss expanding bilateral economic cooperation",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/258210.html",
-      "published_date": "2026-05-09T18:51:00Z",
-      "category": "Energy"
+      "url": "https://www.azernews.az/nation/258309.html",
+      "published_date": "2026-05-12T14:03:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Our largest solar power plants are also being constructed in Jabrayil - President Ilham Aliyev",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4184395.html",
-      "published_date": "2026-05-09T14:23:00Z",
-      "category": "Energy"
+      "title": "ANAMA neutralizes dozens of mines and UXOs in liberated territories",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/events/258299.html",
+      "published_date": "2026-05-12T13:41:00Z",
+      "category": "Economy"
     },
     {
       "title": "Azerbaijan relocates 18 families to Khojavend city",
@@ -515,199 +571,143 @@
       "category": "Economy"
     },
     {
-      "title": "China’s non-manufacturing sector shows signs of slower growth in Apr. 2026",
+      "title": "Iran tallies upcoming saffron harvest volume in North Khorasan Province",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4184687.html",
-      "published_date": "2026-05-11T21:19:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/business/4185081.html",
+      "published_date": "2026-05-12T22:10:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Azerbaijan’s economy ministry unit launches cybersecurity software tender",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4184648.html",
-      "published_date": "2026-05-11T20:12:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Tajikistan’s agricultural sector shows strong growth in 1Q2026",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4184686.html",
-      "published_date": "2026-05-11T18:14:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Azerbaijan’s finance ministry launches tender to strengthen cybersecurity",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4184649.html",
-      "published_date": "2026-05-11T17:18:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Cryptocurrency marketplace rolls out its latest market metric",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4184669.html",
-      "published_date": "2026-05-11T16:10:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Iran reports investments in Razavi Khorasan’s SPP commissioning",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4184695.html",
-      "published_date": "2026-05-11T15:25:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Tajikistan, AIIB sign investment plan worth over $800 million",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4184780.html",
-      "published_date": "2026-05-11T14:37:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Abkhazia plans major ski resort as environmental fears grow",
+      "title": "Ukraine discusses the idea of an “airport truce” with Russia and awaits european participation in the negotiations",
       "source": "JAMnews",
-      "url": "https://jam-news.net/abkhazia-plans-major-ski-resort-as-environmental-fears-grow/",
-      "published_date": "2026-05-11T14:02:49Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Armenian diaspora influences adoption of resolutions against Azerbaijan - MP",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4185095.html",
-      "published_date": "2026-05-12T12:54:00Z",
+      "url": "https://jam-news.net/ukraine-discusses-the-idea-of-an-airport-truce-with-russia-and-awaits-european-participation-in-the-negotiations/",
+      "published_date": "2026-05-12T22:03:09Z",
       "category": "Local Events"
     },
     {
-      "title": "Media Development Agency hosts roundtable on 'President Ilham Aliyev’s Peace Strategy: Guarantee of Stability' (PHOTO)",
+      "title": "First finalists of Eurovision Song Contest 2026 announced",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4185097.html",
-      "published_date": "2026-05-12T12:49:54Z",
+      "url": "https://www.trend.az/azerbaijan/society/4185210.html",
+      "published_date": "2026-05-12T21:42:00Z",
       "category": "Local Events"
     },
     {
-      "title": "QazaqGaz and CNPC debate expansion of cooperation in gas projects",
+      "title": "Small businesses dominate Uzbekistan's road transport sector in 1Q2026",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4185093.html",
-      "published_date": "2026-05-12T12:32:03Z",
+      "url": "https://www.trend.az/business/4184957.html",
+      "published_date": "2026-05-12T20:17:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Uzbekneftegaz, Hungary’s MOL Group discuss co-op in petrochemicals",
+      "title": "Iran names conditions for return to talks with U.S.",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4185088.html",
-      "published_date": "2026-05-12T12:25:59Z",
+      "url": "https://www.trend.az/iran/4185202.html",
+      "published_date": "2026-05-12T20:03:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Hantavirus risk remains low for public in Azerbaijan",
+      "title": "Uzbekistan reveals number of new small businesses established in 1Q2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4184865.html",
+      "published_date": "2026-05-12T19:49:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Washington will only agree to good deal with Iran - Trump",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/us/4185199.html",
+      "published_date": "2026-05-12T19:26:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chairman of National Council of Slovakia arrives in Azerbaijan on visit (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4185193.html",
+      "published_date": "2026-05-12T18:39:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Amazon expands rapid delivery across more U.S. cities",
       "source": "Azernews",
-      "url": "https://www.azernews.az/healthcare/258300.html",
-      "published_date": "2026-05-12T12:21:00Z",
+      "url": "https://www.azernews.az/region/258317.html",
+      "published_date": "2026-05-12T18:15:00Z",
       "category": "Local Events"
     },
     {
-      "title": "President Ilham Aliyev reviews preparations for WUF13 at Baku Olympic Stadium",
+      "title": "Armenian political groups spend heavily on Meta ads ahead of election campaign",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/armenian-political-groups-spend-heavily-on-meta-ads-ahead-of-election-campaign/",
+      "published_date": "2026-05-12T18:08:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mexico keeps school calendar unchanged despite World Cup backlash",
       "source": "Azernews",
-      "url": "https://www.azernews.az/nation/258305.html",
-      "published_date": "2026-05-12T12:20:00Z",
+      "url": "https://www.azernews.az/region/258315.html",
+      "published_date": "2026-05-12T17:45:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Azerbaijan discusses new South Caucasus peace strategy at MEDIA roundtable",
+      "title": "Baku Metro announces steps toward unified transport system (Interview)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/society/4184934.html",
+      "published_date": "2026-05-12T17:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New transport mode launches in Astana this weekend",
       "source": "Azernews",
-      "url": "https://www.azernews.az/nation/258304.html",
-      "published_date": "2026-05-12T12:06:00Z",
+      "url": "https://www.azernews.az/region/258314.html",
+      "published_date": "2026-05-12T17:10:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Reinventing fantasy through biology: The Worldbuilding of Rustam Guliyev from New York (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4185083.html",
-      "published_date": "2026-05-12T12:04:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jean-Noel Barrot completely distorts regional events in French parliament - Azerbaijani MP",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4185038.html",
-      "published_date": "2026-05-12T11:55:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Albania's Deputy PM set to visit Azerbaijan (Exclusive)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/business/4185071.html",
-      "published_date": "2026-05-12T11:46:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Ilham Aliyev reviews preparations for WUF13 at Baku Olympic Stadium (PHOTO/VIDEO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4185073.html",
-      "published_date": "2026-05-12T11:39:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Next group of ex-IDPs receives house keys in Azerbaijan's Khojavend (PHOTO) (UPDATE)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4185060.html",
-      "published_date": "2026-05-12T11:20:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Next group of ex-IDPs receives house keys in Azerbaijan's Khojavend (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4184945.html",
-      "published_date": "2026-05-12T11:19:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Croatia announces delegation for WUF13 in Baku",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/business/4185055.html",
-      "published_date": "2026-05-12T11:18:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uzbekistan, Italy discuss expanding cooperation in agriculture and agrarian education",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4185050.html",
-      "published_date": "2026-05-12T11:06:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran readies section of railway along new corridor via Azerbaijan",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/4185036.html",
-      "published_date": "2026-05-12T10:40:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tajikistan and China conduct high-level negotiations in Beijing",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/tajikistan/4185030.html",
-      "published_date": "2026-05-12T10:19:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Modern national statehood concept formed and implemented under leadership of National Leader Heydar Aliyev - speaker (UPDATE)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4185024.html",
-      "published_date": "2026-05-12T10:07:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WHO reports low hantavirus risk for public in Azerbaijan",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4185016.html",
-      "published_date": "2026-05-12T10:06:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jamal Aliyev sets new endurance swimming record",
+      "title": "Footage shared of President Ilham Aliyev reviewing WUF13 preparations on social media",
       "source": "Azernews",
-      "url": "https://www.azernews.az/sports/258284.html",
-      "published_date": "2026-05-12T10:00:00Z",
+      "url": "https://www.azernews.az/nation/258316.html",
+      "published_date": "2026-05-12T16:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Footage of President Ilham Aliyev's review of preparations for WUF13 at Baku Olympic Stadium posted on his social media pages (VIDEO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4185183.html",
+      "published_date": "2026-05-12T16:26:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fuzuli’s Pirahmadli village set for water infrastructure upgrade",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4184924.html",
+      "published_date": "2026-05-12T16:21:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Beatles’ legendary mansion become museum",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/258312.html",
+      "published_date": "2026-05-12T16:09:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Ilham Aliyev and Prime Minister of Pakistan hold phone conversation",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/258313.html",
+      "published_date": "2026-05-12T15:54:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijani and Turkmen Trade Unions ink MoU to strengthen cooperation (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/society/4185171.html",
+      "published_date": "2026-05-12T15:52:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Secret family reveals new details about Michael Jackson",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/258308.html",
+      "published_date": "2026-05-12T15:43:00Z",
       "category": "Local Events"
     }
   ]
