@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T13:55:56Z",
+  "generated_at": "2026-05-19T23:54:37Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,62 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Erdogan, von der Leyen discuss Türkiye-EU relations",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/turkey/4188411.html",
+      "published_date": "2026-05-19T21:11:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU warns of worsening access to medicines",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/258643.html",
+      "published_date": "2026-05-19T19:50:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU officials review demining operations in Azerbaijan's Aghdam and Fuzuli (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4188384.html",
+      "published_date": "2026-05-19T16:47:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Heart of a patriot explores leadership legacy of Binali Yıldırım",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/258605.html",
+      "published_date": "2026-05-19T16:05:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Azerbaijan’s Economy Minister meets Pakistan’s Punjab Chief Minister on WUF13 sidelines (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4188376.html",
+      "published_date": "2026-05-19T15:57:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Georgia’s prime minister accuses Denmark of democratic backsliding in open letter to the EU",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/georgias-prime-minister-accuses-denmark-of-democratic-backsliding-in-open-letter-to-the-eu/",
+      "published_date": "2026-05-19T15:25:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Azerbaijan, Sudan strengthen ties with diplomatic visa exemption agreement (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4188355.html",
+      "published_date": "2026-05-19T14:28:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN-Habitat presents \"World Cities Report 2026\" (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4188341.html",
+      "published_date": "2026-05-19T14:21:45Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN South-South cooperation chief charts 2050 demographic shift at WUF13",
       "source": "Trend News Agency",
@@ -95,60 +151,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump warns time is running out for Iran as talks stall",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/258584.html",
-      "published_date": "2026-05-18T16:35:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kyiv is ready to open new chapter with Hungary, says top diplomat",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/258591.html",
-      "published_date": "2026-05-18T14:59:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "President Ilham Aliyev meets with President of Uzbekistan Shavkat Mirziyoyev",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/258595.html",
-      "published_date": "2026-05-18T14:49:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN-Habitat Executive Director pushes for inclusive, rights-based housing",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/business/4187704.html",
-      "published_date": "2026-05-18T14:07:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "President Ilham Aliyev receives Vice Premier of the State Council of China",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/258593.html",
-      "published_date": "2026-05-18T13:15:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "President Ilham Aliyev meets with Georgian Prime Minister",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/258578.html",
-      "published_date": "2026-05-18T11:50:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Azerbaijani judokas claim medals in Russia",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/sports/258569.html",
-      "published_date": "2026-05-18T11:44:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN General Assembly President: WUF13 offers an opportunity to strengthen action on the housing crisis",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/258572.html",
-      "published_date": "2026-05-18T11:15:00Z",
-      "category": "Diplomacy"
+      "title": "Three detained on terrorism charges in Georgia’s Pankisi Gorge",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/islamic-state-in-georgia/",
+      "published_date": "2026-05-19T16:40:06Z",
+      "category": "Military"
     },
     {
       "title": "Azerbaijan rebuilt 300,000 homes for displaced families, official says",
@@ -284,11 +291,18 @@
       "category": "Military"
     },
     {
-      "title": "Mercedes-Benz explores defense sector opportunities, CEO says",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/258466.html",
-      "published_date": "2026-05-16T07:05:00Z",
-      "category": "Military"
+      "title": "Iran’s biomass power capacity reaches 22.1 megawatts",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4187861.html",
+      "published_date": "2026-05-19T18:22:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "High-Level Energy and Urban Dialogue of D-8 nations within WUF13 wraps up in Baku",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4188296.html",
+      "published_date": "2026-05-19T14:13:52Z",
+      "category": "Energy"
     },
     {
       "title": "Pakistan's climate chief links global electrification directly to urban housing crisis",
@@ -417,18 +431,60 @@
       "category": "Energy"
     },
     {
-      "title": "Iran reveals electricity generation potential of local solar power plants",
+      "title": "Uzbekistan to develop automotive spare parts market strategy by end of 2026",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4186683.html",
-      "published_date": "2026-05-16T20:19:00Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/business/4188412.html",
+      "published_date": "2026-05-19T22:20:00Z",
+      "category": "Economy"
     },
     {
-      "title": "UAE says OPEC, OPEC+ exit was sovereign strategic decision, not political move",
+      "title": "Uzbekistan’s informal sector performs construction work worth $1.4 billion in Q1 2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4188228.html",
+      "published_date": "2026-05-19T20:09:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Azerbaijan and EBRD discuss prospects for cooperation (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4188406.html",
+      "published_date": "2026-05-19T19:57:55Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Azerbaijan imports fall 32% in early 2026",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/258490.html",
-      "published_date": "2026-05-16T17:35:00Z",
-      "category": "Energy"
+      "url": "https://www.azernews.az/business/258624.html",
+      "published_date": "2026-05-19T19:20:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Thailand changes visa-free entry rules",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/258644.html",
+      "published_date": "2026-05-19T18:45:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Georgia’s car exports to Azerbaijan see sharp contraction",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/business/258635.html",
+      "published_date": "2026-05-19T17:40:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "China’s modern services sector maintains steady growth in Jan-April",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4187762.html",
+      "published_date": "2026-05-19T16:16:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Tobacco imports surge in Azerbaijan as demand and prices rise",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/business/258633.html",
+      "published_date": "2026-05-19T14:36:00Z",
+      "category": "Economy"
     },
     {
       "title": "Azerbaijan accelerates transition to industrial model of creative economy - Cinema Agency head",
@@ -515,199 +571,143 @@
       "category": "Economy"
     },
     {
-      "title": "Belarus to prioritize individual housing construction in coming years - official",
+      "title": "Kazakhstan launches repairs on 3 power units ahead of heating season",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4187635.html",
-      "published_date": "2026-05-18T13:14:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/business/4188413.html",
+      "published_date": "2026-05-19T23:14:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Future belongs to environmentally friendly construction systems, Belarusian official says",
+      "title": "China’s service consumption outpaces retail goods sales in Jan-April",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4187632.html",
-      "published_date": "2026-05-18T13:08:21Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/business/4187764.html",
+      "published_date": "2026-05-19T21:22:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Azerbaijan cotton fiber exports surge nearly 56% in first quarter of year",
+      "title": "Progress made in negotiations with Iran - U.S. Vice President",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/us/4188402.html",
+      "published_date": "2026-05-19T19:31:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijan releases Baku-Tbilisi-Baku train schedule",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/society/4188396.html",
+      "published_date": "2026-05-19T18:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indonesia stocks end lower after volatility",
       "source": "Azernews",
-      "url": "https://www.azernews.az/business/258574.html",
-      "published_date": "2026-05-18T12:03:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/region/258645.html",
+      "published_date": "2026-05-19T18:15:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Modern cities must focus on quality of life, says Emin Agalarov",
+      "title": "Georgia’s milk output declines 1.2% in Q1 2026 as meat and egg production grow",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4187774.html",
+      "published_date": "2026-05-19T17:21:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rare Jackson Pollock artwork sets auction record",
       "source": "Azernews",
-      "url": "https://www.azernews.az/nation/258571.html",
-      "published_date": "2026-05-18T11:05:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/region/258646.html",
+      "published_date": "2026-05-19T17:10:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Kyrgyzstan boosts investment and job creation amid economic growth",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4187233.html",
-      "published_date": "2026-05-17T21:25:09Z",
-      "category": "Economy"
+      "title": "The German city of Saarbrücken is severing ties with its sister city Tbilisi",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/saarbrucken-cuts-ties-with-tbilisi-its-sister-city/",
+      "published_date": "2026-05-19T16:37:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Weekly review of Azerbaijan's precious metals market",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4186601.html",
-      "published_date": "2026-05-17T17:11:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "WUF13 to shape important legacy extending beyond forum itself - Anar Guliyev",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4187192.html",
-      "published_date": "2026-05-17T14:35:47Z",
-      "category": "Economy"
-    },
-    {
-      "title": "ING: Azerbaijan’s current account surplus could reach up to 10% of GDP amid high oil prices",
+      "title": "What lies behind the China–Russia partnership",
       "source": "Azernews",
-      "url": "https://www.azernews.az/business/258524.html",
-      "published_date": "2026-05-17T13:24:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/region/258647.html",
+      "published_date": "2026-05-19T16:35:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "WUF13: Director of National Art Museum explains how art shapes cities and urban change",
+      "title": "Assassination plot against Nikol Pashinyan: real or hybrid threat?",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/assassination-plot-against-nikol-pashinyan-real-or-hybrid-threat/",
+      "published_date": "2026-05-19T15:53:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bodies of two Italian divers who died in Maldives recovered",
       "source": "Azernews",
-      "url": "https://www.azernews.az/culture/258611.html",
-      "published_date": "2026-05-19T13:54:00Z",
+      "url": "https://www.azernews.az/region/258648.html",
+      "published_date": "2026-05-19T15:37:00Z",
       "category": "Local Events"
     },
     {
-      "title": "WUF13 to conclude with Baku Challenge collective declaration - national coordinator",
+      "title": "Azerbaijan ratifies agreement on cooperation in exchange for information in enforcement of Judicial acts, acts of other authorized bodies, and officials",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4188196.html",
-      "published_date": "2026-05-19T13:52:59Z",
+      "url": "https://www.trend.az/azerbaijan/politics/4188373.html",
+      "published_date": "2026-05-19T15:36:11Z",
       "category": "Local Events"
     },
     {
-      "title": "Azerbaijani minister highlights concept of livable city as key goal",
+      "title": "Baku hosts Turkic States’ High-Level Urban Dialogue at WUF13 (PHOTO)",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4188167.html",
-      "published_date": "2026-05-19T13:46:08Z",
+      "url": "https://www.trend.az/azerbaijan/politics/4188370.html",
+      "published_date": "2026-05-19T15:31:14Z",
       "category": "Local Events"
     },
     {
-      "title": "Uzbekistan's Bukhara turns heritage and crafts into drivers of urban dev't - official",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4188307.html",
-      "published_date": "2026-05-19T13:45:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reaching work, school, and hospital in less time constitutes primary goal - Rashad Nabiyev",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4188153.html",
-      "published_date": "2026-05-19T13:43:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan pursues consistent policy to ensure steady transit flows since 2021 - minister",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4188129.html",
-      "published_date": "2026-05-19T13:42:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Despite criticism Baku’s push toward public transport helped ease road congestion, Minister says",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4188140.html",
-      "published_date": "2026-05-19T13:41:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "NGOs bridge gap between people, policy, and practice - Malaysian government adviser",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4188312.html",
-      "published_date": "2026-05-19T13:40:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serbian professor highlights human factor as key to future urban development",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4188327.html",
-      "published_date": "2026-05-19T13:39:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Culture, creative industries shape sustainable and inclusive cities - UNESCO official",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4188294.html",
-      "published_date": "2026-05-19T13:33:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan assumes lead role in urban dev't – Pakistani official (Exclusive)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4188325.html",
-      "published_date": "2026-05-19T13:32:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Housing policy ignoring metropolitan dimension fails to create comfortable urban environment - Metropolis Sec Gen",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4188318.html",
-      "published_date": "2026-05-19T13:32:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan prioritizes development of education, human capital, and creative infrastructure - Deputy Minister",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4188303.html",
-      "published_date": "2026-05-19T13:31:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Urban development impossible without civil society participation - Aygun Aliyeva",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4188314.html",
-      "published_date": "2026-05-19T13:30:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan set to build multiple new reservoirs in liberated areas",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4188108.html",
-      "published_date": "2026-05-19T13:29:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan launches historic first-ever WUF13 NGO Forum (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4188300.html",
-      "published_date": "2026-05-19T13:29:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Housing constitutes fundamental human right, not privilege - Turkish expert",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4188323.html",
-      "published_date": "2026-05-19T13:27:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Polad Bulbuloglu says Azerbaijan’s rebuilding experience extends beyond region",
+      "title": "Merkel says Europe far from becoming world's strongest continent",
       "source": "Azernews",
-      "url": "https://www.azernews.az/nation/258634.html",
-      "published_date": "2026-05-19T13:27:00Z",
+      "url": "https://www.azernews.az/region/258649.html",
+      "published_date": "2026-05-19T15:03:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Table tennis team joins  international competition in Uzbekistan",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/sports/258625.html",
-      "published_date": "2026-05-19T12:49:00Z",
+      "title": "Azerbaijan aims to build entirely new cities and towns - WUF13 National Coordinator",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/society/4188364.html",
+      "published_date": "2026-05-19T14:59:14Z",
       "category": "Local Events"
     },
     {
-      "title": "President Ilham Aliyev approves agreement on 'Shusha Park' construction in Veliko Tarnovo",
+      "title": "Azerbaijani Speaker calls for continued efforts to boost parliamentary ties with Belarus",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4188358.html",
+      "published_date": "2026-05-19T14:39:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Third day of 13th World Urban Forum wraps up in Baku (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4188338.html",
+      "published_date": "2026-05-19T14:30:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran, Azerbaijan possess great potential to expand urban planning ties - deputy minister (Exclusive)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4188335.html",
+      "published_date": "2026-05-19T14:16:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ADA University concludes VIII English Language Olympiad across Azerbaijan",
       "source": "Azernews",
-      "url": "https://www.azernews.az/nation/258638.html",
-      "published_date": "2026-05-19T12:27:00Z",
+      "url": "https://www.azernews.az/events/258640.html",
+      "published_date": "2026-05-19T14:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijani Parliament holds meeting with Turkish delegation (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4188329.html",
+      "published_date": "2026-05-19T14:12:17Z",
       "category": "Local Events"
     }
   ]
