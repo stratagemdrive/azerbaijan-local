@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T13:32:47Z",
+  "generated_at": "2026-05-22T23:58:01Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,62 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Baku adopts global call to action on housing crisis",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/258793.html",
+      "published_date": "2026-05-22T17:44:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Greenland protests outside US consulate",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/258779.html",
+      "published_date": "2026-05-22T15:30:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Multilateral system needs adaptation to modern realities – Rebeca Grynspan",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4189997.html",
+      "published_date": "2026-05-22T15:14:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Baku Global Forum now hub for multilateral dialogue - Presidential representative",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4189991.html",
+      "published_date": "2026-05-22T15:12:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN remains irreplaceable despite crisis of multilateralism – Ismail Serageldin",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4189985.html",
+      "published_date": "2026-05-22T15:03:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Uzbekistan awards Honored Artist Sahib Pashazade for cultural and educational cooperation",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/culture/258765.html",
+      "published_date": "2026-05-22T14:20:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "WUF13 Flag lowering ceremony of Azerbaijan and United Nations held",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/258791.html",
+      "published_date": "2026-05-22T14:05:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mexico to host WUF14 in 2028 after Baku hosts successful UN Urban Forum",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/258790.html",
+      "published_date": "2026-05-22T13:37:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN-Habitat Chief: Baku strengthens global coalition for urban transformation",
       "source": "Azernews",
@@ -95,60 +151,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Zambian delegate: Azerbaijan showed that smart urbanization is achievable",
+      "title": "One dead in explosion at Hungary’s largest chemical complex",
       "source": "Azernews",
-      "url": "https://www.azernews.az/events/258759.html",
-      "published_date": "2026-05-22T07:43:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/region/258787.html",
+      "published_date": "2026-05-22T18:15:00Z",
+      "category": "Military"
     },
     {
-      "title": "UN-Habitat official warns climate and housing crises can no longer be ignored",
+      "title": "Zelenskyy says Ukrainian forces carried out overnight strikes on targets linked to Russia’s Yaroslavl oil refinery",
       "source": "Azernews",
-      "url": "https://www.azernews.az/nation/258751.html",
-      "published_date": "2026-05-22T06:41:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/region/258786.html",
+      "published_date": "2026-05-22T16:05:00Z",
+      "category": "Military"
     },
     {
-      "title": "Leyla Aliyeva and Arzu Aliyeva visit Urban Expo exhibition",
+      "title": "ANAS hosts launch of landmark book on Azerbaijan’s 44-Day Patriotic War",
       "source": "Azernews",
-      "url": "https://www.azernews.az/nation/258752.html",
-      "published_date": "2026-05-22T06:08:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "ASELSAN, Türk Telekom sign landmark deal for domestic tech ecosystem",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/258713.html",
-      "published_date": "2026-05-21T19:50:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump to talk with Taiwan’s president despite protocol break",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/258725.html",
-      "published_date": "2026-05-21T19:20:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Leyla Aliyeva meets with King Mswati III of Eswatini",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/events/258746.html",
-      "published_date": "2026-05-21T19:09:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Seventh EU-Azerbaijan Security Dialogue held in Baku (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4189574.html",
-      "published_date": "2026-05-21T18:42:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘We are not inclined to create tension’ – Yerevan responds to Moscow’s claims of ‘unfriendly steps’",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/yerevan-responds-to-shoigus-accusations/",
-      "published_date": "2026-05-21T17:52:02Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/culture/258792.html",
+      "published_date": "2026-05-22T14:59:20Z",
+      "category": "Military"
     },
     {
       "title": "Joe Wilson: ‘Georgia’s government supports Tehran’s terrorist regime’",
@@ -270,25 +291,32 @@
       "category": "Military"
     },
     {
-      "title": "Azerbaijani Defense Ministry presents review of events of last week (VIDEO)",
+      "title": "Uzbekistan fuel station payments hit $180 million in early May",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4187068.html",
-      "published_date": "2026-05-17T10:59:27Z",
-      "category": "Military"
+      "url": "https://www.trend.az/business/4189937.html",
+      "published_date": "2026-05-22T17:24:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Iran calls for stronger urban resilience and post-conflict reconstruction efforts",
+      "title": "Electric vehicle sales rising globally",
       "source": "Azernews",
-      "url": "https://www.azernews.az/nation/258512.html",
-      "published_date": "2026-05-17T08:39:00Z",
-      "category": "Military"
+      "url": "https://www.azernews.az/region/258778.html",
+      "published_date": "2026-05-22T16:35:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Ukraine downs 279 Russian drones overnight",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/258511.html",
-      "published_date": "2026-05-17T08:23:09Z",
-      "category": "Military"
+      "title": "Azerbaijan, Georgia, Türkiye, Bulgaria to develop Roadmap for green energy corridor project",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/green-economy/4189987.html",
+      "published_date": "2026-05-22T15:09:28Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Baku Call to Action aims to strengthen climate resilience of housing supply systems",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4189972.html",
+      "published_date": "2026-05-22T14:32:35Z",
+      "category": "Energy"
     },
     {
       "title": "Kazakhstan set to drive industrial localization through energy modernization project",
@@ -403,32 +431,25 @@
       "category": "Energy"
     },
     {
-      "title": "Azerbaijan reveals details on progress of renewable energy project",
+      "title": "Tajik Spitamen Bank opens tender for extension of Thales payShield",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/green-economy/4188149.html",
-      "published_date": "2026-05-19T13:46:56Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/business/4189910.html",
+      "published_date": "2026-05-22T20:26:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Pakistan explores energy solutions modeled after Azerbaijan - Minister (Exclusive)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/business/4188248.html",
-      "published_date": "2026-05-19T13:39:37Z",
-      "category": "Energy"
-    },
-    {
-      "title": "President Aliyev highlights Azerbaijan’s expanding energy footprint across Europe",
+      "title": "Samsung loses leadership in key market",
       "source": "Azernews",
-      "url": "https://www.azernews.az/analysis/258613.html",
-      "published_date": "2026-05-19T11:57:00Z",
-      "category": "Energy"
+      "url": "https://www.azernews.az/region/258782.html",
+      "published_date": "2026-05-22T17:10:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Electricity generation potential of small HPPs in Iran reaches new high",
+      "title": "Regulation of land markets to halt rising housing costs – Baku Call to Action",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4187320.html",
-      "published_date": "2026-05-18T19:11:00Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/business/4189981.html",
+      "published_date": "2026-05-22T15:00:18Z",
+      "category": "Economy"
     },
     {
       "title": "Kazakhstan drafts legislative amendments for urban air taxi operations",
@@ -550,164 +571,143 @@
       "category": "Economy"
     },
     {
-      "title": "Azerbaijan reports growth in revenue for its transport sector",
+      "title": "Georgia’s port traffic shows mixed trends in first quarter of 1Q2026",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4189020.html",
-      "published_date": "2026-05-21T14:09:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/business/4189923.html",
+      "published_date": "2026-05-22T23:57:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Azerbaijan’s butter imports surpass domestic production for first time in years",
+      "title": "CNPC Turkmenistan branch announces tender for corrosion inhibitors",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4189909.html",
+      "published_date": "2026-05-22T22:46:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cargo turnover at Georgian ports grows nearly 20% in 1Q2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4189928.html",
+      "published_date": "2026-05-22T21:33:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "NYC World Cup tickets at record-low price",
       "source": "Azernews",
-      "url": "https://www.azernews.az/business/258726.html",
-      "published_date": "2026-05-21T13:46:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/region/258774.html",
+      "published_date": "2026-05-22T19:50:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Harmony between historical heritage and modern architecture remains especially important – Kyrgyz official",
+      "title": "569 NGOs from 103 countries sign Baku Declaration on WUF13",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4189494.html",
-      "published_date": "2026-05-21T13:37:58Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/azerbaijan/4190028.html",
+      "published_date": "2026-05-22T19:32:04Z",
+      "category": "Local Events"
     },
     {
-      "title": "Former deputy head of Georgia’s State Security Service arrested on bribery charges",
+      "title": "Uzbekistan’s UzNIF posts $32.5mln net loss in 1Q2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/finance/4189705.html",
+      "published_date": "2026-05-22T19:17:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Great Pyramid may resist earthquakes",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/258776.html",
+      "published_date": "2026-05-22T18:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "IFRC Tajikistan invites bids for design and printing services for health IEC materials",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4189915.html",
+      "published_date": "2026-05-22T18:22:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pashinyan comments on gas prices, recent assault and exposing agents as key election looms",
       "source": "JAMnews",
-      "url": "https://jam-news.net/former-deputy-head-of-georgias-state-security-service-arrested-on-bribery-charges/",
-      "published_date": "2026-05-22T13:31:00Z",
+      "url": "https://jam-news.net/pashinyan-comments-on-the-main-events-of-the-past-week/",
+      "published_date": "2026-05-22T17:50:58Z",
       "category": "Local Events"
     },
     {
-      "title": "Azerbaijan transfers WUF chairmanship to Mexico (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4189933.html",
-      "published_date": "2026-05-22T13:22:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Mirziyoyev acknowledges progress in public sector modernization",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4189929.html",
-      "published_date": "2026-05-22T13:14:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan contributes to strengthening logistics connectivity - prime minister (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4189921.html",
-      "published_date": "2026-05-22T13:14:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Women act as leaders of reconstruction, peacebuilding and social resilience - Sevinj Fataliyeva",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4189924.html",
-      "published_date": "2026-05-22T13:10:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anar Guliyev: WUF13 demonstrated global commitment to sustainable urban future",
+      "title": "Heatwave forecast for Britain France and Spain",
       "source": "Azernews",
-      "url": "https://www.azernews.az/nation/258775.html",
-      "published_date": "2026-05-22T12:38:00Z",
+      "url": "https://www.azernews.az/region/258777.html",
+      "published_date": "2026-05-22T17:40:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Organized by PASHA Holding, the “PASHA Hackathon 6.0” concluded last week (PHOTO)",
+      "title": "Sheikh Mansour bin Zayed Al Nahyan sends congratulatory letter to President Ilham Aliyev",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4189912.html",
-      "published_date": "2026-05-22T12:30:00Z",
+      "url": "https://www.trend.az/azerbaijan/politics/4190005.html",
+      "published_date": "2026-05-22T16:55:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Azerbaijan announces free baggage allowance on Baku-Tbilisi train",
+      "title": "​D-8 Secretary-General discusses accelerating launch of three regional centers in Baku",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4189900.html",
-      "published_date": "2026-05-22T12:19:00Z",
+      "url": "https://www.trend.az/business/4190022.html",
+      "published_date": "2026-05-22T16:49:47Z",
       "category": "Local Events"
     },
     {
-      "title": "Belarus’ Gomel region hosts Fergana business and farming delegation",
+      "title": "UAE Vice President sends congratulatory letter to President Ilham Aliyev",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4189902.html",
-      "published_date": "2026-05-22T12:15:36Z",
+      "url": "https://www.trend.az/azerbaijan/politics/4190002.html",
+      "published_date": "2026-05-22T16:48:06Z",
       "category": "Local Events"
     },
     {
-      "title": "Azerbaijan calls for shift from ambition to action in global urban dev't agenda",
+      "title": "President of Paraguay sends congratulatory letter to President Ilham Aliyev",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4189891.html",
-      "published_date": "2026-05-22T12:13:00Z",
+      "url": "https://www.trend.az/azerbaijan/politics/4190017.html",
+      "published_date": "2026-05-22T16:43:30Z",
       "category": "Local Events"
     },
     {
-      "title": "WUF13 sets record attendance - Anaclaudia Rossbach",
+      "title": "Director-General of ICESCO sends congratulatory letter to President Ilham Aliyev",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4189894.html",
-      "published_date": "2026-05-22T12:12:00Z",
+      "url": "https://www.trend.az/azerbaijan/politics/4190014.html",
+      "published_date": "2026-05-22T16:40:35Z",
       "category": "Local Events"
     },
     {
-      "title": "Azerbaijan highlights record-scale participation and outcomes of WUF13 in Baku",
+      "title": "Chairman of State Affairs Commission of Democratic People's Republic of Korea congratulates President Ilham Aliyev",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4189887.html",
-      "published_date": "2026-05-22T12:03:50Z",
+      "url": "https://www.trend.az/azerbaijan/politics/4190011.html",
+      "published_date": "2026-05-22T16:38:42Z",
       "category": "Local Events"
     },
     {
-      "title": "Azerbaijan participates in int'l forum on music education in Tashkent",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/258771.html",
-      "published_date": "2026-05-22T11:58:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uzbekistan showcases ministries’ results in digital transformation and efficient governance",
+      "title": "King of Bahrain congratulates President Ilham Aliyev",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4189877.html",
-      "published_date": "2026-05-22T11:22:00Z",
+      "url": "https://www.trend.az/azerbaijan/politics/4190008.html",
+      "published_date": "2026-05-22T16:36:42Z",
       "category": "Local Events"
     },
     {
-      "title": "Closing ceremony of WUF13 concludes in Baku (PHOTO)",
+      "title": "UAE President sends congratulatory letter to President Ilham Aliyev",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4189875.html",
-      "published_date": "2026-05-22T11:21:00Z",
+      "url": "https://www.trend.az/azerbaijan/politics/4189999.html",
+      "published_date": "2026-05-22T16:34:08Z",
       "category": "Local Events"
     },
     {
-      "title": "National Art Museum immerses audience in romantic atmosphere",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/258763.html",
-      "published_date": "2026-05-22T11:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New group of former IDPs returns home to Azerbaijan’s Khojavand (PHOTO)",
+      "title": "Azerbaijan-Tajikistan joint projects deliver results - Avesto Group (Exclusive)",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4189862.html",
-      "published_date": "2026-05-22T11:14:53Z",
+      "url": "https://www.trend.az/business/4189949.html",
+      "published_date": "2026-05-22T16:19:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Kazakhstan, Japan set roadmap for deeper co-op in urban innovation and Smart Cities",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4189874.html",
-      "published_date": "2026-05-22T11:08:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Summer festival “Force of Love” 2026 to be held in Baku",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4189873.html",
-      "published_date": "2026-05-22T11:01:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bahar Muradova: Cities of future should be equally comfortable and accessible for everyone",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/258768.html",
-      "published_date": "2026-05-22T10:56:00Z",
+      "title": "‘Polite children are seen as weak’: violence among teenagers on rise in Armenia",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/polite-children-are-seen-as-weak-violence-among-teenagers-on-rise-in-armenia/",
+      "published_date": "2026-05-22T15:45:51Z",
       "category": "Local Events"
     }
   ]
