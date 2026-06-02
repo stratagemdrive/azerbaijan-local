@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T16:38:50Z",
+  "generated_at": "2026-06-02T00:06:36Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "‘No grounds for referendum yet’: Yerevan responds to calls to choose between EU and EAEU",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/no-grounds-for-referendum-yet-yerevan-responds-to-calls-to-choose-between-eu-and-eaeu/",
+      "published_date": "2026-06-01T17:04:45Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Azerbaijan, Russia's Tatarstan advance talks on industrial park initiative (PHOTO)",
       "source": "Trend News Agency",
@@ -141,13 +148,6 @@
       "source": "Trend News Agency",
       "url": "https://www.trend.az/azerbaijan/politics/4192314.html",
       "published_date": "2026-05-29T14:06:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US and Iran 'very close' to deal, Vance says",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/259070.html",
-      "published_date": "2026-05-29T09:13:00Z",
       "category": "Diplomacy"
     },
     {
@@ -291,6 +291,62 @@
       "category": "Military"
     },
     {
+      "title": "Turkmenistan's well repair trust boosts oil output beyond annual target as of 2025",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4192848.html",
+      "published_date": "2026-06-01T23:07:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Uzbekistan’s electricity generation rises 6.6% year-on-year in April 2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4192804.html",
+      "published_date": "2026-06-01T21:11:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "SOCAR, KazMunayGas discuss cooperation during Baku Energy Week",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/business/4193226.html",
+      "published_date": "2026-06-01T20:08:10Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Azerbaijan’s FM, U.S. Assistant Secretary of State discuss energy security issues (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4193217.html",
+      "published_date": "2026-06-01T18:39:14Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Fuel prices rise again in Bangladesh",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/259210.html",
+      "published_date": "2026-06-01T18:22:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "SOCAR president, Uzbekneftegaz board chairman review cooperation prospects",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4193206.html",
+      "published_date": "2026-06-01T17:43:47Z",
+      "category": "Energy"
+    },
+    {
+      "title": "SOCAR and Shell explore cooperation opportunities",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4193203.html",
+      "published_date": "2026-06-01T17:00:43Z",
+      "category": "Energy"
+    },
+    {
+      "title": "SOCAR, ExxonMobil Corporation brainstorm work progress on MoU signed in 2025",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4193187.html",
+      "published_date": "2026-06-01T16:50:02Z",
+      "category": "Energy"
+    },
+    {
       "title": "Bulgaria emphasizes significance of green energy corridor project with Azerbaijan (Exclusive)",
       "source": "Trend News Agency",
       "url": "https://www.trend.az/business/4193184.html",
@@ -375,60 +431,46 @@
       "category": "Energy"
     },
     {
-      "title": "Baku hosts 1st meeting of D-8 energy ministers (PHOTO)",
+      "title": "Kazakhstan reports growth in secured consumer loan applications in 1Q2026",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4193145.html",
-      "published_date": "2026-06-01T14:18:00Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/business/4192961.html",
+      "published_date": "2026-06-02T00:04:00Z",
+      "category": "Economy"
     },
     {
-      "title": "ABB Energy Industries presents method for assessing levels of autonomy in industry",
+      "title": "Azerbaijan’s business loans hit $9.6B, capturing over half of total bank portfolio",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4193127.html",
-      "published_date": "2026-06-01T14:04:14Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/business/4193232.html",
+      "published_date": "2026-06-02T00:00:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Kyrgyzstan boasts favorable conditions for dev't of solar and wind energy, minister says",
+      "title": "Kazakhstan reports drop in mortgage loan applications in 1Q2026",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4193120.html",
-      "published_date": "2026-06-01T13:58:56Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/business/4192936.html",
+      "published_date": "2026-06-01T22:07:00Z",
+      "category": "Economy"
     },
     {
-      "title": "SLB signals future of oil and gas lies in autonomous technologies",
+      "title": "Uzbekistan's startup sector reaches new milestone in StartupBlink ranking",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4193113.html",
-      "published_date": "2026-06-01T13:55:54Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/business/4192812.html",
+      "published_date": "2026-06-01T19:25:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Georgia highlights renewables and regional co-op as key to energy security",
+      "title": "Azerbaijan sheds light on its business loan portfolio in transport sector",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/scaucasus/georgia/4193111.html",
-      "published_date": "2026-06-01T13:49:23Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/business/4192782.html",
+      "published_date": "2026-06-01T18:28:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Erdoğan says Türkiye-Azerbaijan energy alliance proving its strategic value",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/259195.html",
-      "published_date": "2026-06-01T12:18:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Azerbaijan seeks to anchor Eurasia’s future through green energy corridors",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/analysis/259032.html",
-      "published_date": "2026-06-01T10:28:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "bp launches first commercial gas production at ACG field in Azerbaijan",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/oil_and_gas/259188.html",
-      "published_date": "2026-06-01T10:05:00Z",
-      "category": "Energy"
+      "title": "Azerbaijan, U.S. discuss expansion of economic ties (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4193214.html",
+      "published_date": "2026-06-01T18:26:23Z",
+      "category": "Economy"
     },
     {
       "title": "Iran releases details on Golestan Province export volumes",
@@ -529,46 +571,74 @@
       "category": "Economy"
     },
     {
-      "title": "State Employment Agency provides jobs to 1,500 people with disabilities",
+      "title": "Turkmenistan's well repair trust exceeds annual commissioning target for 2025",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4192842.html",
+      "published_date": "2026-06-01T20:12:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Greece offers free housing for cat caretakers",
       "source": "Azernews",
-      "url": "https://www.azernews.az/nation/259147.html",
-      "published_date": "2026-05-31T13:10:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/region/259208.html",
+      "published_date": "2026-06-01T19:25:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Kyrgyzneftegaz posts $25 mln in net profit for 2025",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4192550.html",
-      "published_date": "2026-05-31T12:22:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "China and Russia dominate Uzbekistan's imports in 4M2026",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4192468.html",
-      "published_date": "2026-05-31T11:36:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "State Customs Committee prevents sale of illegally imported medicines",
+      "title": "Malaysia bans social media for under-16s",
       "source": "Azernews",
-      "url": "https://www.azernews.az/nation/259144.html",
-      "published_date": "2026-05-31T11:28:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/region/259207.html",
+      "published_date": "2026-06-01T18:53:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "TABCA and Oppenheimer discuss Wall Street capital market pipelines for Turkmen businesses",
+      "title": "President Ilham Aliyev continues to receive congratulations",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4192556.html",
-      "published_date": "2026-05-31T10:21:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/azerbaijan/politics/4189471.html",
+      "published_date": "2026-06-01T18:06:52Z",
+      "category": "Local Events"
     },
     {
-      "title": "Uzbekistan imports jump to $16.3 billion in 4M2026",
+      "title": "Binance opens US stocks to all users",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/259211.html",
+      "published_date": "2026-06-01T17:52:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "China unveils new smart device chips",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/259209.html",
+      "published_date": "2026-06-01T17:19:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Georgia to host ceremony for upgraded Baku-Tbilisi-Kars railway",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/business/259217.html",
+      "published_date": "2026-06-01T17:17:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkmen exchange external quotations edge lower amid light industry decline",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4192446.html",
-      "published_date": "2026-05-31T09:24:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/business/4192761.html",
+      "published_date": "2026-06-01T17:12:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Houthis said to be ready to join Hezbollah fight against Israel",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/259213.html",
+      "published_date": "2026-06-01T16:46:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Ilham Aliyev shows commemorative gift from President Donald Trump to U.S. Assistant Secretary of State (VIDEO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4193209.html",
+      "published_date": "2026-06-01T16:27:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Head of Azerbaijan's top cinema network attends Cannes Film Festival (PHOTO)",
@@ -638,76 +708,6 @@
       "source": "Azernews",
       "url": "https://www.azernews.az/culture/259200.html",
       "published_date": "2026-06-01T13:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Guarneri Violin of 1715 in magical hands of Elvin Hojay Ganiyev – amazing evening in Baku",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/259204.html",
-      "published_date": "2026-06-01T12:40:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "International Children's Day celebrated at Open Library",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/259199.html",
-      "published_date": "2026-06-01T11:24:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "PHR: ‘For children in Georgia, every day is a struggle for survival’",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/phr-for-children-in-georgia-every-day-is-a-struggle-for-survival/",
-      "published_date": "2026-06-01T11:20:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan clears over 7500 hectares of land in major demining operation",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/events/259189.html",
-      "published_date": "2026-06-01T11:19:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Weather forecast: Early summer brings sun, clouds, and brief rain",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/lifestyle/259187.html",
-      "published_date": "2026-06-01T10:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Another country introduces social media ban for minors",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/259184.html",
-      "published_date": "2026-06-01T09:43:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran seeks regional bloc against US influence in Middle East",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/259180.html",
-      "published_date": "2026-06-01T09:24:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Latest news in Georgia, Armenia, Azerbaijan, summary. Live",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/news-from-georgia-azerbaijan-armenia-1-5-june-2026/",
-      "published_date": "2026-06-01T04:47:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "FINCA Tajikistan opens tender for production of Korti Milli plastic cards",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4192655.html",
-      "published_date": "2026-05-31T23:11:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Atomstroyexport seeks proposals for geodetic equipment supply in Uzbekistan",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4192551.html",
-      "published_date": "2026-05-31T22:15:00Z",
       "category": "Local Events"
     }
   ]
