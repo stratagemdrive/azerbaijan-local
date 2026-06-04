@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T15:27:36Z",
+  "generated_at": "2026-06-04T00:25:09Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,34 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Kazmortransflot sets record in container shipments along Trans-Caspian International Transport Route",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4194017.html",
+      "published_date": "2026-06-03T19:55:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France imposed record fine on Shein",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/259304.html",
+      "published_date": "2026-06-03T19:30:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kyrgyzstan to become non-permanent member of UN Security Council",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kyrgyzstan/4194238.html",
+      "published_date": "2026-06-03T18:54:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "TRIPP to provide extraordinary opportunities for Azerbaijan and Armenia - Marco Rubio",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4194232.html",
+      "published_date": "2026-06-03T18:37:54Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Baku hosts Azerbaijan-EU negotiations on new partnership framework (PHOTO)",
       "source": "Trend News Agency",
@@ -123,32 +151,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Washington’s South Caucasus strategy: what lies behind its strategic partnership with Azerbaijan?",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/washingtons-south-caucasus-strategy-what-lies-behind-its-strategic-partnership-with-azerbaijan/",
-      "published_date": "2026-06-02T12:05:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘No grounds for referendum yet’: Yerevan responds to calls to choose between EU and EAEU",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/no-grounds-for-referendum-yet-yerevan-responds-to-calls-to-choose-between-eu-and-eaeu/",
-      "published_date": "2026-06-01T17:04:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Azerbaijan, Russia's Tatarstan advance talks on industrial park initiative (PHOTO)",
+      "title": "Azerbaijani and Kyrgyz military security officials hold meeting (PHOTO)",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4193173.html",
-      "published_date": "2026-06-01T15:37:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Türkiye’s regional vision seeks to reshape Middle Eastern security, but can it really?",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/analysis/259202.html",
-      "published_date": "2026-06-01T15:14:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.trend.az/azerbaijan/politics/4194227.html",
+      "published_date": "2026-06-03T16:56:18Z",
+      "category": "Military"
     },
     {
       "title": "IRGC commander warns Bab al-Mandab Strait could face disruption",
@@ -284,11 +291,25 @@
       "category": "Military"
     },
     {
-      "title": "Israel and Lebanon hold first military talks in decades in Washington",
+      "title": "Iran’s renewable energy sector hits new milestone",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4194070.html",
+      "published_date": "2026-06-03T23:02:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Baku Energy Week highlights Azerbaijan’s rising role in global energy security",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/259115.html",
-      "published_date": "2026-05-30T15:10:00Z",
-      "category": "Military"
+      "url": "https://www.azernews.az/nation/259291.html",
+      "published_date": "2026-06-03T16:25:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Climate change emerges as biggest threat to global food security",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/analysis/259216.html",
+      "published_date": "2026-06-03T15:58:00Z",
+      "category": "Energy"
     },
     {
       "title": "IE University Announces admissions to the Global MBA Program in Azerbaijan with the support of PASHA Holding and SOCAR",
@@ -410,25 +431,60 @@
       "category": "Energy"
     },
     {
-      "title": "Deloitte's expert highlights path to making green electricity financeable asset",
+      "title": "EBRD forecasts Kazakhstan's GDP growth to slow in 2026",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/green-economy/4193670.html",
-      "published_date": "2026-06-02T13:51:18Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/casia/kazakhstan/4194134.html",
+      "published_date": "2026-06-04T00:06:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Azerbaijan sheds light on large-scale investments in upgrading its power grid",
+      "title": "EBRD forecasts Kyrgyzstan's economic growth to moderate despite strong start in 2026",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/energy/4193650.html",
-      "published_date": "2026-06-02T13:46:42Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/casia/kyrgyzstan/4194142.html",
+      "published_date": "2026-06-03T22:15:00Z",
+      "category": "Economy"
     },
     {
-      "title": "SLB foresees transition to autonomous management of pipeline infrastructure",
+      "title": "EBRD launches tender for feasibility study of logistics center in Kyrgyzstan",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4193653.html",
-      "published_date": "2026-06-02T13:35:18Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/business/4194002.html",
+      "published_date": "2026-06-03T20:19:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "EBRD projects sustained economic growth for Uzbekistan",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4194153.html",
+      "published_date": "2026-06-03T19:14:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "San Marino press highlights importance of direct gas supplies from Azerbaijan",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/business/4194236.html",
+      "published_date": "2026-06-03T18:23:56Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran reports $299 million in exports to Afghanistan via Dogarun Trade Zone",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4193980.html",
+      "published_date": "2026-06-03T17:16:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Expert: Former IDPs becoming “direct partners” in Azerbaijan’s economic future",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/259303.html",
+      "published_date": "2026-06-03T16:50:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Parents of children with Duchenne muscular dystrophy meet Georgian prime minister",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/parents-of-children-with-duchenne-muscular-dystrophy-meet-georgian-prime-minister/",
+      "published_date": "2026-06-03T15:59:07Z",
+      "category": "Economy"
     },
     {
       "title": "Kyrgyzstan exports more than 18,000 tons of regulated plant products in 5M2026",
@@ -515,60 +571,81 @@
       "category": "Economy"
     },
     {
-      "title": "EFSD approves $60M loan to modernise drinking water network for 158,000 residents in Kyrgyzstan",
+      "title": "Islamic microfinance in Uzbekistan surges eightfold in one year",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4193415.html",
-      "published_date": "2026-06-02T19:22:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/business/finance/4194054.html",
+      "published_date": "2026-06-03T21:16:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "First robotaxi launches in Germany",
+      "title": "Azerbaijan reaches final of European Minifootball Championship",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/society/4194252.html",
+      "published_date": "2026-06-03T21:11:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Grand opening of Center for Turkic Culture and Heritage took place in Warsaw (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/4194240.html",
+      "published_date": "2026-06-03T19:05:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "France invests in Moon and Mars missions",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/259264.html",
-      "published_date": "2026-06-02T17:46:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/region/259306.html",
+      "published_date": "2026-06-03T18:52:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Armenia officially opens its first AI factory",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/armenia-officially-opens-its-first-ai-factory/",
-      "published_date": "2026-06-02T16:59:53Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Georgia PM’s report: new agenda with the US, the European Union and economic growth",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/georgia-pms-report-new-agenda-with-the-us-the-european-union-and-economic-growth/",
-      "published_date": "2026-06-02T15:59:16Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Baku hosts first meeting of Azerbaijan-U.S. economic dialogue (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/energy/4193729.html",
-      "published_date": "2026-06-02T15:18:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Uzbekistan's Fergana delegation secures new investment partnerships during Malaysia visit",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4193691.html",
-      "published_date": "2026-06-02T14:05:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Azerbaijani minister highlights strategic importance of first economic dialogue with U.S.",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4193678.html",
-      "published_date": "2026-06-02T13:54:24Z",
-      "category": "Economy"
-    },
-    {
-      "title": "GECF warns geopolitical disruptions are becoming “new norm” for global energy markets",
+      "title": "Meta scales back monitoring of staff activity",
       "source": "Azernews",
-      "url": "https://www.azernews.az/business/259249.html",
-      "published_date": "2026-06-02T12:27:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/region/259307.html",
+      "published_date": "2026-06-03T18:25:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkmengas opens tender for plant and electrical equipment procurement",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4194050.html",
+      "published_date": "2026-06-03T18:12:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Google plans to release sterile mosquitoes",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/259305.html",
+      "published_date": "2026-06-03T17:54:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Secretary General of Nizami Ganjavi International Center Rovshan Muradov passes away",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/society/4194224.html",
+      "published_date": "2026-06-03T17:43:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pashinyan plans to meet with Putin after elections",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/259308.html",
+      "published_date": "2026-06-03T17:21:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Uzbekistan’s Trustbank approves $83.8 million capital increase through share capitalization",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/finance/4193864.html",
+      "published_date": "2026-06-03T16:21:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijan actively strengthens railway infrastructure as part of TRIPP (Exclusive)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4194222.html",
+      "published_date": "2026-06-03T16:19:31Z",
+      "category": "Local Events"
     },
     {
       "title": "Baku Shipyard marks keel laying of first container ship for Caspian operations (PHOTO)",
@@ -631,83 +708,6 @@
       "source": "Trend News Agency",
       "url": "https://www.trend.az/casia/kazakhstan/4194184.html",
       "published_date": "2026-06-03T13:29:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump says he would like to meet Mojtaba Khamenei",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/259300.html",
-      "published_date": "2026-06-03T13:28:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uzbekistan showcases progress in gender equality at IPU conference in Belgrade",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4194178.html",
-      "published_date": "2026-06-03T13:26:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope Leo XIV sends congratulatory letter to President Ilham Aliyev",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/259309.html",
-      "published_date": "2026-06-03T13:22:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Swiss company outlines role in bp-led Sangachal terminal electrification",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/energy/4194155.html",
-      "published_date": "2026-06-03T13:17:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Central Asia’s multimodal transport corridors gain traction, Uzbek expert says",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4194168.html",
-      "published_date": "2026-06-03T13:14:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope Leo XIV sends congratulatory letter to President Ilham Aliyev",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4194157.html",
-      "published_date": "2026-06-03T13:09:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "FAO launches water and land resilience initiative for Central Asia in Uzbekistan",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/green-economy/4194163.html",
-      "published_date": "2026-06-03T13:07:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tajikistan, Pakistan trade turnover reaches $43 mln in 2025",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/tajikistan/4194169.html",
-      "published_date": "2026-06-03T13:07:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fitch upgrades Uzbekistan’s outlook to positive, affirms ‘BB’ sovereign rating",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/finance/4194164.html",
-      "published_date": "2026-06-03T13:07:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "bp expands advanced drilling technologies at ACG to boost efficiency",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/oil_and_gas/259289.html",
-      "published_date": "2026-06-03T12:57:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ex-official accused of espionage says Georgian Dream ‘no longer exists’",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/former-official-detained-for-espionage/",
-      "published_date": "2026-06-03T12:41:22Z",
       "category": "Local Events"
     }
   ]
