@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T12:22:03Z",
+  "generated_at": "2026-06-07T23:59:17Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,41 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "North Korea defies UN sanctions with 1.5 million tons of coal exports and massive fuel smuggling",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/259448.html",
+      "published_date": "2026-06-07T19:31:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Grigoryan says Armenia seeks rapid progress on peace deal with Azerbaijan",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/karabakh/259464.html",
+      "published_date": "2026-06-07T17:55:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Most British voters now support reversing Brexit decision top polling analyst says",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/259444.html",
+      "published_date": "2026-06-07T16:29:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mirzoyan calls for “revitalization” of Armenia-Russia ties after elections",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/259459.html",
+      "published_date": "2026-06-07T14:50:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pashinyan signals possible future visit to Baku, reaffirms multi-vector foreign policy",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/karabakh/259460.html",
+      "published_date": "2026-06-07T13:38:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Türkiye, Azerbaijan and Georgia to hold trilateral foreign ministers’ meeting in Istanbul",
       "source": "Azernews",
@@ -116,39 +151,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Interest of Azerbaijani students to study in U.S. continues to grow - embassy",
+      "title": "Iran’s MFA characterizes strikes on Israel as lawful self-defense",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4195243.html",
-      "published_date": "2026-06-06T10:36:12Z",
-      "category": "Diplomacy"
+      "url": "https://www.trend.az/iran/4195459.html",
+      "published_date": "2026-06-07T21:28:13Z",
+      "category": "Military"
     },
     {
-      "title": "Dutch ambassador reports ongoing preparations for PM's visit to Azerbaijan (Exclusive)",
+      "title": "Trump to urge Netanyahu to refrain from striking Iran after missile attack",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4195232.html",
-      "published_date": "2026-06-06T10:03:06Z",
-      "category": "Diplomacy"
+      "url": "https://www.trend.az/world/us/4195450.html",
+      "published_date": "2026-06-07T20:44:11Z",
+      "category": "Military"
     },
     {
-      "title": "Bulgaria and Azerbaijan expect to sign important agreements in coming months - ambassador",
+      "title": "Israeli military intercepts all missiles fired from Iran",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4195223.html",
-      "published_date": "2026-06-06T09:53:41Z",
-      "category": "Diplomacy"
+      "url": "https://www.trend.az/world/israel/4195447.html",
+      "published_date": "2026-06-07T20:32:01Z",
+      "category": "Military"
     },
     {
-      "title": "Uzbekistan, SCO members focus on cybersecurity, crime prevention",
+      "title": "Israel announces its intention to respond to Iran's missile attack",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4195226.html",
-      "published_date": "2026-06-06T09:46:36Z",
-      "category": "Diplomacy"
+      "url": "https://www.trend.az/world/israel/4195438.html",
+      "published_date": "2026-06-07T20:02:58Z",
+      "category": "Military"
     },
     {
-      "title": "Hungarian ambassador highlights relations with Azerbaijan",
+      "title": "Israel detects missile launches from Iran",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4195199.html",
-      "published_date": "2026-06-06T09:08:32Z",
-      "category": "Diplomacy"
+      "url": "https://www.trend.az/world/israel/4195435.html",
+      "published_date": "2026-06-07T19:41:52Z",
+      "category": "Military"
+    },
+    {
+      "title": "Netanyahu says Israel killed 350 militants this week, Hezbollah politely disagrees from behind rubble",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/259461.html",
+      "published_date": "2026-06-07T19:00:00Z",
+      "category": "Military"
     },
     {
       "title": "US-Iran hostilities intensify around Hormuz despite ceasefire efforts",
@@ -249,46 +291,18 @@
       "category": "Military"
     },
     {
-      "title": "Japan and US invest in AI for science",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/259394.html",
-      "published_date": "2026-06-05T18:19:00Z",
-      "category": "Military"
+      "title": "Iran reveals funding needed for renewable energy power plants",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4195382.html",
+      "published_date": "2026-06-07T19:33:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Guide survives six days alone after Everest separation",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/259396.html",
-      "published_date": "2026-06-05T17:48:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Azercell and AWS develop a technology platform for training AI models in Azerbaijani language",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/business/259392.html",
-      "published_date": "2026-06-05T16:10:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "New NDAA bill calls for US assessment of Russian and Chinese intelligence networks in Georgia",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/what-the-new-ndaa-bill-says-about-georgia/",
-      "published_date": "2026-06-05T11:24:04Z",
-      "category": "Military"
-    },
-    {
-      "title": "Tragedy in Sea of Azov and urgent need for vigilance abroad",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/analysis/259372.html",
-      "published_date": "2026-06-05T10:50:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky proposes Putin meeting without US mediation",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/259358.html",
-      "published_date": "2026-06-05T09:04:00Z",
-      "category": "Military"
+      "title": "Azerbaijan's Azerenergy opens tender for procurement of power transmission services",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/tenders/4195292.html",
+      "published_date": "2026-06-07T18:16:00Z",
+      "category": "Energy"
     },
     {
       "title": "Iran continues restoration of energy infrastructure",
@@ -417,18 +431,32 @@
       "category": "Energy"
     },
     {
-      "title": "Trump unveils “clean beautiful coal,” declares windmills personally offended him",
+      "title": "South Korean won slumps to weakest level against US dollar since 2009 financial crisis",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/259357.html",
-      "published_date": "2026-06-05T08:02:00Z",
-      "category": "Energy"
+      "url": "https://www.azernews.az/region/259447.html",
+      "published_date": "2026-06-07T16:58:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Georgian police seize 148 cryptocurrency mining machines",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/georgian-police-seize-cryptocurrency-machines/",
-      "published_date": "2026-06-05T05:44:59Z",
-      "category": "Energy"
+      "title": "IRS agrees Trump family now exists in separate tax dimension",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/259456.html",
+      "published_date": "2026-06-07T15:57:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Fitch: Azerbaijan aims to reduce non-oil deficit under 2027-2030 fiscal strategy",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/business/259457.html",
+      "published_date": "2026-06-07T14:09:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Azerbaijan highlights post-conflict recovery priorities at EBRD session in Riga",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/business/259455.html",
+      "published_date": "2026-06-07T13:15:00Z",
+      "category": "Economy"
     },
     {
       "title": "Turkmenistan sees over-fulfillment in construction and industrial output in 5M2026",
@@ -543,171 +571,143 @@
       "category": "Economy"
     },
     {
-      "title": "Uzbekistan, Greece hold talks on labor migration cooperation",
+      "title": "Israel have to agree to agreements between Washington and Tehran - Trump",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4195245.html",
-      "published_date": "2026-06-06T10:20:08Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/world/us/4195476.html",
+      "published_date": "2026-06-07T23:51:59Z",
+      "category": "Local Events"
     },
     {
-      "title": "Serdar Berdimuhamedov highlights importance of cultural cooperation with Azerbaijan",
+      "title": "Pashinyan says opposition leaders must face criminal liability",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/scaucasus/armenia/4195471.html",
+      "published_date": "2026-06-07T22:54:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "People of Armenia voted for peace and regional cooperation - Pashinyan",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/scaucasus/armenia/4195469.html",
+      "published_date": "2026-06-07T22:46:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenia and Georgia have strategic partnership - Pashinyan",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/scaucasus/armenia/4195465.html",
+      "published_date": "2026-06-07T22:41:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pashinyan declares victory in Armenian parliamentary elections",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/scaucasus/armenia/4195464.html",
+      "published_date": "2026-06-07T22:35:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran intends to increase trade turnover with Pakistan",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4195405.html",
+      "published_date": "2026-06-07T22:14:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkish and Iranian foreign ministers hold phone talk",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/turkey/4195456.html",
+      "published_date": "2026-06-07T21:01:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran closes western airspace indefinitely over security concerns",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4195453.html",
+      "published_date": "2026-06-07T20:47:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Preliminary results of elections in Armenia: Pashinyan's party takes lead",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/scaucasus/armenia/4195443.html",
+      "published_date": "2026-06-07T20:16:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Georgian PM congratulates Pashinyan on election victory",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/scaucasus/georgia/4195446.html",
+      "published_date": "2026-06-07T20:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran threatens possible strikes against U.S.and Israel",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4195431.html",
+      "published_date": "2026-06-07T19:12:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "China university admissions see 12.9 million high school grads compete in Gaokao",
       "source": "Azernews",
-      "url": "https://www.azernews.az/nation/259409.html",
-      "published_date": "2026-06-06T09:59:09Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/region/259443.html",
+      "published_date": "2026-06-07T18:28:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Iran’s product export via South Khorasan Province skyrockets",
+      "title": "Azerbaijani judokas win three medals at European Open Tournament",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4195162.html",
-      "published_date": "2026-06-06T08:41:55Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/azerbaijan/society/4195426.html",
+      "published_date": "2026-06-07T18:19:35Z",
+      "category": "Local Events"
     },
     {
-      "title": "Azerbaijan’s foreign assets to reach 117% of GDP in 2026, Fitch says",
+      "title": "Voting ends in Armenia’s parliamentary elections amid opposition claims of violations",
       "source": "Azernews",
-      "url": "https://www.azernews.az/business/259403.html",
-      "published_date": "2026-06-06T07:19:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/region/259465.html",
+      "published_date": "2026-06-07T18:07:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Kocharyan warns if PM Pashinyan won't leave office it will end very badly",
+      "title": "Pashinyan's party leads Armenia's elections with 56.7% of the vote - Exit poll",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/scaucasus/armenia/4195423.html",
+      "published_date": "2026-06-07T17:28:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Civil Contract rep. says election bribes amounted to $80 million",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/259452.html",
-      "published_date": "2026-06-07T11:47:00Z",
+      "url": "https://www.azernews.az/region/259462.html",
+      "published_date": "2026-06-07T17:21:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Condition of injured Azerbaijani citizens in Azov Sea revealed",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4195393.html",
-      "published_date": "2026-06-07T11:25:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fake bomb threats sent to voters during parliamentary elections in Armenia",
+      "title": "Classics & Supercars Festival concludes in Baku",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/259449.html",
-      "published_date": "2026-06-07T10:36:36Z",
+      "url": "https://www.azernews.az/events/259463.html",
+      "published_date": "2026-06-07T17:12:18Z",
       "category": "Local Events"
     },
     {
-      "title": "Armenian authorities arrest Russian-Armenian business figure over alleged election scheme",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/259446.html",
-      "published_date": "2026-06-07T09:40:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pashinyan: TRIPP project will benefit all countries in region",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/259442.html",
-      "published_date": "2026-06-07T08:57:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "TRIPP project to benefit all countries of our region – Armenian PM",
+      "title": "Baku hosts successful Classics & Supercars Festival (PHOTO/VIDEO)",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4195374.html",
-      "published_date": "2026-06-07T08:23:24Z",
+      "url": "https://www.trend.az/azerbaijan/society/4195419.html",
+      "published_date": "2026-06-07T17:05:02Z",
       "category": "Local Events"
     },
     {
-      "title": "Azercell showcases AI-driven cybersecurity solutions at IV National Cybersecurity Forum (PHOTO)",
+      "title": "Turkish, Azerbaijani and Georgian FMs to meet in Istanbul",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/it/4195371.html",
-      "published_date": "2026-06-07T08:12:57Z",
+      "url": "https://www.trend.az/azerbaijan/politics/4195417.html",
+      "published_date": "2026-06-07T16:46:31Z",
       "category": "Local Events"
     },
     {
-      "title": "Turkmenistan sees stronger agricultural production performance in key sectors as of 5M2026",
+      "title": "Azerbaijani SOFAZ announces tender for procurement of core switches",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4195218.html",
-      "published_date": "2026-06-07T08:09:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran announces volume of loans issued to services sector",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4195364.html",
-      "published_date": "2026-06-07T07:39:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan seeks interim Iran-US understanding through new Tehran initiative",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/259439.html",
-      "published_date": "2026-06-07T07:39:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany hosts 3rd forum of Azerbaijani engineers living in Europe (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4195368.html",
-      "published_date": "2026-06-07T07:32:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "China’s infrastructure sector narrows contraction pace amid escalating raw material costs",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4195262.html",
-      "published_date": "2026-06-07T07:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Georgia to restrict mobile phone use in schools",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/georgia-to-restrict-mobile-phones-in-schools/",
-      "published_date": "2026-06-07T07:10:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijani gymnasts advance to finals at Acrobatic and Aerobic Gymnastics World Cup",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/sports/259438.html",
-      "published_date": "2026-06-07T07:07:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LIVE: Armenia heads to polls in high-stakes 2026 parliamentary election. Photos and video",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/armenias-2026-parliamentary-elections-2/",
-      "published_date": "2026-06-07T06:46:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan, Turkmenistan unite to honor classic poets Shirvani and Azadi in Arkadag",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/259437.html",
-      "published_date": "2026-06-07T06:46:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Snap parliamentary elections being held in Armenia",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/scaucasus/armenia/4195360.html",
-      "published_date": "2026-06-07T06:07:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Voting begins in Armenia’s parliamentary elections",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/259435.html",
-      "published_date": "2026-06-07T06:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than 15,800 Uzbek citizens visit Egypt in four months",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4195259.html",
-      "published_date": "2026-06-07T05:17:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijani gymnasts reach World Cup finals (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4195350.html",
-      "published_date": "2026-06-07T04:24:12Z",
+      "url": "https://www.trend.az/business/tenders/4195290.html",
+      "published_date": "2026-06-07T16:14:00Z",
       "category": "Local Events"
     }
   ]
