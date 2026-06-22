@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T13:08:30Z",
+  "generated_at": "2026-06-22T00:03:07Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "EBRD, Uzbekistan sign enhanced cooperation agreement to boost public and private sectors",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4200197.html",
+      "published_date": "2026-06-21T22:31:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "More than 550 candidates take first-stage exam for Azerbaijan's diplomatic service",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/260048.html",
+      "published_date": "2026-06-21T16:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia showcases new rocket capabilities amid fragile regional normalization",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/260043.html",
+      "published_date": "2026-06-21T13:55:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "President Ilham Aliyev receives delegation from House of Representatives of Hashemite Kingdom of Jordan",
       "source": "Azernews",
@@ -22,6 +43,13 @@
       "source": "Trend News Agency",
       "url": "https://www.trend.az/business/4200110.html",
       "published_date": "2026-06-21T08:03:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "“We remember June 20”: new video in the Georgia Protests Live Blog",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/seven-years-after-the-gavrilov-night-in-tbilisi-video-georgia-protests-live-blog/",
+      "published_date": "2026-06-20T19:56:00Z",
       "category": "Diplomacy"
     },
     {
@@ -123,32 +151,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Azerbaijan's FM receives outgoing Malaysian ambassador (PHOTO)",
+      "title": "Azerbaijani Defense Ministry presents review of events of last week (VIDEO)",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4199821.html",
-      "published_date": "2026-06-19T14:41:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tajikistan and Georgia sign bilateral agreements to strengthen co-op",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/tajikistan/4199813.html",
-      "published_date": "2026-06-19T14:03:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tajikistan and Georgia discuss current state and prospects of bilateral relations",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/tajikistan/4199793.html",
-      "published_date": "2026-06-19T13:49:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Azerbaijani foreign minister receives German ambassador (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4199780.html",
-      "published_date": "2026-06-19T13:33:17Z",
-      "category": "Diplomacy"
+      "url": "https://www.trend.az/azerbaijan/politics/4200153.html",
+      "published_date": "2026-06-21T13:13:46Z",
+      "category": "Military"
     },
     {
       "title": "Israel claims it killed Hamas, PIJ fighters in Gaza",
@@ -284,11 +291,18 @@
       "category": "Military"
     },
     {
-      "title": "‘Managing threat of war’: Pashinyan on Grigoryan-Hajiyev meeting",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/grigoryan-hajiyev-meeting-in-dilijan/",
-      "published_date": "2026-06-18T18:32:50Z",
-      "category": "Military"
+      "title": "Iranian Central Oil Fields Company eyes multiplying gas production",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4200024.html",
+      "published_date": "2026-06-21T17:29:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Azerbaijan reveals top importers of its oil for 5M2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/energy/4199993.html",
+      "published_date": "2026-06-21T14:17:00Z",
+      "category": "Energy"
     },
     {
       "title": "SOCAR identifies source of oil pollution near Dubendi, launches cleanup and repair operations",
@@ -417,18 +431,32 @@
       "category": "Energy"
     },
     {
-      "title": "Kyrgyzstan continues hydropower repairs to strengthen energy reliability",
+      "title": "Iran's Mellat Insurance Company reports net profit",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kyrgyzstan/4199766.html",
-      "published_date": "2026-06-19T13:04:55Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/business/4200149.html",
+      "published_date": "2026-06-21T20:25:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Azerbaijan's non-oil sector emerges as key driver of investment appeal, minister says",
+      "title": "King Charles to become first modern British Monarch to publish personal tax bill",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/260049.html",
+      "published_date": "2026-06-21T17:12:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran reports increase in imports via Gilan Province",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4199723.html",
-      "published_date": "2026-06-19T12:38:42Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/business/4200122.html",
+      "published_date": "2026-06-21T16:30:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Azerbaijan advances its transition to non-oil economy",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/analysis/259946.html",
+      "published_date": "2026-06-21T13:23:00Z",
+      "category": "Economy"
     },
     {
       "title": "Azerbaijan's butter imports rise as shift to lower-cost suppliers reduces average prices",
@@ -543,171 +571,143 @@
       "category": "Economy"
     },
     {
-      "title": "EDB outlines Kyrgyzstan’s inflation trajectory amid changing economic conditions",
+      "title": "Kyrgyzstan builds new Kulanak canal section to strengthen water supply",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kyrgyzstan/4199939.html",
-      "published_date": "2026-06-20T07:34:51Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/casia/kyrgyzstan/4200194.html",
+      "published_date": "2026-06-21T21:30:27Z",
+      "category": "Local Events"
     },
     {
-      "title": "Uzbekistan’s mortgage market gets boost from $50 million EBRD loan",
+      "title": "Azerbaijani wrestlers win two medals at Beach Wrestling World Series stage (PHOTO)",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/finance/4199783.html",
-      "published_date": "2026-06-19T22:16:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/azerbaijan/society/4200189.html",
+      "published_date": "2026-06-21T20:42:04Z",
+      "category": "Local Events"
     },
     {
-      "title": "UK actress charged over meth import into Australia",
+      "title": "Azerbaijani boxers win 12 medals at the Olympic Hopes tournament (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/society/4200185.html",
+      "published_date": "2026-06-21T20:15:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran said to have left talks over Trump's remarks",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/259987.html",
-      "published_date": "2026-06-19T17:33:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/region/260054.html",
+      "published_date": "2026-06-21T20:00:11Z",
+      "category": "Local Events"
     },
     {
-      "title": "SQB secures EBRD funding to boost lending to young entrepreneurs",
+      "title": "Study examines plans to increase output from Iran’s Band-e-Karkheh Oilfield",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4199734.html",
-      "published_date": "2026-06-19T17:16:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/business/4200156.html",
+      "published_date": "2026-06-21T19:55:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Colombia heads to tense runoff vote as violence, armed groups dominate presidential campaign",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/260053.html",
+      "published_date": "2026-06-21T19:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Norway considers stricter citizenship rules, including longer residency requirements",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/260052.html",
+      "published_date": "2026-06-21T19:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran says US talks on memorandum depend on cessation of Lebanon hostilities",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4200180.html",
+      "published_date": "2026-06-21T18:56:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Netanyahu: No state attacked more by propaganda than Israel",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/260051.html",
+      "published_date": "2026-06-21T18:22:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tehran calls on U.S. to stop making threats and harsh statements",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4200176.html",
+      "published_date": "2026-06-21T18:11:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "US President warns Tehran against closing Hormuz",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/260045.html",
+      "published_date": "2026-06-21T17:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "US reportedly in contact with Israeli opposition amid possible change in Netanyahu government",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/260050.html",
+      "published_date": "2026-06-21T16:20:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijani acrobats become winners of World Cup series",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/society/4200169.html",
+      "published_date": "2026-06-21T16:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijani gymnasts win medals at several international competitions (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/society/4200166.html",
+      "published_date": "2026-06-21T15:50:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump claims Starmer will resign",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/260047.html",
+      "published_date": "2026-06-21T15:33:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran announces value of funds added to foreign exchange reserves",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4200107.html",
+      "published_date": "2026-06-21T15:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijani gymnasts take part in World Cup (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/society/4200163.html",
+      "published_date": "2026-06-21T15:25:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "China tests AI tools to extend heart care as doctor shortages bite worldwide",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/analysis/260044.html",
+      "published_date": "2026-06-21T14:38:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran reveals amount paid to tea growers",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4200103.html",
+      "published_date": "2026-06-21T13:23:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Pashinyan dismisses opposition unity efforts as alliance of forces 'controlled from the same centre'",
       "source": "Azernews",
       "url": "https://www.azernews.az/region/260042.html",
       "published_date": "2026-06-21T12:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkmenistan unveils results of 30 years of cooperation with PETRONAS",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4200013.html",
-      "published_date": "2026-06-21T12:39:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Qantas confirms world's longest non-stop flight between Sydney and London",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/260041.html",
-      "published_date": "2026-06-21T12:16:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "US-Iran talks begin in Switzerland",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/politics/4200146.html",
-      "published_date": "2026-06-21T12:03:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran will not give up its right to uranium enrichment — President Pezeshkian",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4200140.html",
-      "published_date": "2026-06-21T11:48:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pezeshkian: $6B of our funds in Qatar will be returned",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/260039.html",
-      "published_date": "2026-06-21T11:32:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan's Innovation and Supply Center opens tender for ICT and audio-visual equipment purchase",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4199935.html",
-      "published_date": "2026-06-21T11:16:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran’s frozen billions of dollars to be unblocked — President Pezeshkian",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4200137.html",
-      "published_date": "2026-06-21T11:02:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran: Four-way talks planned for Sunday afternoon",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/260038.html",
-      "published_date": "2026-06-21T10:25:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran reports cases of violations of memorandum of understanding",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/politics/4200132.html",
-      "published_date": "2026-06-21T09:58:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijani boxer wins gold medal at World Cup",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4200129.html",
-      "published_date": "2026-06-21T09:27:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chairman of Advisory Council of Niger arrives on visit to Azerbaijan",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4200124.html",
-      "published_date": "2026-06-21T09:13:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "China's services sector grows 4.4% in May, IT services jump 11.3%",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4199903.html",
-      "published_date": "2026-06-21T08:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Ilham Aliyev receives delegation of House of Representatives of Hashemite Kingdom of Jordan (PHOTO/VIDEO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4200114.html",
-      "published_date": "2026-06-21T07:55:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup: Japan beats Tunisia 4-0 in Group F",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/sports/260032.html",
-      "published_date": "2026-06-21T07:55:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Remembering one of Azerbaijan's greatest intellectuals",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/260031.html",
-      "published_date": "2026-06-21T07:22:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trade turnover between Uzbekistan and Germany rises to $411.6 million",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4200009.html",
-      "published_date": "2026-06-21T07:16:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan's Azerenergy launches tender for building Nakhchivan substation",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4199933.html",
-      "published_date": "2026-06-21T06:29:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vance lands in Switzerland as Iran talks loom",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/260028.html",
-      "published_date": "2026-06-21T05:48:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "POS cash withdrawals in Turkmenistan more than double in Jan.-Apr. 2026",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4200007.html",
-      "published_date": "2026-06-21T05:08:00Z",
       "category": "Local Events"
     }
   ]
