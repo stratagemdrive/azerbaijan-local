@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T15:54:07Z",
+  "generated_at": "2026-06-22T23:59:47Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Azerbaijan, Turkmenistan discuss prospects for expanding bilateral relations (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4200599.html",
+      "published_date": "2026-06-22T18:14:04Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Azerbaijan’s connectivity vision expands as Armenia joins regional digital corridor",
       "source": "Azernews",
@@ -144,11 +151,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Azerbaijan transits shipment of Russian wheat to Armenia (UPDATE)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4199972.html",
-      "published_date": "2026-06-20T09:10:31Z",
-      "category": "Diplomacy"
+      "title": "Kyiv hits missile electronics plant in Russia's Voronezh",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/260101.html",
+      "published_date": "2026-06-22T19:25:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "‘My idea of happiness is 120 dead Russian soldiers a day’: Ukrainian drone unit commander Saratsyn",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/my-idea-of-happiness-is-120-dead-russian-soldiers-a-day-ukrainian-drone-unit-commander-saratsyn/",
+      "published_date": "2026-06-22T18:46:10Z",
+      "category": "Military"
     },
     {
       "title": "Iran's oil exports through Hormuz reach highest kevel since regional conflict began",
@@ -277,18 +291,32 @@
       "category": "Military"
     },
     {
-      "title": "Azerbaijan and Belarus discuss military cooperation",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/260005.html",
-      "published_date": "2026-06-20T11:40:00Z",
-      "category": "Military"
+      "title": "Azerbaijan lifts veil on volume of natural gas export to Serbia for 4M2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/energy/4200427.html",
+      "published_date": "2026-06-22T22:26:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Nearly 5.7 million Ukrainians forced to leave country due to war",
+      "title": "Uzbekistan's energy investment to reach record $3.4 trillion in 2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/green-economy/4200318.html",
+      "published_date": "2026-06-22T19:20:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Vance: Iran agreed to let IAEA back into the country",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/260000.html",
-      "published_date": "2026-06-20T07:56:00Z",
-      "category": "Military"
+      "url": "https://www.azernews.az/region/260098.html",
+      "published_date": "2026-06-22T17:13:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Azerbaijan’s power generation softens 2.6% amid ongoing energy expansion plans",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/energy/4200276.html",
+      "published_date": "2026-06-22T16:19:00Z",
+      "category": "Energy"
     },
     {
       "title": "Azerbaijan's petroleum bitumen output plunges 41.4% as oil products sector contracts",
@@ -403,32 +431,46 @@
       "category": "Energy"
     },
     {
-      "title": "Gas transportation via South Caucasus Pipeline increases",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/oil_and_gas/259995.html",
-      "published_date": "2026-06-20T07:04:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "How industrial zones and reforms are reshaping Azerbaijan’s economic future",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/analysis/259977.html",
-      "published_date": "2026-06-20T04:30:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Indonesia and Kuwait boost energy ties amid uncertainty",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/259986.html",
-      "published_date": "2026-06-20T04:00:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "EDB, Uzbekistan’s TMK sign co-op deal on critical minerals",
+      "title": "Central Bank posts strongest growth in non-cash payments in Turkmenistan",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4199767.html",
-      "published_date": "2026-06-19T20:11:00Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/business/4200450.html",
+      "published_date": "2026-06-22T23:07:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Turkmen president in Azerbaijan: energy, trade and tanker gift",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/turkmen-president-in-azerbaijan-energy-trade-and-tanker-gift/",
+      "published_date": "2026-06-22T19:07:08Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Georgia’s population reaches 3.93 million, but regions continue to lose residents",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/georgias-population-reaches-3-93-million-but-regions-continue-to-lose-residents/",
+      "published_date": "2026-06-22T18:16:42Z",
+      "category": "Economy"
+    },
+    {
+      "title": "EDB expects Kyrgyzstan to remain among fastest-growing economies in region",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kyrgyzstan/4200316.html",
+      "published_date": "2026-06-22T18:14:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Armenian oligarch who keeps lions wants world’s largest Jesus statue",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/the-guardian-on-armenian-businessman-gagik-tsarukyan-his-legacy-and-passions/",
+      "published_date": "2026-06-22T17:40:24Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Burnham confirms he will run for Labour leader",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/260099.html",
+      "published_date": "2026-06-22T16:16:00Z",
+      "category": "Economy"
     },
     {
       "title": "EDB forecasts sustained economic growth in Kyrgyzstan",
@@ -529,46 +571,81 @@
       "category": "Economy"
     },
     {
-      "title": "Higher global prices cushion decline in Azerbaijan's urea export revenues",
+      "title": "Dayhanbank takes over half of non-cash payments in Turkmenistan in 4M2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4200414.html",
+      "published_date": "2026-06-22T21:23:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijan moves 10.4 million tons via transport corridors in January-April 2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4200365.html",
+      "published_date": "2026-06-22T20:26:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“Real Abkhaz” and “resettled Apsuas”: Ingorokva theory does not define Georgian historiography. Opinion from Tbilisi",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/real-abkhaz-and-resettled-apsuas-ingorokva-theory-does-not-define-georgian-historiography-opinion-from-tbilisi/",
+      "published_date": "2026-06-22T20:25:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Japanese coins exceed face value in metal value",
       "source": "Azernews",
-      "url": "https://www.azernews.az/sports/260036.html",
-      "published_date": "2026-06-21T09:57:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/region/260097.html",
+      "published_date": "2026-06-22T18:51:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Weekly review of Azerbaijan's precious metals market",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4199938.html",
-      "published_date": "2026-06-21T09:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Iran releases currency exchange rates for June 21",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4200099.html",
-      "published_date": "2026-06-21T06:10:11Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Azerbaijan prepares first Sukuk sale in push to broaden capital markets",
+      "title": "Pezeshkian said to travel to Pakistan on Tuesday",
       "source": "Azernews",
-      "url": "https://www.azernews.az/analysis/259864.html",
-      "published_date": "2026-06-21T04:30:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/region/260100.html",
+      "published_date": "2026-06-22T18:22:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Weekly review of Azerbaijan's currency market",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4199900.html",
-      "published_date": "2026-06-21T04:15:00Z",
-      "category": "Economy"
+      "title": "Samsung signed major contract with OpenAI",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/260095.html",
+      "published_date": "2026-06-22T17:45:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Kyrgyzstan announces latest economic and budget indicators",
+      "title": "Azerbaijani Parliament Speaker meets with Deputy Speaker of House of Representatives of Morocco (PHOTO)",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4200096.html",
-      "published_date": "2026-06-21T02:40:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/azerbaijan/politics/4200597.html",
+      "published_date": "2026-06-22T17:44:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tehran prioritizes regional co-op for transit of Turkmen gas via Iranian infrastructure (Exclusive)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4200297.html",
+      "published_date": "2026-06-22T17:17:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijani Parliament Speaker meets President of Global Council for Tolerance and Peace (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4200586.html",
+      "published_date": "2026-06-22T16:54:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "SpaceX falls in premarket as optimism fades",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/260096.html",
+      "published_date": "2026-06-22T16:48:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "State banquet hosted on behalf of President Ilham Aliyev in honor of President of Turkmenistan",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/260108.html",
+      "published_date": "2026-06-22T15:50:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Official luncheon hosted in honor of President of Turkmenistan on behalf of President Ilham Aliyev (PHOTO)",
@@ -631,83 +708,6 @@
       "source": "Azernews",
       "url": "https://www.azernews.az/business/260090.html",
       "published_date": "2026-06-22T14:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kazakhstan opens trade house in Afghanistan's Kabul",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4200534.html",
-      "published_date": "2026-06-22T13:56:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cooperation between Turkmenistan and Azerbaijan serves the long-term interests of our countries - Serdar Berdimuhamedov",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4200496.html",
-      "published_date": "2026-06-22T13:48:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uzbekistan, South Korea seek deeper cooperation in digital governance",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4200527.html",
-      "published_date": "2026-06-22T13:47:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gilavar Photo Club presents digital archive project for country's heritage sites",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/260067.html",
-      "published_date": "2026-06-22T13:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "POS payment volume in Turkmenistan declines 1.8% in Jan-Apr 2026",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4200520.html",
-      "published_date": "2026-06-22T13:30:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serdar Berdimuhamedov: Cooperation between Turkmenistan and Azerbaijan serves the long-term interests of our countries",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/260107.html",
-      "published_date": "2026-06-22T13:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arab Coordination Group convenes 21st Heads of Institutions meeting in Vienna to advance joint development action",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4200523.html",
-      "published_date": "2026-06-22T13:26:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "President: We have always supported and will continue to support Turkmenistan’s policy of neutrality",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/260106.html",
-      "published_date": "2026-06-22T13:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Taekwondo champions crowned at Schoolchildren's Sports Olympiad",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/sports/260088.html",
-      "published_date": "2026-06-22T13:17:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "We have always supported and will continue to support Turkmenistan’s policy of neutrality - President Ilham Aliyev",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4200492.html",
-      "published_date": "2026-06-22T13:14:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cooperation between Azerbaijan and Turkmenistan in transport and logistics is long-term in nature - President Ilham Aliyev (FULL SPEECH)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4200479.html",
-      "published_date": "2026-06-22T13:13:00Z",
       "category": "Local Events"
     }
   ]
