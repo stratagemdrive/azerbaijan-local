@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T23:59:47Z",
+  "generated_at": "2026-06-23T13:43:46Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,48 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Azerbaijan set to transit wheat to Armenia",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4200846.html",
+      "published_date": "2026-06-23T13:16:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU, Kazakhstan sign €150 mln deal for Middle Corridor upgrade",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kazakhstan/4200844.html",
+      "published_date": "2026-06-23T12:51:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "NEQSOL Holding signs cooperation agreement on critical minerals development in Uzbekistan (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/business/4200800.html",
+      "published_date": "2026-06-23T11:24:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "President Ilham Aliyev and President Serdar Berdimuhamedov visit Bulbul's house-museum in Shusha",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/260139.html",
+      "published_date": "2026-06-23T11:06:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "President Ilham Aliyev and President Serdar Berdimuhamedov visit Bulbul’s House-Museum in Shusha (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4200781.html",
+      "published_date": "2026-06-23T11:04:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trade turnover between Azerbaijan and Greece rises nearly 20% in January-May",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/business/260122.html",
+      "published_date": "2026-06-23T09:27:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Azerbaijan, Turkmenistan discuss prospects for expanding bilateral relations (PHOTO)",
       "source": "Trend News Agency",
@@ -109,46 +151,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "“We remember June 20”: new video in the Georgia Protests Live Blog",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/seven-years-after-the-gavrilov-night-in-tbilisi-video-georgia-protests-live-blog/",
-      "published_date": "2026-06-20T19:56:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Azerbaijan’s Foreign Ministry reaffirms support for refugees in World Refugee Day statement",
+      "title": "Pakistan, Azerbaijan explore new avenues in military cooperation",
       "source": "Azernews",
-      "url": "https://www.azernews.az/nation/260024.html",
-      "published_date": "2026-06-20T19:46:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/nation/260138.html",
+      "published_date": "2026-06-23T13:07:00Z",
+      "category": "Military"
     },
     {
-      "title": "Türkiye exports first-ever warship to NATO and EU member state",
+      "title": "Netanyahu: Israel must stop depending on US",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/260019.html",
-      "published_date": "2026-06-20T17:33:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/region/260143.html",
+      "published_date": "2026-06-23T12:46:00Z",
+      "category": "Military"
     },
     {
-      "title": "Azerbaijan to send 1,000 tons of diesel fuel to Armenia",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/karabakh/260017.html",
-      "published_date": "2026-06-20T16:35:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Azerbaijan to dispatch another batch of diesel fuel to Armenia",
+      "title": "Special loan offer for military personnel from Birbank: Monthly payments starting from AZN 300 for every AZN 10 000 borrowed",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4200047.html",
-      "published_date": "2026-06-20T14:56:09Z",
-      "category": "Diplomacy"
+      "url": "https://www.trend.az/azerbaijan/society/4200809.html",
+      "published_date": "2026-06-23T11:38:59Z",
+      "category": "Military"
     },
     {
-      "title": "Azerbaijan and Uzbekistan Foreign Ministers discuss bilateral cooperation",
+      "title": "Mass Ukrainian drone strike reportedly triggers power outages and fires across Crimea",
       "source": "Azernews",
-      "url": "https://www.azernews.az/nation/260013.html",
-      "published_date": "2026-06-20T14:52:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/region/260125.html",
+      "published_date": "2026-06-23T08:22:00Z",
+      "category": "Military"
     },
     {
       "title": "Kyiv hits missile electronics plant in Russia's Voronezh",
@@ -260,34 +288,6 @@
       "source": "Azernews",
       "url": "https://www.azernews.az/region/260025.html",
       "published_date": "2026-06-20T19:59:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy urges Belarus to distance itself from war in Ukraine",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/260022.html",
-      "published_date": "2026-06-20T18:51:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Two explosions in Pakistan leave seven dead",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/260021.html",
-      "published_date": "2026-06-20T18:23:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Tehran shuts Strait of Hormuz",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/260010.html",
-      "published_date": "2026-06-20T13:41:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran's tax revenues drop 30% amid regional conflict fallout",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4199904.html",
-      "published_date": "2026-06-20T12:22:00Z",
       "category": "Military"
     },
     {
@@ -431,6 +431,62 @@
       "category": "Energy"
     },
     {
+      "title": "Kazakhstan secures EIB loan to modernize national road network",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kazakhstan/4200851.html",
+      "published_date": "2026-06-23T13:22:12Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Azerbaijan's aluminum exports exceed $117 million in first five months of 2026",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/business/260124.html",
+      "published_date": "2026-06-23T12:26:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Turkish Airlines highlights role of joint card product in Azerbaijani market",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4200816.html",
+      "published_date": "2026-06-23T12:25:14Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Kyrgyzstan, Uzbekistan move to strengthen trade and economic ties",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kyrgyzstan/4200821.html",
+      "published_date": "2026-06-23T12:11:11Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Azerbaijan's PASHA Bank and Turkish Airlines extend exclusive cooperation term (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4200812.html",
+      "published_date": "2026-06-23T12:03:44Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Azerbaijan's PASHA Bank reveals number of Miles&Smiles cards presented to clients to date",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4200805.html",
+      "published_date": "2026-06-23T11:52:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Economist predicts no change in Azerbaijan’s key interest rate",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/analysis/260132.html",
+      "published_date": "2026-06-23T10:28:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "AZPROMO discusses investment and business cooperation with US congressional delegation",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/business/260123.html",
+      "published_date": "2026-06-23T10:02:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "Central Bank posts strongest growth in non-cash payments in Turkmenistan",
       "source": "Trend News Agency",
       "url": "https://www.trend.az/business/4200450.html",
@@ -515,199 +571,143 @@
       "category": "Economy"
     },
     {
-      "title": "EDB gains direct access to China's Interbank Bond Market",
+      "title": "Uzbek InfinBank, Oppenheimer Europe sign strategic co-op agreement",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4200469.html",
-      "published_date": "2026-06-22T13:00:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/business/4200863.html",
+      "published_date": "2026-06-23T13:42:36Z",
+      "category": "Local Events"
     },
     {
-      "title": "Azerbaijan's ferrous metal exports exceed $46 million in first five months of 2026",
+      "title": "Cooperation between Azerbaijan and Turkmenistan enters new strategic stage - analyst",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4200838.html",
+      "published_date": "2026-06-23T13:38:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Ilham Aliyev and President Serdar Berdimuhamedov meet with children in Garabagh (VIDEO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4200853.html",
+      "published_date": "2026-06-23T13:33:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kocharyan challenges immunity decision in court as legal pressure mounts after Armenia's elections",
       "source": "Azernews",
-      "url": "https://www.azernews.az/business/260072.html",
-      "published_date": "2026-06-22T11:43:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/region/260144.html",
+      "published_date": "2026-06-23T13:24:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Iran's Mellat Insurance Company reports net profit",
+      "title": "Azerbaijani grandmaster shares details of victory over Magnus Carlsen",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4200149.html",
-      "published_date": "2026-06-21T20:25:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/azerbaijan/4200834.html",
+      "published_date": "2026-06-23T13:09:57Z",
+      "category": "Local Events"
     },
     {
-      "title": "King Charles to become first modern British Monarch to publish personal tax bill",
+      "title": "Uzbek InfinBANK secures $60 million Islamic finance agreement at IsDB",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4200848.html",
+      "published_date": "2026-06-23T13:00:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kyrgyzstan discloses investment plans to develop infrastructure in Naryn region",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kyrgyzstan/4200843.html",
+      "published_date": "2026-06-23T12:49:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kyrgyzstan proposes expanding industrial and agricultural cooperation with Uzbekistan",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kyrgyzstan/4200831.html",
+      "published_date": "2026-06-23T12:37:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kazakhstan–Afghanistan business mission signs deals worth $235 mln",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kazakhstan/4200832.html",
+      "published_date": "2026-06-23T12:35:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Uzbek Senators participate in regional parliamentary seminar in Beijing",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4200824.html",
+      "published_date": "2026-06-23T12:19:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kazakhstan, Belgium discuss strengthening TITR potential",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kazakhstan/4200823.html",
+      "published_date": "2026-06-23T12:12:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Baku, Ashgabat expand cooperation in field of sports",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/260049.html",
-      "published_date": "2026-06-21T17:12:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/sports/260128.html",
+      "published_date": "2026-06-23T12:03:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Iran reports increase in imports via Gilan Province",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4200122.html",
-      "published_date": "2026-06-21T16:30:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Azerbaijan advances its transition to non-oil economy",
+      "title": "South Korea to accept North Korean POWs in Ukraine, ministry says",
       "source": "Azernews",
-      "url": "https://www.azernews.az/analysis/259946.html",
-      "published_date": "2026-06-21T13:23:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/region/260130.html",
+      "published_date": "2026-06-23T11:43:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Azerbaijan's butter imports rise as shift to lower-cost suppliers reduces average prices",
+      "title": "President of Turkmenistan Serdar Berdimuhamedov concludes state visit to Azerbaijan",
       "source": "Azernews",
-      "url": "https://www.azernews.az/business/260037.html",
-      "published_date": "2026-06-21T11:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Why economic forecasts keep getting it wrong",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4200133.html",
-      "published_date": "2026-06-21T10:10:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Dayhanbank takes over half of non-cash payments in Turkmenistan in 4M2026",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4200414.html",
-      "published_date": "2026-06-22T21:23:00Z",
+      "url": "https://www.azernews.az/nation/260141.html",
+      "published_date": "2026-06-23T11:37:42Z",
       "category": "Local Events"
     },
     {
-      "title": "Azerbaijan moves 10.4 million tons via transport corridors in January-April 2026",
+      "title": "Belgium’s King Philippe set to visit Kazakhstan this year",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4200365.html",
-      "published_date": "2026-06-22T20:26:00Z",
+      "url": "https://www.trend.az/casia/kazakhstan/4200802.html",
+      "published_date": "2026-06-23T11:34:00Z",
       "category": "Local Events"
     },
     {
-      "title": "“Real Abkhaz” and “resettled Apsuas”: Ingorokva theory does not define Georgian historiography. Opinion from Tbilisi",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/real-abkhaz-and-resettled-apsuas-ingorokva-theory-does-not-define-georgian-historiography-opinion-from-tbilisi/",
-      "published_date": "2026-06-22T20:25:17Z",
+      "title": "President of Turkmenistan Serdar Berdimuhamedov concludes state visit to Azerbaijan (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4200798.html",
+      "published_date": "2026-06-23T11:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Japanese coins exceed face value in metal value",
+      "title": "President Ilham Aliyev and President Serdar Berdimuhamedov have lunch together in Shusha",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/260097.html",
-      "published_date": "2026-06-22T18:51:00Z",
+      "url": "https://www.azernews.az/nation/260140.html",
+      "published_date": "2026-06-23T11:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Pezeshkian said to travel to Pakistan on Tuesday",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/260100.html",
-      "published_date": "2026-06-22T18:22:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Samsung signed major contract with OpenAI",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/260095.html",
-      "published_date": "2026-06-22T17:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijani Parliament Speaker meets with Deputy Speaker of House of Representatives of Morocco (PHOTO)",
+      "title": "President Ilham Aliyev and President Serdar Berdimuhamedov have lunch together in Shusha (PHOTO)",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4200597.html",
-      "published_date": "2026-06-22T17:44:00Z",
+      "url": "https://www.trend.az/azerbaijan/politics/4200794.html",
+      "published_date": "2026-06-23T11:28:21Z",
       "category": "Local Events"
     },
     {
-      "title": "Tehran prioritizes regional co-op for transit of Turkmen gas via Iranian infrastructure (Exclusive)",
+      "title": "President Ilham Aliyev gifts President of Turkmenistan a Garabagh horse (PHOTO/VIDEO)",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4200297.html",
-      "published_date": "2026-06-22T17:17:00Z",
+      "url": "https://www.trend.az/azerbaijan/politics/4200790.html",
+      "published_date": "2026-06-23T11:25:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Azerbaijani Parliament Speaker meets President of Global Council for Tolerance and Peace (PHOTO)",
+      "title": "Azerbaijan and Yemen discuss interparliamentary cooperation dev't prospects (PHOTO)",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4200586.html",
-      "published_date": "2026-06-22T16:54:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "SpaceX falls in premarket as optimism fades",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/260096.html",
-      "published_date": "2026-06-22T16:48:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "State banquet hosted on behalf of President Ilham Aliyev in honor of President of Turkmenistan",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/260108.html",
-      "published_date": "2026-06-22T15:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Official luncheon hosted in honor of President of Turkmenistan on behalf of President Ilham Aliyev (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4200575.html",
-      "published_date": "2026-06-22T15:48:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gymnast from Azerbaijan's Shusha positions among Republican Sports Olympiad winners",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4200567.html",
-      "published_date": "2026-06-22T15:45:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijani MFA summons Head of Council of Europe Office in Baku",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4200558.html",
-      "published_date": "2026-06-22T15:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baku, Tashkent promote cultural dialogue as bridge between nations",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/260085.html",
-      "published_date": "2026-06-22T14:39:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijani community holds productive discussions in Slovenia (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4200521.html",
-      "published_date": "2026-06-22T14:30:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "President of Vietnam sends congratulatory letter to President Ilham Aliyev",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4200542.html",
-      "published_date": "2026-06-22T14:30:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kazakhstan signs zinc ore supply contract with Afghan company",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4200545.html",
-      "published_date": "2026-06-22T14:28:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prime Minister of Iraq's Kurdistan Region congratulates President Ilham Aliyev",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4200476.html",
-      "published_date": "2026-06-22T14:27:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AZAL adds fourth modern Airbus A320neo to its fleet",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/business/260090.html",
-      "published_date": "2026-06-22T14:10:00Z",
+      "url": "https://www.trend.az/azerbaijan/politics/4200783.html",
+      "published_date": "2026-06-23T11:22:31Z",
       "category": "Local Events"
     }
   ]
