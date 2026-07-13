@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T13:25:13Z",
+  "generated_at": "2026-07-13T23:42:49Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,34 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "TRNC criticizes appointment of EU special representative for Cyprus",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/4206669.html",
+      "published_date": "2026-07-13T20:20:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China replaces EVs more often than ICE cars",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/261026.html",
+      "published_date": "2026-07-13T18:22:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia, Iran said to be close to a gas deal",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/261033.html",
+      "published_date": "2026-07-13T17:25:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Georgian PM Irakli Kobakhidze: ‘Russia does not recognise Georgia’s sovereignty over 20% of its territory. Kallas does not recognise it over 100%’",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/georgian-pm-irakli-kobakhidze-russia-does-not-recognise-georgias-sovereignty-over-20-of-its-territory-kallas-does-not-recognise-it-over-100/",
+      "published_date": "2026-07-13T13:55:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Azerbaijan's FM Bayramov meets WCO secretary general (PHOTO)",
       "source": "Trend News Agency",
@@ -123,32 +151,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "North Korea condemns NATO summit, says denuclearisation should start with US allies",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/260948.html",
-      "published_date": "2026-07-11T17:25:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Footage of President Ilham Aliyev's meeting with residents of Guzeykhirman and Guneykhirman villages published on his social media (VIDEO)",
+      "title": "Iranian air defense forces shoot down two American drones",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4206106.html",
-      "published_date": "2026-07-11T17:15:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.trend.az/iran/4206671.html",
+      "published_date": "2026-07-13T20:56:47Z",
+      "category": "Military"
     },
     {
-      "title": "Hungarians back strict migration policy, new survey finds",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/260946.html",
-      "published_date": "2026-07-11T16:20:00Z",
-      "category": "Diplomacy"
+      "title": "Chief of General Staff of Azerbaijan Army arrives on official visit to Belarus (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4206663.html",
+      "published_date": "2026-07-13T19:43:26Z",
+      "category": "Military"
     },
     {
-      "title": "Turkiye seeks end to CAATSA sanctions, expects progress on F-35 program, FM Hakan Fidan Says",
+      "title": "Honda gives AI bonuses to employees",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/260931.html",
-      "published_date": "2026-07-11T14:40:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/region/261028.html",
+      "published_date": "2026-07-13T19:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli paper claims Mossad plotted Ahmadinejad in alleged bid to reshape Iran",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/261036.html",
+      "published_date": "2026-07-13T17:56:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Trump: We're taking over the Strait of Hormuz",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/261034.html",
+      "published_date": "2026-07-13T13:44:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Houthis say Saudi Arabia declared war",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/261032.html",
+      "published_date": "2026-07-13T13:35:16Z",
+      "category": "Military"
     },
     {
       "title": "Azerbaijan highlights information security as critical element of national security",
@@ -249,46 +291,53 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine says drone strikes disrupt Russian shipping in Sea of Azov",
+      "title": "KazMunayGas bolsters environmental strategy as oil waste recycling expands",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4206573.html",
+      "published_date": "2026-07-13T21:23:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Azerbaijan sheds light on oil exports to Bulgaria for 5M2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/energy/4206564.html",
+      "published_date": "2026-07-13T20:13:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Kyrgyzstan takes steps to ensure domestic fuel market stability",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4206660.html",
+      "published_date": "2026-07-13T19:53:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Iran commissions strategic equipment at shared gas field with Qatar",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4206351.html",
+      "published_date": "2026-07-13T16:19:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Shusha signals Azerbaijan's shift from builder to regional power broker",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/260960.html",
-      "published_date": "2026-07-12T06:26:00Z",
-      "category": "Military"
+      "url": "https://www.azernews.az/analysis/261023.html",
+      "published_date": "2026-07-13T15:45:00Z",
+      "category": "Energy"
     },
     {
-      "title": "“This march honors Georgian heroes in Ukraine.” Video blog: “Protests in Georgia”",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/tbilisi-march-honors-georgian-fighters-in-ukraine-video-blog-protests-in-georgia/",
-      "published_date": "2026-07-12T06:19:32Z",
-      "category": "Military"
-    },
-    {
-      "title": "Qatar's Defense Ministry says missile attack successfully repelled",
+      "title": "Kazakhstan allocates $33.8M for Astana water and energy infrastructure",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/world/4206148.html",
-      "published_date": "2026-07-12T03:56:52Z",
-      "category": "Military"
+      "url": "https://www.trend.az/business/4206323.html",
+      "published_date": "2026-07-13T15:18:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Azerbaijan commemorating anniversary of Tovuz battles, which led to second Karabakh war Victory",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4206121.html",
-      "published_date": "2026-07-11T20:11:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Our state is strong, our Army is strong, our will is firm - President Ilham Aliyev",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4206097.html",
-      "published_date": "2026-07-11T16:27:26Z",
-      "category": "Military"
-    },
-    {
-      "title": "WHO warns cholera outbreak could worsen in Sudan",
+      "title": "Middle East tensions put Europe’s aviation fuel supply chain at risk",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/260933.html",
-      "published_date": "2026-07-11T15:15:00Z",
-      "category": "Military"
+      "url": "https://www.azernews.az/region/261021.html",
+      "published_date": "2026-07-13T13:27:00Z",
+      "category": "Energy"
     },
     {
       "title": "Azerbaijan's oil exports to Germany decline in Jan.-May",
@@ -382,53 +431,32 @@
       "category": "Energy"
     },
     {
-      "title": "Azeri Light crude oil falls below $78 per barrel",
+      "title": "OPEC: 2027 world oil demand growth at 1.9M bpd",
       "source": "Azernews",
-      "url": "https://www.azernews.az/oil_and_gas/260929.html",
-      "published_date": "2026-07-11T09:15:00Z",
-      "category": "Energy"
+      "url": "https://www.azernews.az/region/261035.html",
+      "published_date": "2026-07-13T19:30:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Azerbaijani oil moves down in price",
+      "title": "Iran reveals Golestan Province customs trade performance, export trends",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/energy/4206005.html",
-      "published_date": "2026-07-11T08:53:30Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/business/4206484.html",
+      "published_date": "2026-07-13T17:11:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Tajikistan seeks to improve investment climate for industry",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4205992.html",
-      "published_date": "2026-07-11T07:52:46Z",
-      "category": "Energy"
-    },
-    {
-      "title": "President Ilham Aliyev inaugurates hydroelectric power stations on Hochaz River in Lachin (PHOTO/VIDEO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4205974.html",
-      "published_date": "2026-07-11T07:16:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Hydroelectric power stations on Hochaz River inaugurated in Lachin",
+      "title": "Chinese builder lands Kuwait project",
       "source": "Azernews",
-      "url": "https://www.azernews.az/nation/260924.html",
-      "published_date": "2026-07-11T07:07:00Z",
-      "category": "Energy"
+      "url": "https://www.azernews.az/region/261029.html",
+      "published_date": "2026-07-13T16:53:00Z",
+      "category": "Economy"
     },
     {
-      "title": "IAEA: Monitoring situation at Iran's Bushehr nuclear plant",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/260915.html",
-      "published_date": "2026-07-11T05:00:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Tajikistan reports increase in oil production",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4205747.html",
-      "published_date": "2026-07-10T22:27:00Z",
-      "category": "Energy"
+      "title": "Alpaca Chico’s summer makeover: scenes from Tbilisi Zoo. Video",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/alpaca-chicos-summer-makeover-scenes-from-tbilisi-zoo-video/",
+      "published_date": "2026-07-13T16:06:42Z",
+      "category": "Economy"
     },
     {
       "title": "Central Asia and Azerbaijan are uniting into a single economic and political space - President Ilham Aliyev (VIDEO)",
@@ -543,171 +571,143 @@
       "category": "Economy"
     },
     {
-      "title": "Azerbaijan's debt reduction reinforces long-term fiscal resilience",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/analysis/260920.html",
-      "published_date": "2026-07-12T04:30:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Investment in Turkmenistan's economy rises 4.3% in 1H2026",
+      "title": "Eni Turkmenistan Limited announces tender for engine oils and lubricants procurement",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4206044.html",
-      "published_date": "2026-07-12T03:19:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Kyrgyzstan unveils scale of ongoing hydropower plant construction",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kyrgyzstan/4206151.html",
-      "published_date": "2026-07-12T02:25:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Azerbaijan’s Central Bank announces tender for network security equipment",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/tenders/4206039.html",
-      "published_date": "2026-07-12T01:07:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Kazakhstan, China reaffirm commitment to deeper strategic partnership",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4206574.html",
-      "published_date": "2026-07-13T13:17:40Z",
+      "url": "https://www.trend.az/business/4206582.html",
+      "published_date": "2026-07-13T23:09:00Z",
       "category": "Local Events"
     },
     {
-      "title": "IRGC claims attacks on US facilities in Bahrain and Oman",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/261013.html",
-      "published_date": "2026-07-13T13:11:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shusha Global Media Forum hosts panel discussion on digital security (PHOTO)",
+      "title": "Iran reveals amount of funds paid to tea farmers",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4206571.html",
-      "published_date": "2026-07-13T13:08:32Z",
+      "url": "https://www.trend.az/business/4206578.html",
+      "published_date": "2026-07-13T22:11:00Z",
       "category": "Local Events"
     },
     {
-      "title": "The only risk for us is attempts to draw Azerbaijan into certain adventures - President Ilham Aliyev (VIDEO)",
+      "title": "U.S. launches another series of strikes against Iran",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4206466.html",
-      "published_date": "2026-07-13T13:03:15Z",
+      "url": "https://www.trend.az/world/us/4206675.html",
+      "published_date": "2026-07-13T21:57:44Z",
       "category": "Local Events"
     },
     {
-      "title": "Presidential aide Hikmet Hajiyev meets Syrian information minister in Shusha",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4206547.html",
-      "published_date": "2026-07-13T12:52:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today, it is difficult to find a picture similar to the unity in Azerbaijani society - President Ilham Aliyev (VIDEO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4206463.html",
-      "published_date": "2026-07-13T12:48:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan, Kazakhstan discuss reciprocal broadcasting of TV channels",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4206552.html",
-      "published_date": "2026-07-13T12:46:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan may quit Council of Europe, Aliyev says at Shusha media forum",
+      "title": "If things stay as they are, recovering Abkhazia will require a deal with Russia that comes at a heavy price. Opinion from Tbilisi",
       "source": "JAMnews",
-      "url": "https://jam-news.net/azerbaijan-may-quit-council-of-europe-aliyev-says-at-shusha-media-forum/",
-      "published_date": "2026-07-13T12:36:37Z",
+      "url": "https://jam-news.net/if-things-stay-as-they-are-recovering-abkhazia-will-require-a-deal-with-russia-that-comes-at-a-heavy-price-opinion-from-tbilisi/",
+      "published_date": "2026-07-13T21:07:34Z",
       "category": "Local Events"
     },
     {
-      "title": "Calls to the Women Helpline double in the first half of 2026",
+      "title": "U.S. to resume blockade of Iranian ports - CENTCOM",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4206543.html",
-      "published_date": "2026-07-13T12:31:36Z",
+      "url": "https://www.trend.az/world/us/4206664.html",
+      "published_date": "2026-07-13T19:50:31Z",
       "category": "Local Events"
     },
     {
-      "title": "Azerbaijan and Kazakhstan, as countries located on both shores of the Caspian, cooperate very actively - President Ilham Aliyev (VIDEO)",
+      "title": "Kazakhstan secures $10B for AI Data Center Valley backed by NVIDIA",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4206456.html",
-      "published_date": "2026-07-13T12:21:07Z",
+      "url": "https://www.trend.az/business/4206536.html",
+      "published_date": "2026-07-13T19:24:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Ships cross Strait of Hormuz undetected as US-Iran tensions rise",
+      "title": "Speaker of Azerbaijan's Parliament holds talks with Pan-African Parliament president",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4206657.html",
+      "published_date": "2026-07-13T19:00:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "S&P upgrades Uzbekistan's Navoiyuran, sees solid financial metrics",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/finance/4206505.html",
+      "published_date": "2026-07-13T18:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Slovak President Pellegrini arrives in Azerbaijan on official visit",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/261011.html",
-      "published_date": "2026-07-13T12:21:00Z",
+      "url": "https://www.azernews.az/nation/261038.html",
+      "published_date": "2026-07-13T17:44:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Pakistan's mediation efforts show that it enjoys great respect at the international level - President Ilham Aliyev (VIDEO)",
+      "title": "Slovak President Peter Pellegrini embarks on official visit to Azerbaijan (PHOTO)",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4206452.html",
-      "published_date": "2026-07-13T12:19:41Z",
+      "url": "https://www.trend.az/azerbaijan/politics/4206648.html",
+      "published_date": "2026-07-13T17:42:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Azerbaijan becomes key driver of regional integration – Gela Vasadze (Exclusive)",
+      "title": "Azerbaijan's Chief of General Staff arrives in Belarus on official visit (PHOTO)",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4206533.html",
-      "published_date": "2026-07-13T12:02:47Z",
+      "url": "https://www.trend.az/azerbaijan/politics/4206643.html",
+      "published_date": "2026-07-13T16:46:38Z",
       "category": "Local Events"
     },
     {
-      "title": "President Ilham Aliyev speaks about development potential of Azerbaijan–Japan relations (VIDEO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4206439.html",
-      "published_date": "2026-07-13T11:49:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "It's not just about bans. How experts try to take new approaches to smoking",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/world/other/4206520.html",
-      "published_date": "2026-07-13T11:44:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today, a larger number of Chinese companies operate in Azerbaijan - President Ilham Aliyev (VIDEO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4206434.html",
-      "published_date": "2026-07-13T11:43:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan's role in regional matters is increasing, and it is a positive role - President Ilham Aliyev",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4206428.html",
-      "published_date": "2026-07-13T11:41:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The South Caucasus should not be perceived as an arena for geopolitical confrontation - President Ilham Aliyev (VIDEO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4206425.html",
-      "published_date": "2026-07-13T11:32:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scientists investigate drought risks and desertification in Azerbaijan",
+      "title": "Trump says government shutdown possible in September",
       "source": "Azernews",
-      "url": "https://www.azernews.az/culture/261001.html",
-      "published_date": "2026-07-13T11:01:00Z",
+      "url": "https://www.azernews.az/region/261030.html",
+      "published_date": "2026-07-13T16:20:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Germany advances bill criminalizing denial of Israel's right to exist",
+      "title": "Azerbaijan boosts inclusive sports dev't through new IBSA partnership (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4206639.html",
+      "published_date": "2026-07-13T16:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mini MBA Program for Education Leaders concludes with certificate ceremony",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/261006.html",
-      "published_date": "2026-07-13T10:43:00Z",
+      "url": "https://www.azernews.az/culture/260999.html",
+      "published_date": "2026-07-13T15:21:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Baku to host landmark 1st meeting of D-8 Media Excellence Council",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4206633.html",
+      "published_date": "2026-07-13T15:10:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "D-8 SecGen hails media center as key project for member states",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4206631.html",
+      "published_date": "2026-07-13T15:05:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hikmet Hajiyev discloses key focus areas for D-8 Media Center",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4206626.html",
+      "published_date": "2026-07-13T14:47:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WCO Secretary General Ian Saunders pays official visit to Azerbaijan",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/261016.html",
+      "published_date": "2026-07-13T14:43:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "D-8 Media Excellence Center to boost co-op among member states’ media – Hikmet Hajiyev",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4206622.html",
+      "published_date": "2026-07-13T14:37:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Message to world from Azerbaijan's Shusha: Media must be advocates for peace and truth",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4206613.html",
+      "published_date": "2026-07-13T14:33:52Z",
       "category": "Local Events"
     }
   ]
