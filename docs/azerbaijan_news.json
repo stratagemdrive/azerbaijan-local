@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T12:03:36Z",
+  "generated_at": "2026-08-02T23:50:15Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,34 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Iranian president hails foreign policy memorandum with U.S.",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4212040.html",
+      "published_date": "2026-08-02T19:38:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU mission stopped Russian shadow fleet ship",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/261909.html",
+      "published_date": "2026-08-02T18:40:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "22 EU states criticize Spain over Ceuta migrant crisis",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/261910.html",
+      "published_date": "2026-08-02T18:09:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rubinyan says Türkiye normalization is 'very close' as Azerbaijan talks advance",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/karabakh/261900.html",
+      "published_date": "2026-08-02T13:22:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Araghchi said to have agreed to reopen Hormuz",
       "source": "Azernews",
@@ -123,32 +151,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "President Ilham Aliyev’s state visit in spotlight of Kyrgyz media",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4211686.html",
-      "published_date": "2026-07-31T17:10:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "President Ilham Aliyev concludes state visit to Kyrgyzstan",
+      "title": "Ukraine says it struck Russian airbase, oil refinery in long-range overnight attacks",
       "source": "Azernews",
-      "url": "https://www.azernews.az/nation/261845.html",
-      "published_date": "2026-07-31T16:42:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/region/261911.html",
+      "published_date": "2026-08-02T19:25:00Z",
+      "category": "Military"
     },
     {
-      "title": "Footage of President Ilham Aliyev's state visit to Germany posted on his social media (VIDEO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4211672.html",
-      "published_date": "2026-07-31T16:07:15Z",
-      "category": "Diplomacy"
+      "title": "Azerbaijani MoD presents weekly review",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/261906.html",
+      "published_date": "2026-08-02T16:39:00Z",
+      "category": "Military"
     },
     {
-      "title": "President Ilham Aliyev concludes state visit to Kyrgyzstan (PHOTO/VIDEO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4211663.html",
-      "published_date": "2026-07-31T15:37:00Z",
-      "category": "Diplomacy"
+      "title": "Lebanese army retracts Israeli strike claim",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/261904.html",
+      "published_date": "2026-08-02T16:07:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Trailer released for Azerbaijan's '44' film on Patriotic War",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/culture/261905.html",
+      "published_date": "2026-08-02T15:34:55Z",
+      "category": "Military"
+    },
+    {
+      "title": "Freed Ukrainian POW alleges captives were used as forced labour in Chechnya",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/261899.html",
+      "published_date": "2026-08-02T12:57:22Z",
+      "category": "Military"
+    },
+    {
+      "title": "Death toll in Ceuta migrant crisis climbs to 94",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/261898.html",
+      "published_date": "2026-08-02T12:22:08Z",
+      "category": "Military"
     },
     {
       "title": "Mine clearance worker injured in explosion in Azerbaijan's Khojavend district",
@@ -249,46 +291,11 @@
       "category": "Military"
     },
     {
-      "title": "Russian mass strike on Ukraine leaves several dead and dozens injured. Video from Lviv",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/russian-mass-strike-on-ukraine-leaves-several-dead-and-dozens-injured-video-from-lviv/",
-      "published_date": "2026-07-31T09:14:53Z",
-      "category": "Military"
-    },
-    {
-      "title": "Drones strike Russia's Wildberries logistics hub",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/261799.html",
-      "published_date": "2026-07-31T07:06:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "German broadcaster ARD investigates Georgia’s rise as a crypto hub",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/crypto-mining-in-georgia/",
-      "published_date": "2026-07-31T06:39:43Z",
-      "category": "Military"
-    },
-    {
-      "title": "Bayraktar Akinci hits targets despite heavy jamming in new precision strike test",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/261765.html",
-      "published_date": "2026-07-30T19:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ankara, Chisinau push for stronger trade and defense ties",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/261763.html",
-      "published_date": "2026-07-30T18:22:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says it destroyed three US F-35 jets",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/261783.html",
-      "published_date": "2026-07-30T17:53:00Z",
-      "category": "Military"
+      "title": "Climate finance tops GGGI's agenda with Turkmenistan (Exclusive)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4212015.html",
+      "published_date": "2026-08-02T14:25:59Z",
+      "category": "Energy"
     },
     {
       "title": "Iraq plans to double oil exports via Türkiye's Ceyhan port to 1.5 mln bpd",
@@ -424,11 +431,53 @@
       "category": "Energy"
     },
     {
-      "title": "Tajikistan steps up preparations for autumn-winter energy season",
+      "title": "Tajikistan reveals number of economically active people",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/tajikistan/4211696.html",
-      "published_date": "2026-07-31T18:34:23Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/casia/tajikistan/4212012.html",
+      "published_date": "2026-08-02T22:17:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Azerbaijan's tomato exports rise nearly 10% in first half of 2026",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/business/261907.html",
+      "published_date": "2026-08-02T17:37:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Uzbekistan's AI ecosystem posts growth in H1 2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/it/4211868.html",
+      "published_date": "2026-08-02T17:14:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Azerbaijan's voluntary insurance market surges by over 15% in 6M2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4211888.html",
+      "published_date": "2026-08-02T16:10:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Turkmen commodity exchange records silk, textile export deals",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4211779.html",
+      "published_date": "2026-08-02T15:21:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Azerbaijan's top tobacco exporter boosts exports by over 60%",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/business/261901.html",
+      "published_date": "2026-08-02T14:27:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Turkmenistan SCBT retains lead in internet banking despite lower share",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4211883.html",
+      "published_date": "2026-08-02T13:12:00Z",
+      "category": "Economy"
     },
     {
       "title": "Internet banking transactions more than double in Turkmenistan in 5M2026",
@@ -522,53 +571,88 @@
       "category": "Economy"
     },
     {
-      "title": "Uzbekistan's market services sector posts 17% growth in 1H 2026",
+      "title": "Iran's guaranteed wheat purchases exceed 7.5 million tons",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/finance/4211934.html",
-      "published_date": "2026-08-01T23:36:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/business/4212001.html",
+      "published_date": "2026-08-02T20:18:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Azerbaijani Central Bank launches tender for password management system support",
+      "title": "Kazakhstan banks' capital rebounds to $2.37B by end-June",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4211803.html",
-      "published_date": "2026-08-01T23:16:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/business/4211877.html",
+      "published_date": "2026-08-02T19:16:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Azerbaijan announces tender for construction of methadone center in Baku",
+      "title": "Azerbaijan claims seven medals at U17 World Wrestling Championships",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/business/4211795.html",
-      "published_date": "2026-08-01T19:17:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/azerbaijan/society/4212037.html",
+      "published_date": "2026-08-02T19:04:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "U.S. tightens visa rules with permanent bond program",
+      "title": "Iran reports increase in output from small-scale power plants",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4211995.html",
+      "published_date": "2026-08-02T18:24:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two helicopters collide amid fires in Greece",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/261879.html",
-      "published_date": "2026-08-01T18:10:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/region/261908.html",
+      "published_date": "2026-08-02T17:00:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Uzbek Almalyk MMC nearly doubles 1H profit ahead of planned 2027 IPO",
+      "title": "Renowned Turkish actress Özge Gürel plays leading role in 44 (PHOTO)",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/finance/4211802.html",
-      "published_date": "2026-08-01T16:26:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/azerbaijan/society/4212024.html",
+      "published_date": "2026-08-02T15:45:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Why Azerbaijan's inflation outlook points to interest rate stability",
+      "title": "History of Victory on the big screen: Trailer for 44 unveiled (VIDEO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/society/4212020.html",
+      "published_date": "2026-08-02T15:28:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indonesia ferry fire kills 5, leaves 41 missing",
       "source": "Azernews",
-      "url": "https://www.azernews.az/analysis/261843.html",
-      "published_date": "2026-08-01T13:43:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/region/261903.html",
+      "published_date": "2026-08-02T15:19:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Azerbaijan's manat circulation rate augments by July 2026",
+      "title": "Israeli police accused of denying Turkish visitor entry to Al-Aqsa Mosque compound",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/261902.html",
+      "published_date": "2026-08-02T14:58:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijan's compulsory insurance payments rise in 1H2026",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4211847.html",
-      "published_date": "2026-08-01T10:11:59Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/business/4211884.html",
+      "published_date": "2026-08-02T14:22:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenia’s transport ambitions collide with Russia’s railway interests",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/analysis/261777.html",
+      "published_date": "2026-08-02T13:54:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenia's president appoints Nikol Pashinyan as prime minister",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/4212000.html",
+      "published_date": "2026-08-02T12:19:21Z",
+      "category": "Local Events"
     },
     {
       "title": "Karabakh University aims to become world-class institution - rector",
@@ -624,90 +708,6 @@
       "source": "Trend News Agency",
       "url": "https://www.trend.az/azerbaijan/society/4211983.html",
       "published_date": "2026-08-02T09:54:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "7th Summer Camp for Diaspora Youth opens in Eastern Zangezur (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4211982.html",
-      "published_date": "2026-08-02T09:48:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Another Wildberries facility hit in Ukraine drone attack",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/261891.html",
-      "published_date": "2026-08-02T08:47:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "KMG reveals Petromidia refinery's H1 2026 production results",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4211969.html",
-      "published_date": "2026-08-02T07:18:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump agreed to cancel Iran attack if deal made",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/261886.html",
-      "published_date": "2026-08-02T06:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan’s Gabala Music Festival welcomes leading pianists from Austria and Vietnam",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/261883.html",
-      "published_date": "2026-08-02T05:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Volodymyr Zelenskyy seeks UAE support for Black Sea security",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/261885.html",
-      "published_date": "2026-08-02T04:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Türkiye-China trade tops $24.8B in 1H2026",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4211840.html",
-      "published_date": "2026-08-02T02:12:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dayhanbank captures nearly one-third of POS payment volume in Turkmenistan",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4211833.html",
-      "published_date": "2026-08-02T00:04:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran vows to use all means to defend itself against U.S. actions",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/4211927.html",
-      "published_date": "2026-08-01T22:36:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Non-cash payment volume in Turkmenistan slips 1.3% in 5M2026",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4211828.html",
-      "published_date": "2026-08-01T22:32:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan announces tender for alternative drinking water source in Gusar",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4211797.html",
-      "published_date": "2026-08-01T21:23:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Agriculture slump hits Turkmen exchange quotations",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4211815.html",
-      "published_date": "2026-08-01T20:18:00Z",
       "category": "Local Events"
     }
   ]
