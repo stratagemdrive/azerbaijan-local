@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T13:03:27Z",
+  "generated_at": "2026-08-04T23:54:47Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "OSCE may enter new phase in Azerbaijan as mine threat becomes practical test",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4212652.html",
+      "published_date": "2026-08-04T16:20:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Gyumri base becomes flashpoint in Armenia’s Russia recalibration",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/analysis/261915.html",
+      "published_date": "2026-08-04T15:00:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Turkiye condemns drone attacks on merchant ships in Black Sea",
       "source": "Azernews",
@@ -102,6 +116,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "LIVE: Key morning headlines from Armenia, Azerbaijan and Georgia | Podcast",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/news-in-georgia-azerbaijan-armenia-3-7-august-2026/",
+      "published_date": "2026-08-04T04:20:00Z",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Azerbaijani Foreign Ministry addresses international community over landmine danger",
       "source": "Trend News Agency",
       "url": "https://www.trend.az/azerbaijan/politics/4212285.html",
@@ -130,25 +151,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Nuclear weapons could be used to defend CSTO allies, official says",
+      "title": "France expands naval drone fleet to counter mine threats",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/261938.html",
-      "published_date": "2026-08-03T11:27:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/region/261999.html",
+      "published_date": "2026-08-04T16:46:00Z",
+      "category": "Military"
     },
     {
-      "title": "Baku, Tbilisi optimize railway link to boost Middle Corridor efficiency",
+      "title": "Turkiye's Supreme Military Council approves senior command reshuffle",
       "source": "Azernews",
-      "url": "https://www.azernews.az/nation/261936.html",
-      "published_date": "2026-08-03T10:55:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/region/261998.html",
+      "published_date": "2026-08-04T16:18:00Z",
+      "category": "Military"
     },
     {
-      "title": "Azerbaijan and Georgia to double border crossing speed in railway transport (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4212220.html",
-      "published_date": "2026-08-03T10:18:00Z",
-      "category": "Diplomacy"
+      "title": "Houthis strike Saudi Arabia's Najran Airport with drone",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/261987.html",
+      "published_date": "2026-08-04T13:03:38Z",
+      "category": "Military"
     },
     {
       "title": "Azerbaijan's Organization of War, Labor and Armed Forces Veterans calls for global support to mine problem solution",
@@ -270,25 +291,46 @@
       "category": "Military"
     },
     {
-      "title": "Death toll in Ceuta migrant crisis climbs to 94",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/261898.html",
-      "published_date": "2026-08-02T12:22:08Z",
-      "category": "Military"
-    },
-    {
-      "title": "Mine clearance worker injured in explosion in Azerbaijan's Khojavend district",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/261897.html",
-      "published_date": "2026-08-02T11:26:20Z",
-      "category": "Military"
-    },
-    {
-      "title": "Azerbaijani Defense Ministry presents review of events of last week (VIDEO)",
+      "title": "Turkmenistan exceeds fuel production targets in Jan-Jul 2026",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4211980.html",
-      "published_date": "2026-08-02T09:38:00Z",
-      "category": "Military"
+      "url": "https://www.trend.az/casia/turkmenistan/4212495.html",
+      "published_date": "2026-08-04T22:10:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Turkmenistan exceeds oil production target by 8.7% in 7M2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/4212488.html",
+      "published_date": "2026-08-04T20:12:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Iran highlights solar power plants' key share in renewable electricity output",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4212409.html",
+      "published_date": "2026-08-04T17:17:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "SOCAR President meets with Head of External Relations and New Business Development at BYD (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4212648.html",
+      "published_date": "2026-08-04T14:25:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Switzerland sees clean energy cooperation potential with Azerbaijan",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/261995.html",
+      "published_date": "2026-08-04T14:04:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Europe’s gas reserves sink to record low, raising winter price risks",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/oil_and_gas/261991.html",
+      "published_date": "2026-08-04T13:40:00Z",
+      "category": "Energy"
     },
     {
       "title": "Azerbaijan casts light on volume of oil exports to Portugal in 6M2026",
@@ -389,46 +431,81 @@
       "category": "Energy"
     },
     {
-      "title": "Uzbekistan hikes starting prices for mining, exploration licenses",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4212277.html",
-      "published_date": "2026-08-03T12:41:35Z",
-      "category": "Energy"
+      "title": "BTS drives economic growth",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/261988.html",
+      "published_date": "2026-08-04T19:30:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Azerbaijan multiplies oil exports to Greece in 6M2026",
+      "title": "Kazakhstan’s regions expand domestic production and export capacity",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/energy/4212276.html",
-      "published_date": "2026-08-03T12:38:45Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/casia/4212418.html",
+      "published_date": "2026-08-04T18:22:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Iran speeds up 11th phase operations at South Pars gas field",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4212256.html",
-      "published_date": "2026-08-03T11:53:28Z",
-      "category": "Energy"
+      "title": "Korean automakers benefit from Japan’s setbacks",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/261993.html",
+      "published_date": "2026-08-04T17:54:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Black Sea Energy project officially advances to development phase",
+      "title": "Tajikistan wheat imports rise as domestic harvest declines",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/green-economy/4212255.html",
-      "published_date": "2026-08-03T11:43:32Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/casia/tajikistan/4212405.html",
+      "published_date": "2026-08-04T16:16:00Z",
+      "category": "Economy"
     },
     {
-      "title": "SOCAR acquires ITOCHU's stake in Azeri-Chirag-Gunashli",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/energy/4212248.html",
-      "published_date": "2026-08-03T11:22:26Z",
-      "category": "Energy"
+      "title": "Lufthansa profit falls 56% as higher fuel costs and pilot strike weigh on earnings",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/261997.html",
+      "published_date": "2026-08-04T15:35:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Azerbaijan's SOCAR makes 19th coupon payment on its bonds",
+      "title": "SOFAZ discloses total amount of transfers to state budget by July 2026",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/energy/4212228.html",
-      "published_date": "2026-08-03T10:52:29Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/business/4212396.html",
+      "published_date": "2026-08-04T15:20:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Uzbek AKFA Aluminium posts lower profit, relies on dividend income",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/uzbekistan/4212392.html",
+      "published_date": "2026-08-04T14:39:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Chamber of Accounts notes outlook shortfall in SOFAZ's output, revenue from several fields",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/energy/4212632.html",
+      "published_date": "2026-08-04T14:01:16Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Android's Azerbaijan market share climbs to 60.3% in July",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4212615.html",
+      "published_date": "2026-08-04T13:35:23Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Global Stats tallies Google's share on Azerbaijan's search engine market in July 2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4212610.html",
+      "published_date": "2026-08-04T13:28:13Z",
+      "category": "Economy"
+    },
+    {
+      "title": "KazMunayGas, ExxonMobil discuss expanding investment cooperation",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/4212618.html",
+      "published_date": "2026-08-04T13:26:34Z",
+      "category": "Economy"
     },
     {
       "title": "Opinion from Tbilisi: ‘It’s important to understand what kind of hell government is leading us into’",
@@ -494,81 +571,130 @@
       "category": "Economy"
     },
     {
-      "title": "Bank of Korea returns to gold purchases",
+      "title": "Kazakhstan upgrades rail network as station modernization reaches new scale",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/4212552.html",
+      "published_date": "2026-08-04T23:19:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Uztelecom shares surge more than 300% year-to-date on strong earnings",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/uzbekistan/4212496.html",
+      "published_date": "2026-08-04T21:19:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tajikistan's hospitality sector turnover jumps 55% in 1H 2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/tajikistan/4212471.html",
+      "published_date": "2026-08-04T19:24:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Emir of Qatar discusses situation around Iran with U.S President",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/4212666.html",
+      "published_date": "2026-08-04T19:09:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wildberries expands in Kazakhstan",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/261950.html",
-      "published_date": "2026-08-03T17:20:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/region/261989.html",
+      "published_date": "2026-08-04T18:59:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Food prices ease across Kyrgyzstan, neighboring markets, ministry says",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/4212132.html",
-      "published_date": "2026-08-03T17:18:00Z",
-      "category": "Economy"
+      "title": "Georgian scam call centres: old fraudsters, new address? An investigation",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/georgian-scam-call-centres-old-fraudsters-new-address-an-investigation/",
+      "published_date": "2026-08-04T18:46:03Z",
+      "category": "Local Events"
     },
     {
-      "title": "Uzbekistan's stock market capitalization jumps 50% in 1H 2026",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4212323.html",
-      "published_date": "2026-08-03T14:51:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Türkiye’s exports hit record high of $401.1 billion over past 12 months",
+      "title": "Kyrgyzstan bans cremation",
       "source": "Azernews",
-      "url": "https://www.azernews.az/business/261953.html",
-      "published_date": "2026-08-03T14:50:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/region/261992.html",
+      "published_date": "2026-08-04T18:26:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "US intervenes to support Japanese yen for first time in over decade",
+      "title": "Iran and Oman continue talks on a safe route in Strait of Hormuz - Baghaei",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4212662.html",
+      "published_date": "2026-08-04T17:45:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New tools against theft in London",
       "source": "Azernews",
-      "url": "https://www.azernews.az/business/261952.html",
-      "published_date": "2026-08-03T14:00:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/region/261994.html",
+      "published_date": "2026-08-04T17:20:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Uzbekistan eyes SAF investment with Henderson Land Group",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4212319.html",
-      "published_date": "2026-08-03T13:58:00Z",
-      "category": "Economy"
+      "title": "Armenia approves new government as Pashinyan promises appointments based on merit",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/armenia-approves-new-government-as-pashinyan-promises-appointments-based-on-merit/",
+      "published_date": "2026-08-04T15:32:18Z",
+      "category": "Local Events"
     },
     {
-      "title": "Turkmenistan's GDP grows 6.3% in Jan.-July 2026",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/turkmenistan/4212296.html",
-      "published_date": "2026-08-03T13:20:46Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Iran’s Zanjan customs exports surge 47% in value, 220% in volume",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4212294.html",
-      "published_date": "2026-08-03T13:18:48Z",
-      "category": "Economy"
-    },
-    {
-      "title": "New feature in Yelo Internet Banking: Unsecured tender guarantee!",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4212288.html",
-      "published_date": "2026-08-03T12:41:34Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Azerbaijan tallies manat's nominal and real effective exchange rate by July 2026",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4212271.html",
-      "published_date": "2026-08-03T12:37:56Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Deposits in Karabakh jump 18.8% as economic activity gains pace",
+      "title": "Deadly landslide buries Ethiopian monastery, killing 14 worshippers",
       "source": "Azernews",
-      "url": "https://www.azernews.az/business/261937.html",
-      "published_date": "2026-08-03T11:38:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/region/261996.html",
+      "published_date": "2026-08-04T14:27:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "PASHA Holding and Baku Arbitration Center sign Memorandum of Cooperation for the LEGIS Legal Forum (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4212638.html",
+      "published_date": "2026-08-04T13:43:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijan ramps up associated gas output in 1H2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/energy/4212619.html",
+      "published_date": "2026-08-04T13:42:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tokayev and Pashinyan discuss expansion of Kazakhstan-Armenia cooperation",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/4212630.html",
+      "published_date": "2026-08-04T13:37:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkmenistan's transport, communications sector grows 14% in Jan.-July",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/4212624.html",
+      "published_date": "2026-08-04T13:29:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijani and Swiss foreign ministers discuss regional security (PHOTO) (UPDATE)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4212616.html",
+      "published_date": "2026-08-04T13:22:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijani and Swiss foreign ministers discuss regional security (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4212439.html",
+      "published_date": "2026-08-04T13:22:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Traditional foods, drinks and desserts to beat summer heat",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/lifestyle/261981.html",
+      "published_date": "2026-08-04T13:21:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Kyrgyzstan, China sign implementation deal for $22.1M irrigation project",
@@ -582,132 +708,6 @@
       "source": "Trend News Agency",
       "url": "https://www.trend.az/business/4212606.html",
       "published_date": "2026-08-04T12:47:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Moody's: Risk-based reforms strengthen Uzbekistan's banks",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4212604.html",
-      "published_date": "2026-08-04T12:27:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijani wrestlers secure four gold medals in Turkiye",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/sports/261984.html",
-      "published_date": "2026-08-04T12:24:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "TuranBank сoncludes strategic project promoting gender equality through international collaboration",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4212585.html",
-      "published_date": "2026-08-04T11:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seaside National Park welcomes film enthusiasts for open-air screening",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/261975.html",
-      "published_date": "2026-08-04T11:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uzbekistan, Türkiye's SunExpress launches first direct Izmir-Tashkent flights",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4212575.html",
-      "published_date": "2026-08-04T11:28:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Corsican question exposes contradictions in France’s rights diplomacy",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/analysis/261934.html",
-      "published_date": "2026-08-04T11:27:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“Taghiyev” becomes most-watched Azerbaijani film in cinemas (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4212564.html",
-      "published_date": "2026-08-04T11:00:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uzbekistan advances Islamic finance with IsDB, UNDP",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4212560.html",
-      "published_date": "2026-08-04T10:51:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Summer heat holds firm across country",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/lifestyle/261977.html",
-      "published_date": "2026-08-04T10:43:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Ilham Aliyev approves amendments to Customs Code",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4212544.html",
-      "published_date": "2026-08-04T09:57:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan hosts 31st national rhythmic gymnastics championships (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4212528.html",
-      "published_date": "2026-08-04T09:47:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lebanon prepares for next round of talks with Israel in Rome",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/261969.html",
-      "published_date": "2026-08-04T09:16:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jackie Chan arrives in Baku for filming of new adventure movie",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/261968.html",
-      "published_date": "2026-08-04T08:39:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "US doubles TRIPP+ Fund to $402 million for projects in Armenia",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/261971.html",
-      "published_date": "2026-08-04T08:17:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Precious metals rally as gold tops $4,120",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/business/261965.html",
-      "published_date": "2026-08-04T07:42:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Euronews explores Azerbaijan's signature dumpling traditions",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/261964.html",
-      "published_date": "2026-08-04T07:23:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gabala Int'l Music Festival wraps up with spectacular closing concert",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/261962.html",
-      "published_date": "2026-08-04T06:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kyrgyzstan, Uzbekistan begin official transfer of border villages",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/261961.html",
-      "published_date": "2026-08-04T06:23:00Z",
       "category": "Local Events"
     }
   ]
