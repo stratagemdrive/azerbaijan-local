@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T16:49:14Z",
+  "generated_at": "2026-09-15T01:03:57Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Rutte: We have all options to respond to hybrid attacks",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/263872.html",
+      "published_date": "2026-09-14T17:21:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Helping Baku justify ethnic cleansing’: Yerevan views on diplomats’ trip to Karabakh",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/helping-baku-justify-ethnic-cleansing-yerevan-views-on-diplomats-trip-to-karabakh/",
+      "published_date": "2026-09-14T17:14:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Peace Bridge group hits back at Armenian attacks on Garabagh diplomatic visit",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/263882.html",
+      "published_date": "2026-09-14T17:12:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "President Ilham Aliyev sends $500,000 Zayed Award Prize to Garabagh Revival Fund",
       "source": "Azernews",
@@ -130,25 +151,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ukraine plans trilateral peace talks for October 2026",
+      "title": "Wall Street opens lower as AI slowdown fears weigh",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/263789.html",
-      "published_date": "2026-09-12T19:07:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/region/263875.html",
+      "published_date": "2026-09-14T19:30:00Z",
+      "category": "Military"
     },
     {
-      "title": "Greece records highest asylum application rate in EU",
+      "title": "Nvidia, Palantir said to restrict AI model use",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/263783.html",
-      "published_date": "2026-09-12T16:12:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Baku hosts Belém Mission 1.5 Troika consultations on climate plans - Azerbaijani MFA",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4223367.html",
-      "published_date": "2026-09-12T15:55:34Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/region/263874.html",
+      "published_date": "2026-09-14T19:00:00Z",
+      "category": "Military"
     },
     {
       "title": "Polish military authorized to shoot down objects violating airspace",
@@ -277,18 +291,11 @@
       "category": "Military"
     },
     {
-      "title": "North Korea conducts missile launch toward Sea of Japan",
+      "title": "Italy could resume nuclear power generation by 2035, Minister Says",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/263763.html",
-      "published_date": "2026-09-12T06:34:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Psychiatrist warned about frequent AI use",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/263753.html",
-      "published_date": "2026-09-11T19:00:00Z",
-      "category": "Military"
+      "url": "https://www.azernews.az/region/263866.html",
+      "published_date": "2026-09-14T18:30:00Z",
+      "category": "Energy"
     },
     {
       "title": "Saudi oil pipeline said to be out of service 'for weeks'",
@@ -424,11 +431,60 @@
       "category": "Energy"
     },
     {
-      "title": "Yerevan could implement TRIPP without Moscow, Armenian expert says",
+      "title": "EDB reveals increase in Kyrgyzstan’s state budget revenues",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kyrgyzstan/4223751.html",
+      "published_date": "2026-09-15T00:12:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Central Asia debt burden to hold near 35% of GDP through 2027 - Moody's",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/4223744.html",
+      "published_date": "2026-09-14T23:07:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Central Asia's growth to slow to 3.2% in 2026 - Moody's",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/4223741.html",
+      "published_date": "2026-09-14T21:08:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Georgia's exports jump 22.1% in Jan-Aug 2026, trade deficit at $7B",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/scaucasus/georgia/4223692.html",
+      "published_date": "2026-09-14T19:38:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Opinion: ‘Abkhazia plans to welcome 5 million tourists a year by 2030. Why is this impossible?’",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/opinion-abkhazia-plans-to-welcome-5-million-tourists-a-year-by-2030-why-is-this-impossible/",
+      "published_date": "2026-09-14T19:06:07Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Kazakhstan records 7% growth in passenger turnover in 8M2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kazakhstan/4223661.html",
+      "published_date": "2026-09-14T18:19:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Türkiye's import unit values jump 12.8% in July, outpacing 8.2% exports",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/turkey/4223662.html",
+      "published_date": "2026-09-14T17:11:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Canadian inflation stable at 3% in August",
       "source": "Azernews",
-      "url": "https://www.azernews.az/analysis/263748.html",
-      "published_date": "2026-09-11T15:16:00Z",
-      "category": "Energy"
+      "url": "https://www.azernews.az/region/263871.html",
+      "published_date": "2026-09-14T16:49:00Z",
+      "category": "Economy"
     },
     {
       "title": "Azerbaijan’s AI-95 gasoline imports surge as AI-92 purchases collapse",
@@ -515,60 +571,32 @@
       "category": "Economy"
     },
     {
-      "title": "Türkiye’s producer inflation tops consumer prices in August 2026",
+      "title": "Azerbaijan reports increase in lending to households",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/world/turkey/4223473.html",
-      "published_date": "2026-09-13T20:18:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/azerbaijan/4223867.html",
+      "published_date": "2026-09-15T01:00:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Parsian Bank of Iran increases capital",
+      "title": "EDB reports Kyrgyzstan’s state spending at $4.54B",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/4223455.html",
-      "published_date": "2026-09-13T19:46:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/casia/kyrgyzstan/4223775.html",
+      "published_date": "2026-09-14T22:09:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "EDB notes increase in Kyrgyzstan’s goods imports",
+      "title": "Uzbekistan’s industrial output reaches $66.7B in 7M 2026",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kyrgyzstan/4223215.html",
-      "published_date": "2026-09-13T17:16:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/casia/uzbekistan/4223720.html",
+      "published_date": "2026-09-14T20:17:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Iran increases exports of products through Bushehr Province customs",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/4223422.html",
-      "published_date": "2026-09-13T15:35:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Kyrgyzstan maintains strong economic momentum in 2026",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kyrgyzstan/4223331.html",
-      "published_date": "2026-09-13T14:21:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Putin says Russia is outgrowing the world - here's what the numbers show",
+      "title": "Sweden election goes down to the wire as opposition edges ahead",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/263809.html",
-      "published_date": "2026-09-13T13:16:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "China’s PPI swings 4.7 points from deflation to growth in August",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/world/4223315.html",
-      "published_date": "2026-09-13T12:22:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Weekly review of Azerbaijan's precious metals market",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4223254.html",
-      "published_date": "2026-09-13T09:00:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/region/263867.html",
+      "published_date": "2026-09-14T18:00:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Azerbaijani initiative group “Bridge of Peace” reacts Armenian media's biased position",
@@ -680,34 +708,6 @@
       "source": "Trend News Agency",
       "url": "https://www.trend.az/casia/kazakhstan/4223785.html",
       "published_date": "2026-09-14T13:17:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Open Azerbaijan Sailing Championship enters final stage",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/sports/263858.html",
-      "published_date": "2026-09-14T13:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Honored Artist Shovgi Huseynov to perform one-man show in Belarus",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/263852.html",
-      "published_date": "2026-09-14T11:54:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia demands explanation from Belarus over Lukashenko’s statements",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/263860.html",
-      "published_date": "2026-09-14T11:47:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli culture minister seeks to revoke citizenship of directors of Gaza documentary",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/263854.html",
-      "published_date": "2026-09-14T11:40:00Z",
       "category": "Local Events"
     }
   ]
