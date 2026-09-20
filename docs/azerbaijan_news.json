@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T14:12:27Z",
+  "generated_at": "2026-09-20T00:29:49Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "US ends sanctions regime against Eritrea after national emergency expires",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/264137.html",
+      "published_date": "2026-09-19T19:46:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Azerbaijan, Germany explore new opportunities for climate cooperation",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/264127.html",
+      "published_date": "2026-09-19T14:46:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran and Pakistan foreign ministers hold urgent regional security talks",
       "source": "Azernews",
@@ -137,18 +151,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Azerbaijan and Estonia explore future prospects of consular cooperation (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4225276.html",
-      "published_date": "2026-09-17T16:46:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "German, EU flags removed from Consulate building in St. Petersburg",
+      "title": "Sudan army recaptures strategic area in North Kordofan from RSF",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/264052.html",
-      "published_date": "2026-09-17T15:17:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/region/264134.html",
+      "published_date": "2026-09-19T18:10:00Z",
+      "category": "Military"
     },
     {
       "title": "Azerbaijan’s 2023 anti-terror operation: final chapter of Karabakh conflict",
@@ -284,11 +291,11 @@
       "category": "Military"
     },
     {
-      "title": "HÜRKUŞ-II becomes first Turkish aircraft to receive indigenous military type certificate",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/263972.html",
-      "published_date": "2026-09-16T18:22:00Z",
-      "category": "Military"
+      "title": "Tajikistan’s electricity and gas supply reaches $924.2M in 7M2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/tajikistan/4225700.html",
+      "published_date": "2026-09-19T20:21:00Z",
+      "category": "Energy"
     },
     {
       "title": "Türkiye’s mining sector stands out with 14.9% profit margin in 2025",
@@ -424,11 +431,60 @@
       "category": "Energy"
     },
     {
-      "title": "SOCAR, Uzbekistan move ahead with Ustyurt investment projects (PHOTO)",
+      "title": "Georgia's GDP expands in dollar terms to $10.5B in Q2",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4225242.html",
-      "published_date": "2026-09-17T13:50:04Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/scaucasus/georgia/4225701.html",
+      "published_date": "2026-09-19T22:06:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Azerbaijan's Central Bank opens tender for SQL training course",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4225702.html",
+      "published_date": "2026-09-19T21:08:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "EDB notes inflation in Uzbekistan easing to 7% in April 2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/uzbekistan/4225690.html",
+      "published_date": "2026-09-19T19:37:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "IMF warns AI could widen inequality across Europe",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/264135.html",
+      "published_date": "2026-09-19T18:40:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Baku meeting important for combating radicalism and extremism – Soltan Mammadov",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/society/4225874.html",
+      "published_date": "2026-09-19T16:40:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "France’s public debt to reach 121.7% of GDP in 2027, highest since 1995",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/264131.html",
+      "published_date": "2026-09-19T16:26:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Azerbaijan’s fuel exports give Armenia taste of peace dividend",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/analysis/264038.html",
+      "published_date": "2026-09-19T15:53:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Türkiye’s construction sector records highest debt-to-equity ratio",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/turkey/4225402.html",
+      "published_date": "2026-09-19T14:18:00Z",
+      "category": "Economy"
     },
     {
       "title": "Iran's Sadarat Bank to allocate $3M for key road project",
@@ -515,199 +571,143 @@
       "category": "Economy"
     },
     {
-      "title": "Türkiye manufacturing sector drives 39.1% of corporate profit in 2025",
+      "title": "Kazakhstan’s MoneyGram outbound transfers reach $3.48M in July",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/world/turkey/4225361.html",
-      "published_date": "2026-09-18T17:11:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/casia/kazakhstan/4225707.html",
+      "published_date": "2026-09-20T00:02:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Nasimi Gardens complex spans 120 hectares: Combining tourism and culture in Shamakhi",
+      "title": "EDB forecasts Uzbekistan's policy rate to drop to 13.5% in 2026",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4225616.html",
-      "published_date": "2026-09-18T16:11:51Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/casia/uzbekistan/4225706.html",
+      "published_date": "2026-09-19T23:12:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Japan’s rate hike risks unwinding carry trade - What it means for Azerbaijan?",
+      "title": "Footage dedicated to September 20 - Azerbaijan’s State Sovereignty Day posted on President Ilham Aliyev’s social media",
       "source": "Azernews",
-      "url": "https://www.azernews.az/analysis/264079.html",
-      "published_date": "2026-09-18T15:54:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Azerbaijan’s external fixed-capital investment reaches $1.8B in 8M2026",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4225363.html",
-      "published_date": "2026-09-18T15:11:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "EDB highlights gold’s 69% share in Uzbekistan’s exports in 2025",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4225591.html",
-      "published_date": "2026-09-18T13:51:16Z",
-      "category": "Economy"
-    },
-    {
-      "title": "For entrepreneurs: Collateral-free online loan up to 300,000 AZN!",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/business/4225596.html",
-      "published_date": "2026-09-18T13:50:46Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Tajikistan’s textile sector gains momentum with 2.8% growth in 7M2026",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/tajikistan/4225566.html",
-      "published_date": "2026-09-18T13:23:30Z",
-      "category": "Economy"
-    },
-    {
-      "title": "BHM Capital becomes first UAE market maker on Kazakhstan’s AIX",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4225570.html",
-      "published_date": "2026-09-18T13:19:25Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Post on September 20 - Azerbaijan’s State Sovereignty Day shared on President Ilham Aliyev's social media pages (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4225862.html",
-      "published_date": "2026-09-19T14:09:11Z",
+      "url": "https://www.azernews.az/nation/264140.html",
+      "published_date": "2026-09-19T20:09:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Azerbaijan glass production rises 14% in August disregarding year-to-date dip",
+      "title": "Footage dedicated to September 20 - Azerbaijan’s State Sovereignty Day posted on President Ilham Aliyev’s social media (VIDEO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4225893.html",
+      "published_date": "2026-09-19T20:06:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today marks City Day for Khankendi, Khojaly, Khojavand and Aghdere",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4225883.html",
+      "published_date": "2026-09-19T20:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia’s Irkutsk region declares high alert as bear sightings surge",
       "source": "Azernews",
-      "url": "https://www.azernews.az/business/264125.html",
-      "published_date": "2026-09-19T13:44:00Z",
+      "url": "https://www.azernews.az/region/264136.html",
+      "published_date": "2026-09-19T19:15:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Heydar Aliyev International Airport to operate in enhanced mode ahead of Formula 1",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4225853.html",
-      "published_date": "2026-09-19T13:19:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heavy smoke and flight disruptions reported near Riyadh airport following explosions",
+      "title": "Grape and wine festival opens in Azerbaijan’s Shamakhi",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/264124.html",
-      "published_date": "2026-09-19T13:07:00Z",
+      "url": "https://www.azernews.az/culture/264139.html",
+      "published_date": "2026-09-19T18:22:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Tajikistan’s pharmaceutical output holds steady in 7M2026",
+      "title": "Turkish wholesale and retail trade puts 25.7% of its assets in fixed assets",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/tajikistan/4225684.html",
-      "published_date": "2026-09-19T12:19:00Z",
+      "url": "https://www.trend.az/world/turkey/4225413.html",
+      "published_date": "2026-09-19T18:02:00Z",
       "category": "Local Events"
     },
     {
-      "title": "5th Shamakhi grape and wine festival underway in Meysari village",
+      "title": "Perth beaches closed after fatal great white shark attack",
       "source": "Azernews",
-      "url": "https://www.azernews.az/nation/264120.html",
-      "published_date": "2026-09-19T12:00:00Z",
+      "url": "https://www.azernews.az/region/264133.html",
+      "published_date": "2026-09-19T17:33:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Tajikistan, Rothschild & Co discuss further financial cooperation",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/tajikistan/4225842.html",
-      "published_date": "2026-09-19T11:32:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Grape and Wine Festival underway in Shamakhi (PHOTO/VIDEO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4225837.html",
-      "published_date": "2026-09-19T11:01:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "September 20 weather forecast: temperatures to reach 32°C in Azerbaijan",
+      "title": "First Vice-President Mehriban Aliyeva shared post on September 20 – State Sovereignty Day",
       "source": "Azernews",
-      "url": "https://www.azernews.az/nation/264116.html",
-      "published_date": "2026-09-19T10:57:00Z",
+      "url": "https://www.azernews.az/nation/264138.html",
+      "published_date": "2026-09-19T17:28:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Kazakhstan’s outbound transfers to Türkiye drop to $13.2m in July",
+      "title": "Weekly review of prices of Azeri Light, Dated Brent, and Urals",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4225803.html",
-      "published_date": "2026-09-19T10:32:00Z",
+      "url": "https://www.trend.az/azerbaijan/4225844.html",
+      "published_date": "2026-09-19T17:15:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Azerbaijan awards Isgandar Javadov with President's Honorary Diploma",
+      "title": "First VP Mehriban Aliyeva makes post on September 20 - Day of State Sovereignty of Azerbaijan (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4225877.html",
+      "published_date": "2026-09-19T17:09:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "191st Oktoberfest opens in Munich with millions of visitors expected",
       "source": "Azernews",
-      "url": "https://www.azernews.az/nation/264118.html",
-      "published_date": "2026-09-19T10:27:00Z",
+      "url": "https://www.azernews.az/region/264132.html",
+      "published_date": "2026-09-19T16:58:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Azerbaijan awards Isgandar Javadov with President's Honorary Diploma (UPDATE)",
+      "title": "Türkiye’s transport sector accounts for 46% of business cooperatives",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4225818.html",
-      "published_date": "2026-09-19T10:26:53Z",
+      "url": "https://www.trend.az/world/turkey/4225408.html",
+      "published_date": "2026-09-19T16:08:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Tokayev calls for national cleanliness standard in Kazakhstan",
+      "title": "Opening ceremony of Grape and Wine Festival held in Shamakhi (PHOTO/VIDEO)",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4225817.html",
-      "published_date": "2026-09-19T10:24:36Z",
+      "url": "https://www.trend.az/azerbaijan/society/4225870.html",
+      "published_date": "2026-09-19T15:58:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Azerbaijan awards Isgandar Javadov with President's Honorary Diploma",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4225812.html",
-      "published_date": "2026-09-19T10:18:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ombudsman: claims of rights violations against Ruben Vardanyan are unfounded",
+      "title": "Moldova reports multiple drone incursions into its airspace",
       "source": "Azernews",
-      "url": "https://www.azernews.az/nation/264115.html",
-      "published_date": "2026-09-19T10:12:00Z",
+      "url": "https://www.azernews.az/region/264128.html",
+      "published_date": "2026-09-19T15:22:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Kazakhstan enters era of historic, fateful changes, Tokayev says",
+      "title": "Tajikistan's chemical output jumps 1.6 times in 7M2026",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4225810.html",
-      "published_date": "2026-09-19T10:10:36Z",
+      "url": "https://www.trend.az/casia/tajikistan/4225678.html",
+      "published_date": "2026-09-19T15:13:00Z",
       "category": "Local Events"
     },
     {
-      "title": "September 20 – day symbolizing Azerbaijan's sovereignty",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4225805.html",
-      "published_date": "2026-09-19T10:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uzbekistan, French Eudaira sign deal to supply 10,000 tons of fertilizers",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4225804.html",
-      "published_date": "2026-09-19T09:57:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran and Pakistan exchange views on recent regional developments",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/4225798.html",
-      "published_date": "2026-09-19T09:34:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump announces “infinite life” agreement on US security in Greenland",
+      "title": "Empires fell, but poets endured: how Nasimi became symbol of Azerbaijan",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/264106.html",
-      "published_date": "2026-09-19T06:00:00Z",
+      "url": "https://www.azernews.az/nation/264129.html",
+      "published_date": "2026-09-19T15:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lukashenko says Belarus could have faced Ukraine’s fate after 2020 vote",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/264126.html",
+      "published_date": "2026-09-19T14:17:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Baku Declaration on establishing Turkic Union of Composers signed (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/society/4225856.html",
+      "published_date": "2026-09-19T14:12:00Z",
       "category": "Local Events"
     }
   ]
