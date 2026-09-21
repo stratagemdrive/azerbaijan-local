@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T14:35:20Z",
+  "generated_at": "2026-09-21T00:39:26Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,41 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Ryabkov: US-Russia talks expected in coming weeks",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/264153.html",
+      "published_date": "2026-09-20T17:17:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Europe’s car problem is not a customs problem",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/analysis/264165.html",
+      "published_date": "2026-09-20T16:06:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan’s embassy in Azerbaijan congratulates country on State Sovereignty Day",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/264172.html",
+      "published_date": "2026-09-20T15:44:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Azerbaijani MFA extends condolences to Pakistan",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4225991.html",
+      "published_date": "2026-09-20T15:07:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Embassy of Ukraine congratulates Azerbaijan on State Sovereignty Day",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4225988.html",
+      "published_date": "2026-09-20T14:47:20Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Türkiye’s embassy in Azerbaijan congratulates country on State Sovereignty Day",
       "source": "Azernews",
@@ -116,39 +151,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN and Google launch global AI data platform",
+      "title": "Pezeshkian: Iran rejects war, won't bow to bullying",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/264100.html",
-      "published_date": "2026-09-18T18:27:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/region/264173.html",
+      "published_date": "2026-09-20T19:55:00Z",
+      "category": "Military"
     },
     {
-      "title": "Kallas: EU Read Sea mission raised alert level",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/264097.html",
-      "published_date": "2026-09-18T17:21:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Turkmenistan proposes UN-backed code for peaceful AI use",
+      "title": "Azerbaijani veteran judoka becomes world champion",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/turkmenistan/4225598.html",
-      "published_date": "2026-09-18T13:53:23Z",
-      "category": "Diplomacy"
+      "url": "https://www.trend.az/azerbaijan/society/4226007.html",
+      "published_date": "2026-09-20T19:42:02Z",
+      "category": "Military"
     },
     {
-      "title": "Turkmenistan outlines priorities for 81st UN General Assembly session",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/turkmenistan/4225585.html",
-      "published_date": "2026-09-18T13:48:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armenian society choosing peace beyond political divisions, EU ambassador says",
+      "title": "Egypt's Sisi talks Gaza ceasefire with CIA chief",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/264091.html",
-      "published_date": "2026-09-18T13:42:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/region/264163.html",
+      "published_date": "2026-09-20T17:57:00Z",
+      "category": "Military"
     },
     {
       "title": "Azerbaijani Defense Ministry presents review of events of last week (VIDEO)",
@@ -267,27 +288,6 @@
       "source": "Trend News Agency",
       "url": "https://www.trend.az/azerbaijan/society/4225601.html",
       "published_date": "2026-09-18T14:49:37Z",
-      "category": "Military"
-    },
-    {
-      "title": "Army chief urges Germans to prepare for defense amid rising tensions with Russia",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/264093.html",
-      "published_date": "2026-09-18T14:38:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russia warns UK over military support for Ukraine",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/264089.html",
-      "published_date": "2026-09-18T14:04:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Drone wreckage found near German military airfield",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/264087.html",
-      "published_date": "2026-09-18T12:01:05Z",
       "category": "Military"
     },
     {
@@ -431,6 +431,34 @@
       "category": "Energy"
     },
     {
+      "title": "Georgia's construction output falls 7.7% over two years",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/scaucasus/georgia/4225717.html",
+      "published_date": "2026-09-20T22:15:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Danish PM heads to NY for Greenland talks",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/264166.html",
+      "published_date": "2026-09-20T16:39:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Azerbaijan's Finance Ministry announces tender for renovation work",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4225753.html",
+      "published_date": "2026-09-20T16:16:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Construction work continues in Azerbaijan's Aghdam, Fuzuli, and Khojavend",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4225986.html",
+      "published_date": "2026-09-20T15:40:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "Netanyahu vows response to West Bank attacks",
       "source": "Azernews",
       "url": "https://www.azernews.az/region/264167.html",
@@ -543,171 +571,143 @@
       "category": "Economy"
     },
     {
-      "title": "Iran's Mercantile Exchange sales post 47.5% growth",
+      "title": "Paynet secures 51% stake in Uzbekistan’s GOINVEST",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/4225848.html",
-      "published_date": "2026-09-19T12:57:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/casia/uzbekistan/4225834.html",
+      "published_date": "2026-09-20T23:18:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Uzbekistan’s Qizilqumsement approves $50m loan from Uzpromstroybank",
+      "title": "Iranian banks multiply trade lending by 95%",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4225828.html",
-      "published_date": "2026-09-19T11:48:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/iran/4225839.html",
+      "published_date": "2026-09-20T21:13:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Tajikistan highlights Rogun HPP, investment opportunities at London roundtable",
+      "title": "Turkmennebit relaunches tender for new elevator at refinery",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/tajikistan/4225832.html",
-      "published_date": "2026-09-19T10:55:47Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/casia/turkmenistan/4225757.html",
+      "published_date": "2026-09-20T20:07:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Tajikistan, EBRD discuss priority areas for further cooperation",
+      "title": "Trump posts CNN, Politico as garbage bags after ban",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/264175.html",
+      "published_date": "2026-09-20T19:39:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Seven armed groups announce coalition against Ethiopian government",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/264178.html",
+      "published_date": "2026-09-20T19:17:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijan opens tender to improve water supply in Fuzuli villages",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/tajikistan/4225823.html",
-      "published_date": "2026-09-19T10:44:34Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/azerbaijan/4225742.html",
+      "published_date": "2026-09-20T19:14:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "French TV channel apologizes after documentary depicting nuclear strike on Tel Aviv",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/264177.html",
+      "published_date": "2026-09-20T19:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia: West calls for non-recognition of our elections",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/264170.html",
+      "published_date": "2026-09-20T18:25:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Grapes, wine and music — this is how festival in Azerbaijan's Shamakhi concludes (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/society/4226002.html",
+      "published_date": "2026-09-20T18:21:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Grape and Wine Festival conclides in Shamakhi",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/events/264174.html",
+      "published_date": "2026-09-20T18:14:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkmengeology extends tender deadline for Akpatlawuk field",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/turkmenistan/4225768.html",
+      "published_date": "2026-09-20T18:12:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijan's SOFAZ announces tender for team-building activities",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4225759.html",
+      "published_date": "2026-09-20T17:07:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijani gymnasts win medals at world acrobatics competitions (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4225995.html",
+      "published_date": "2026-09-20T16:03:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mass illness among children at Tbilisi kindergartens: norovirus explanation questioned",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/mass-illness-among-children-at-tbilisi-kindergartens-norovirus-explanation-questioned/",
+      "published_date": "2026-09-20T16:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump: Very big things coming on Iran",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/264169.html",
+      "published_date": "2026-09-20T15:35:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijan announces tender for 23 modular school buildings",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4225748.html",
+      "published_date": "2026-09-20T15:10:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "US warns Americans in Saudi Arabia and Kuwait of potential escalation and travel disruptions",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/264168.html",
+      "published_date": "2026-09-20T15:06:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Houthis: We may close Saudi airports",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/264162.html",
+      "published_date": "2026-09-20T15:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijani official outlines progress of return to Khojavend district",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4225984.html",
+      "published_date": "2026-09-20T14:38:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Kazakhstan’s money transfers to Russia drop 23.2% in July 2026",
       "source": "Trend News Agency",
       "url": "https://www.trend.az/casia/kazakhstan/4225763.html",
       "published_date": "2026-09-20T14:19:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan's Khodjavend hosts event marking City Day (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4225973.html",
-      "published_date": "2026-09-20T13:36:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran intends to develop relations with Kazakhstan in various fields",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/4225968.html",
-      "published_date": "2026-09-20T13:20:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkmennebit extends tender deadline for bitumen plant upgrade",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/turkmenistan/4225765.html",
-      "published_date": "2026-09-20T13:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ADA University faculty and students stage Uzeyir Hajibeyli operetta in Ganja",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/264161.html",
-      "published_date": "2026-09-20T13:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia says election official killed in Ukrainian attack",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/264164.html",
-      "published_date": "2026-09-20T12:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Caucasian Albania debate is becoming new battlefield in South Caucasus",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/analysis/264158.html",
-      "published_date": "2026-09-20T12:31:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan's Customs Committee opens tender for Mazimgara checkpoint upgrade",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4225744.html",
-      "published_date": "2026-09-20T12:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkmen branch of Italy's Eni opens prequalification for testing services tender",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/turkmenistan/4225761.html",
-      "published_date": "2026-09-20T11:21:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Grape and Wine Festival continues in Shamakhi with music and tastings",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/events/264157.html",
-      "published_date": "2026-09-20T11:11:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Second day of Grape and Wine Festival kicks off in Azerbaijan's Shamakhi (VIDEO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4225962.html",
-      "published_date": "2026-09-20T11:09:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tajikistan’s water and waste sector output jumps 18.8%",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/tajikistan/4225754.html",
-      "published_date": "2026-09-20T10:22:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan Premier League Matchday 6 concludes with two games today",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/sports/264150.html",
-      "published_date": "2026-09-20T09:35:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan's Foreign Ministry congratulates Azerbaijan on State Sovereignty Day",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4225947.html",
-      "published_date": "2026-09-20T08:39:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Around 100,000 vote online in Duma election overnight",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/264147.html",
-      "published_date": "2026-09-20T08:31:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "EDB forecasts Uzbekistan’s soum at 12,200 per dollar in 2026",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4225746.html",
-      "published_date": "2026-09-20T07:24:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijani FM departs for New York on working visit",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4225935.html",
-      "published_date": "2026-09-20T07:03:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "First day of Shamakhi Grape and Wine Festival continues with concert program",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/events/264144.html",
-      "published_date": "2026-09-20T06:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkmennebit opens international tender for plant and drilling equipment",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/turkmenistan/4225755.html",
-      "published_date": "2026-09-20T06:14:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Restoration of Azerbaijan's state sovereignty creates new political reality in region - MFA",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4225926.html",
-      "published_date": "2026-09-20T06:13:26Z",
       "category": "Local Events"
     }
   ]
