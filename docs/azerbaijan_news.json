@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T16:50:00Z",
+  "generated_at": "2026-09-22T01:21:14Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Jeyhun Bayramov attends informal luncheon organized by the World Economic Forum",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4226364.html",
+      "published_date": "2026-09-21T19:17:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Azerbaijani Railways and Hamburg Port sign cooperation agreement (PHOTO)",
       "source": "Trend News Agency",
@@ -144,11 +151,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Southeast Asian countries eye TIR route to Europe via Middle Corridor - IRU (Exclusive)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/4225789.html",
-      "published_date": "2026-09-19T10:00:00Z",
-      "category": "Diplomacy"
+      "title": "OpenAI said to have been nearing AI deal with Anthropic",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/264221.html",
+      "published_date": "2026-09-21T19:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Trump: 'Fake news' poses national security threat",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/264223.html",
+      "published_date": "2026-09-21T18:22:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Gaza authorities blame Israel for Al-Saada building collapse that killed 21",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/264224.html",
+      "published_date": "2026-09-21T17:19:00Z",
+      "category": "Military"
     },
     {
       "title": "AI’s race to superintelligence is raising a new question: who can hit the brakes?",
@@ -270,25 +291,32 @@
       "category": "Military"
     },
     {
-      "title": "OpenAI security flaw discovered using claude AI model",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/264123.html",
-      "published_date": "2026-09-20T05:00:00Z",
-      "category": "Military"
+      "title": "Turkish farmers face 4.82% surge in energy, lubricant costs",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/turkey/4226224.html",
+      "published_date": "2026-09-22T00:17:00Z",
+      "category": "Energy"
     },
     {
-      "title": "ASELSAN unveils next-generation ‘SMASH 300’ remote weapon system",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/264122.html",
-      "published_date": "2026-09-20T04:00:00Z",
-      "category": "Military"
+      "title": "Georgia increases natural gas imports from Azerbaijan by nearly 7%",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4226191.html",
+      "published_date": "2026-09-21T20:14:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Sudan army recaptures strategic area in North Kordofan from RSF",
+      "title": "Iran increases electricity imports from Azerbaijan by nearly 45%",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4226168.html",
+      "published_date": "2026-09-21T19:34:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Zelenskyy says Ukraine ready for de-escalation if Russia stops energy and food strikes",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/264134.html",
-      "published_date": "2026-09-19T18:10:00Z",
-      "category": "Military"
+      "url": "https://www.azernews.az/region/264225.html",
+      "published_date": "2026-09-21T17:52:00Z",
+      "category": "Energy"
     },
     {
       "title": "ExxonMobil: Global CO₂ emissions to peak this decade",
@@ -403,32 +431,46 @@
       "category": "Energy"
     },
     {
-      "title": "Tajikistan’s electricity and gas supply reaches $924.2M in 7M2026",
+      "title": "Kazakhstan's remittances to Uzbekistan fall 11.3% in July 2026",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/tajikistan/4225700.html",
-      "published_date": "2026-09-19T20:21:00Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/casia/kazakhstan/4226240.html",
+      "published_date": "2026-09-22T01:16:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Türkiye’s mining sector stands out with 14.9% profit margin in 2025",
+      "title": "Azerbaijan sees 9% growth in value of exports to Czech Republic",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/world/turkey/4225397.html",
-      "published_date": "2026-09-19T11:17:00Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/azerbaijan/4226162.html",
+      "published_date": "2026-09-21T23:13:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Uzbekistan, China Southern Power Grid plan EV charging network",
+      "title": "Türkiye's farm input costs growth slows to 27.6% in July - TUIK",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4225822.html",
-      "published_date": "2026-09-19T10:51:00Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/world/turkey/4226218.html",
+      "published_date": "2026-09-21T22:04:00Z",
+      "category": "Economy"
     },
     {
-      "title": "President Ilham Aliyev awards oil industry workers",
+      "title": "Iran's Statistical Center reports 10% GDP decrease",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4226197.html",
+      "published_date": "2026-09-21T21:16:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "German car industry protests factory cuts",
       "source": "Azernews",
-      "url": "https://www.azernews.az/nation/264117.html",
-      "published_date": "2026-09-19T10:17:00Z",
-      "category": "Energy"
+      "url": "https://www.azernews.az/region/264219.html",
+      "published_date": "2026-09-21T19:30:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Russia nearly doubles its investment in Azerbaijan's economy",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4226148.html",
+      "published_date": "2026-09-21T18:10:00Z",
+      "category": "Economy"
     },
     {
       "title": "Uzbekistan’s Agat Credit sets date for debut $10M bonds",
@@ -529,46 +571,18 @@
       "category": "Economy"
     },
     {
-      "title": "Iran releases currency exchange rates for September 20",
+      "title": "Armenia marks 35 years of independence: the country’s gains and losses, according to AI",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/armenia-marks-35-years-of-independence-the-countrys-gains-and-losses-according-to-ai/",
+      "published_date": "2026-09-21T17:20:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkmennebit announces international tender for plant and drilling equipment",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/4225922.html",
-      "published_date": "2026-09-20T06:04:08Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi Arabia exits China's digital currency project",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/264143.html",
-      "published_date": "2026-09-20T06:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Georgia's GDP expands in dollar terms to $10.5B in Q2",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/scaucasus/georgia/4225701.html",
-      "published_date": "2026-09-19T22:06:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Azerbaijan's Central Bank opens tender for SQL training course",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4225702.html",
-      "published_date": "2026-09-19T21:08:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "EDB notes inflation in Uzbekistan easing to 7% in April 2026",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4225690.html",
-      "published_date": "2026-09-19T19:37:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "IMF warns AI could widen inequality across Europe",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/264135.html",
-      "published_date": "2026-09-19T18:40:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/casia/turkmenistan/4226116.html",
+      "published_date": "2026-09-21T17:09:00Z",
+      "category": "Local Events"
     },
     {
       "title": "‘Intergenerational solidarity’ and avoiding payments: how pensions work in Abkhazia",
@@ -694,20 +708,6 @@
       "source": "Trend News Agency",
       "url": "https://www.trend.az/casia/uzbekistan/4226306.html",
       "published_date": "2026-09-21T13:28:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New interpretation of Georgia’s relations with Russia? How history is presented in new school textbooks",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/new-interpretation-of-georgias-relations-with-russia-how-history-is-presented-in-new-school-textbooks/",
-      "published_date": "2026-09-21T13:27:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ganjasar Monastery reflects legacy of Albanian Church — chairman",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4226287.html",
-      "published_date": "2026-09-21T13:25:00Z",
       "category": "Local Events"
     }
   ]
