@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T18:31:15Z",
+  "generated_at": "2026-09-29T02:24:18Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Kazakhstan’s trade with EU rises to $26.36B in January-July",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kazakhstan/4228688.html",
+      "published_date": "2026-09-28T19:32:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Middle Corridor could cut delivery times to 18–19 days by 2040 – WB",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/4228992.html",
+      "published_date": "2026-09-28T18:35:27Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Additional investments in Middle Corridor will need to be considered in 2030s – WB",
       "source": "Trend News Agency",
@@ -134,20 +148,6 @@
       "source": "Trend News Agency",
       "url": "https://www.trend.az/azerbaijan/politics/4228517.html",
       "published_date": "2026-09-27T08:04:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Marneuli hosts event honoring Azerbaijani martyrs",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/264560.html",
-      "published_date": "2026-09-27T07:03:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Azerbaijan MFA issues statement on Remembrance Day",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/264562.html",
-      "published_date": "2026-09-27T06:50:00Z",
       "category": "Diplomacy"
     },
     {
@@ -431,10 +431,38 @@
       "category": "Energy"
     },
     {
+      "title": "Azerbaijan's Central Bank opens tender for new server equipment",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4228801.html",
+      "published_date": "2026-09-29T01:03:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Azerbaijan sees strong growth in Karabakh and East Zangezur lending",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4228756.html",
+      "published_date": "2026-09-28T23:12:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "EDB reports strong growth in Tajikistan’s state budget",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/tajikistan/4228696.html",
+      "published_date": "2026-09-28T20:15:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "EDB reports strong growth in Tajikistan’s state budget revenues",
       "source": "Trend News Agency",
       "url": "https://www.trend.az/casia/tajikistan/4228676.html",
       "published_date": "2026-09-28T18:08:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Local man in Abkhazia confesses to killing Russian tourist",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/killing-of-russian-tourist-in-abkhazia/",
+      "published_date": "2026-09-28T17:00:00Z",
       "category": "Economy"
     },
     {
@@ -543,32 +571,53 @@
       "category": "Economy"
     },
     {
-      "title": "EDB notes strong investment growth in Tajikistan amid economic expansion",
+      "title": "Iran-Uzbekistan trade turnover exceeds $280 million",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/tajikistan/4228510.html",
-      "published_date": "2026-09-27T16:15:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/iran/4229010.html",
+      "published_date": "2026-09-29T01:12:37Z",
+      "category": "Local Events"
     },
     {
-      "title": "US, China agree on reciprocal tariff cuts covering $30 billion in goods",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/264579.html",
-      "published_date": "2026-09-27T16:07:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "EDB forecasts strong growth in Tajikistan’s retail trade",
+      "title": "Turkmen branch of Russia’s Tatneft bids tender for 1C accounting system",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/tajikistan/4228516.html",
-      "published_date": "2026-09-27T14:21:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/casia/turkmenistan/4228722.html",
+      "published_date": "2026-09-29T00:04:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Azerbaijan seeks to expand partnership with Brookfield Asset Management",
+      "title": "Turkmen exchange quotations surge 36.9% as agriculture overtakes petrochemicals",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/turkmenistan/4228720.html",
+      "published_date": "2026-09-28T22:24:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Uzbekistan announces tender for 37 passenger transport routes",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/uzbekistan/4228704.html",
+      "published_date": "2026-09-28T21:02:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijan’s Deputy PM meets with Iranian Minister of Roads and Urban Development",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4228997.html",
+      "published_date": "2026-09-28T20:01:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nvidia approves $150B stock buyback increase",
       "source": "Azernews",
-      "url": "https://www.azernews.az/business/264569.html",
-      "published_date": "2026-09-27T13:33:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/region/264647.html",
+      "published_date": "2026-09-28T19:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Moroccan king warns against attacks targeting Saudi Arabia and holy sites",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/264644.html",
+      "published_date": "2026-09-28T19:00:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Israel may have asked UAE to deny October 7 warning",
@@ -659,55 +708,6 @@
       "source": "Azernews",
       "url": "https://www.azernews.az/culture/264610.html",
       "published_date": "2026-09-28T12:37:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "bp completes subsea intervention campaign at Deepwater Gunashli",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/oil_and_gas/264625.html",
-      "published_date": "2026-09-28T11:32:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feeding and observing wild birds linked to positive wellbeing, study finds",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/lifestyle/264599.html",
-      "published_date": "2026-09-28T10:01:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran-Uzbekistan trade turnover exceeds $280 million",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/4228545.html",
-      "published_date": "2026-09-27T19:34:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Greenland, Antarctica lose 11.3 trillion tonnes of ice since 1979",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/264590.html",
-      "published_date": "2026-09-27T19:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Georgia interested in restoring strategic partnership with US",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/264588.html",
-      "published_date": "2026-09-27T18:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkmenistan's Goturdepe drilling exceeds eight-month target by 36%",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/turkmenistan/4228573.html",
-      "published_date": "2026-09-27T18:02:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "$3 million worth of agricultural facilities commissioned in Iran's West Azerbaijan province",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/4228524.html",
-      "published_date": "2026-09-27T17:19:00Z",
       "category": "Local Events"
     }
   ]
