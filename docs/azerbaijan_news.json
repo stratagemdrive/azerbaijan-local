@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T16:32:14Z",
+  "generated_at": "2026-10-03T01:33:45Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Pakistan FM: Mecca defense committee to meet in Riyadh",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/264883.html",
+      "published_date": "2026-10-02T17:44:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Azerbaijani soldier who entered Armenia fired at local residents",
       "source": "JAMnews",
@@ -71,6 +78,13 @@
       "source": "Azernews",
       "url": "https://www.azernews.az/business/264874.html",
       "published_date": "2026-10-02T12:21:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia, Azerbaijan, and Georgia, top stories this morning",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/news-in-azerbaijan-armenia-and-georgia-27-september-2-october-2026/",
+      "published_date": "2026-10-02T04:30:00Z",
       "category": "Diplomacy"
     },
     {
@@ -137,18 +151,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EDB, UN-Habitat sign memorandum on urban development projects",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/4230229.html",
-      "published_date": "2026-10-01T13:46:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "KAZAKH INVEST, Bayern International sign cooperation memorandum",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4230224.html",
-      "published_date": "2026-10-01T13:44:59Z",
-      "category": "Diplomacy"
+      "title": "Cybercriminals turn to AI in new wave of sophisticated fraud",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/264892.html",
+      "published_date": "2026-10-02T20:42:42Z",
+      "category": "Military"
     },
     {
       "title": "Trump's son-in-law Kushner's financial links to Israeli defense sector raise conflict-of-interest concerns",
@@ -284,11 +291,11 @@
       "category": "Military"
     },
     {
-      "title": "Türkiye's Karel eyes role in modernizing Azerbaijan's Air Force fleet",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4229787.html",
-      "published_date": "2026-09-30T14:14:03Z",
-      "category": "Military"
+      "title": "Trump announces $8.4B oil project under Korea deal",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/264885.html",
+      "published_date": "2026-10-02T17:12:00Z",
+      "category": "Energy"
     },
     {
       "title": "LNG flows through Hormuz accelerate despite security risks",
@@ -424,11 +431,39 @@
       "category": "Energy"
     },
     {
-      "title": "Kazakhstan proposes joint portfolio of energy infrastructure projects with Germany",
+      "title": "Türkiye’s government debt climbs 42% as debt ratio stays near 24%",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4229374.html",
-      "published_date": "2026-09-29T17:00:01Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/world/turkey/4230532.html",
+      "published_date": "2026-10-03T01:16:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Türkiye swings to 1.65% primary budget surplus in 2025",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/turkey/4230528.html",
+      "published_date": "2026-10-02T23:05:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Georgia’s transport costs drive nearly 40% of Inflation in September",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/scaucasus/georgia/4230510.html",
+      "published_date": "2026-10-02T22:09:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Georgia’s inflation reaches 5.6% in September 2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/scaucasus/georgia/4230509.html",
+      "published_date": "2026-10-02T17:11:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "New communication initiatives discussed at Karabakh University",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/events/264891.html",
+      "published_date": "2026-10-02T16:46:00Z",
+      "category": "Economy"
     },
     {
       "title": "Azerbaijan, World Bank discuss cooperation in financial access and transport (PHOTO)",
@@ -536,39 +571,81 @@
       "category": "Economy"
     },
     {
-      "title": "Azerbaijan, Greece strengthen energy ties",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/264822.html",
-      "published_date": "2026-10-01T14:18:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Mobile banking accounts for 89% of Kazakhstan's cashless payment volume",
+      "title": "Georgia's education prices fall 12.5% in September 2026",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4230231.html",
-      "published_date": "2026-10-01T13:51:51Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/scaucasus/georgia/4230512.html",
+      "published_date": "2026-10-03T00:13:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Documentary 'Towards Tomorrow' chronicles reconstruction in Karabakh",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/264791.html",
-      "published_date": "2026-10-01T11:59:00Z",
-      "category": "Economy"
+      "title": "Uzbekistan opens tender for passenger transport routes",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/uzbekistan/4230501.html",
+      "published_date": "2026-10-02T21:07:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Caspian Sea falls to lowest level in 48 years as experts warn of environmental and economic risks",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/264806.html",
-      "published_date": "2026-10-01T10:36:00Z",
-      "category": "Economy"
+      "title": "Chronicles of Victory: October 3, 2020",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4230476.html",
+      "published_date": "2026-10-02T20:01:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Jabbarov: Azerbaijan and Central Asia target $20 billion trade",
+      "title": "Hugh Jackman’s “Treasure Island” release date announced",
       "source": "Azernews",
-      "url": "https://www.azernews.az/business/264804.html",
-      "published_date": "2026-10-01T10:22:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/region/264886.html",
+      "published_date": "2026-10-02T19:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "China’s industrial profits soar to $786B in 8M2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/4230446.html",
+      "published_date": "2026-10-02T19:18:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "China sets passenger rail record",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/264888.html",
+      "published_date": "2026-10-02T19:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kyrgyzstan launches its first satellite",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/264887.html",
+      "published_date": "2026-10-02T18:16:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Uzbekistan’s securities trading volume hits $1.26B by September",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/uzbekistan/4230401.html",
+      "published_date": "2026-10-02T18:09:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "EU Council delegation visits Azerbaijan’s Aghdam district (PHOTO/VIDEO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4230684.html",
+      "published_date": "2026-10-02T16:37:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "IRGC warns of 'painful' response to aggression",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/264884.html",
+      "published_date": "2026-10-02T16:37:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two German foundations shut down in Georgia, citing government restrictions",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/two-german-foundations-shut-down-in-georgia-citing-government-restrictions/",
+      "published_date": "2026-10-02T16:36:48Z",
+      "category": "Local Events"
     },
     {
       "title": "Petrochemicals drive up Turkmen exchange quotation value",
@@ -631,83 +708,6 @@
       "source": "Trend News Agency",
       "url": "https://www.trend.az/azerbaijan/4230650.html",
       "published_date": "2026-10-02T14:47:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kazakhstan launches Astana AI Film Festival",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4230652.html",
-      "published_date": "2026-10-02T14:02:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minecraft Dungeons II launches with completely new dimension",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/264867.html",
-      "published_date": "2026-10-02T14:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ADA University graduates play major role in transforming Azerbaijan - Hafiz Pashayev",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4230646.html",
-      "published_date": "2026-10-02T13:53:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kazakhstan's Astana to host GSMA M360 Eurasia international forum in 2027",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4230647.html",
-      "published_date": "2026-10-02T13:53:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Türkiye's local governments post $1.60B surplus in 2025",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/world/turkey/4230644.html",
-      "published_date": "2026-10-02T13:51:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kazakhstan’s Dasco Capital, QIC seal $50M AI and creative fund deal",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4230643.html",
-      "published_date": "2026-10-02T13:49:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan’s current agenda far different from 34 years ago - Hafiz Pashayev",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4230639.html",
-      "published_date": "2026-10-02T13:48:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Music, fashion and social media bring 2016 era back",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/264868.html",
-      "published_date": "2026-10-02T13:09:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pentagon expands tests of uncrewed boats on Rio Grande and Gulf of Mexico",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/264872.html",
-      "published_date": "2026-10-02T12:42:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "14 years in power: how experts assess Georgian Dream’s rule",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/14-years-in-power-how-experts-assess-georgian-dreams-rule/",
-      "published_date": "2026-10-02T12:23:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Footage of President Ilham Aliyev's participation at 8th Congress of New Azerbaijan Party shared on his social media",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/264878.html",
-      "published_date": "2026-10-02T12:05:30Z",
       "category": "Local Events"
     }
   ]
