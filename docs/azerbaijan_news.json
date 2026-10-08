@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T17:41:41Z",
+  "generated_at": "2026-10-08T02:21:53Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Sovereignty, territorial integrity and non-interference in the internal affairs of States are principles of the UN Charter - Shahriyar Hajiyev",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4232304.html",
+      "published_date": "2026-10-07T23:18:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Azerbaijan, Uzbekistan hold another round of consular consultations (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4232302.html",
+      "published_date": "2026-10-07T18:45:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Next G7 diesel release may not add new stock",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/265149.html",
+      "published_date": "2026-10-07T18:30:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Azerbaijani FM stresses importance of Middle Corridor, regional cooperation (PHOTO)",
       "source": "Trend News Agency",
@@ -95,6 +116,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Armenia, Azerbaijan, and Georgia, top stories this morning",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/news-in-azerbaijan-armenia-georgia-5-9-october-2026/",
+      "published_date": "2026-10-07T05:30:00Z",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Blueing Caspian Sea to deepen regional environmental cooperation - UN (Exclusive)",
       "source": "Trend News Agency",
       "url": "https://www.trend.az/casia/turkmenistan/4231886.html",
@@ -123,32 +151,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Rubio: Ukraine NATO membership not on table",
+      "title": "IDF chief: We must always be ready for surprise war",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/265084.html",
-      "published_date": "2026-10-06T13:14:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Azerbaijani President: We placed priorities of SIDS at the forefront of our COP29 Presidency",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/265078.html",
-      "published_date": "2026-10-06T12:15:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Azerbaijan, US discuss TRIPP project and strategic partnership",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/265074.html",
-      "published_date": "2026-10-06T11:21:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Azerbaijan and US review strategic partnership in Bayramov Rubio call",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/265035.html",
-      "published_date": "2026-10-05T20:26:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/region/265147.html",
+      "published_date": "2026-10-07T17:55:00Z",
+      "category": "Military"
     },
     {
       "title": "Russia says no request to mediate Houthi-Saudi conflict",
@@ -284,11 +291,11 @@
       "category": "Military"
     },
     {
-      "title": "Azerbaijani Defense Ministry presents review of events of last week (VIDEO)",
+      "title": "Iran's Bistoon company generates 2.58B kWh of electricity",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4231078.html",
-      "published_date": "2026-10-04T17:19:00Z",
-      "category": "Military"
+      "url": "https://www.trend.az/iran/nuclearp/4232012.html",
+      "published_date": "2026-10-07T18:16:00Z",
+      "category": "Energy"
     },
     {
       "title": "SECO sets water, energy as key Tajikistan priorities (Exclusive)",
@@ -424,11 +431,25 @@
       "category": "Energy"
     },
     {
-      "title": "Fitch Solutions forecasts Brent oil price to fall to $71 per barrel in 2027",
+      "title": "Google Chrome retains lead in Azerbaijan's browser market",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/business/4232212.html",
+      "published_date": "2026-10-08T01:17:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Uzbekistan welcomes 10.3M foreign tourists in nine months, up 20.4%",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/uzbekistan/4232205.html",
+      "published_date": "2026-10-07T22:14:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Nvidia may have planned $1B investment in Figure",
       "source": "Azernews",
-      "url": "https://www.azernews.az/oil_and_gas/265011.html",
-      "published_date": "2026-10-05T13:47:00Z",
-      "category": "Energy"
+      "url": "https://www.azernews.az/region/265146.html",
+      "published_date": "2026-10-07T19:30:00Z",
+      "category": "Economy"
     },
     {
       "title": "Azerbaijan’s stock market jumps 100-fold as investors look beyond bank deposits",
@@ -550,25 +571,60 @@
       "category": "Economy"
     },
     {
-      "title": "Baku Stock Exchange sees massive surge in corporate securities and share trading",
+      "title": "Tajikistan's Kulob commissions 618,000 sq m of housing since independence",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/tajikistan/4232272.html",
+      "published_date": "2026-10-08T02:21:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Uzbekistan clearing payments jump 63.3% to 19.9M in September",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/uzbekistan/4232180.html",
+      "published_date": "2026-10-08T00:12:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijan's business loans near $10.5B as of Sept. 1",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/business/4232108.html",
+      "published_date": "2026-10-07T23:16:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mastercard cards in use in Kazakhstan fall 7.9% to 3.12M",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kazakhstan/4232210.html",
+      "published_date": "2026-10-07T21:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Çelik warns against foreign attempts to drive wedge between Türkiye and Azerbaijan",
       "source": "Azernews",
-      "url": "https://www.azernews.az/business/265067.html",
-      "published_date": "2026-10-06T10:27:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/nation/265154.html",
+      "published_date": "2026-10-07T21:09:11Z",
+      "category": "Local Events"
     },
     {
-      "title": "Uzbekistan’s market services rise 16.7% to $67.8B in January-July",
+      "title": "Chronicles of Victory: October 8, 2020",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4231495.html",
-      "published_date": "2026-10-05T22:23:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/azerbaijan/4232243.html",
+      "published_date": "2026-10-07T20:01:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Türkiye's telecom sector leads AI use at 63.7%, construction trails",
+      "title": "Turkmenistan announces tender for Ashgabat road reconstruction",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/world/turkey/4231134.html",
-      "published_date": "2026-10-05T21:12:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/casia/turkmenistan/4232064.html",
+      "published_date": "2026-10-07T19:20:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Google launches game-making platform Playground",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/265148.html",
+      "published_date": "2026-10-07T19:00:00Z",
+      "category": "Local Events"
     },
     {
       "title": "China’s CNPC Turkmen branch bids for wireline well logging services",
@@ -652,62 +708,6 @@
       "source": "Azernews",
       "url": "https://www.azernews.az/culture/265116.html",
       "published_date": "2026-10-07T14:03:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran sees 21.6% rise in checks exchanged in fifth month",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/4232236.html",
-      "published_date": "2026-10-07T13:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan-Germany ties targeted amid Hanning espionage investigation",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/editorial/265142.html",
-      "published_date": "2026-10-07T13:42:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uzbekistan, Russia sign 2026–2040 science, technology strategy",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4232244.html",
-      "published_date": "2026-10-07T13:34:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tokayev, Putin discuss upcoming joint events",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4232241.html",
-      "published_date": "2026-10-07T13:27:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uzbekistan, African C4+1 countries discuss agricultural cooperation",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4232231.html",
-      "published_date": "2026-10-07T13:22:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kazakhstan's Prodcorp ready to consider Oman grain deals up to 500,000 tons",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4232230.html",
-      "published_date": "2026-10-07T13:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Erdogan highlights expansion of Turkish higher education, AI and university innovation",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/265140.html",
-      "published_date": "2026-10-07T12:58:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uzbekistan's Uzsuvtaminot, French Veolia explore water sector PPP projects",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4232216.html",
-      "published_date": "2026-10-07T12:47:13Z",
       "category": "Local Events"
     }
   ]
