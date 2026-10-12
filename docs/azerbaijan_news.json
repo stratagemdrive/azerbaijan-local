@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T16:34:40Z",
+  "generated_at": "2026-10-12T01:54:39Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -151,6 +151,34 @@
       "category": "Diplomacy"
     },
     {
+      "title": "EU to provide additional military aid to Ukraine",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/265370.html",
+      "published_date": "2026-10-11T19:12:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Nuclear war and AI could threaten human survival",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/265369.html",
+      "published_date": "2026-10-11T18:45:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan president approves emergency measures in Khyber Pakhtunkhwa",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/265366.html",
+      "published_date": "2026-10-11T17:22:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli military announces killing of Hamas commander in southern Gaza",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/265365.html",
+      "published_date": "2026-10-11T16:55:00Z",
+      "category": "Military"
+    },
+    {
       "title": "Ukraine ready to hold elections under 60-day ceasefire, Zelenskyy says",
       "source": "Azernews",
       "url": "https://www.azernews.az/region/265363.html",
@@ -263,32 +291,18 @@
       "category": "Military"
     },
     {
-      "title": "Armenian soldier found dead with gunshot wound",
+      "title": "Russian diesel imports could benefit American consumers, Bessent says",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/265327.html",
-      "published_date": "2026-10-10T14:06:00Z",
-      "category": "Military"
+      "url": "https://www.azernews.az/region/265372.html",
+      "published_date": "2026-10-11T19:40:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Drone attack on Russia’s Rostov region injures six and damages two ships",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/265310.html",
-      "published_date": "2026-10-10T11:01:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "IDF destroys 4 Palestinian weapon storage facilities",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/265278.html",
-      "published_date": "2026-10-09T18:26:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Armenian AI factory rejects Russian allegations of intelligence gathering",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/armenian-ai-factory-rejects-russian-allegations-of-intelligence-gathering/",
-      "published_date": "2026-10-09T18:12:53Z",
-      "category": "Military"
+      "title": "Azerbaijan boosts oil exports to Greece by 22%",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/business/4233438.html",
+      "published_date": "2026-10-11T16:47:15Z",
+      "category": "Energy"
     },
     {
       "title": "Iran reports major pollution after strikes on southern energy facilities",
@@ -417,18 +431,25 @@
       "category": "Energy"
     },
     {
-      "title": "Kazakhstan, Kuwait's KPI discuss oil, gas, and aviation fuel cooperation",
+      "title": "Google Chrome retains lead in Azerbaijan's browser market",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4231888.html",
-      "published_date": "2026-10-06T14:16:38Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/azerbaijan/business/4233452.html",
+      "published_date": "2026-10-12T00:55:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Uzbekistan plans to exceed 10 GW of wind power capacity by 2030",
+      "title": "Kazakhstan’s imports rise 5.5% as purchases of consumer goods decline",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4231879.html",
-      "published_date": "2026-10-06T13:59:54Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/casia/kazakhstan/4233450.html",
+      "published_date": "2026-10-11T23:46:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran's Sistan and Baluchestan customs record $110M exports",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4233448.html",
+      "published_date": "2026-10-11T21:07:00Z",
+      "category": "Economy"
     },
     {
       "title": "Kazakhstan’s annual inflation slows to 9.3% in September",
@@ -550,25 +571,39 @@
       "category": "Economy"
     },
     {
-      "title": "East Zangezur industrial output falls 5.4% in 2025",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/business/265312.html",
-      "published_date": "2026-10-10T13:17:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Kyrgyzstan and Mongolia discuss expanding trade and economic ties",
+      "title": "Iran's Hormozgan ports handle 3.84M tons of cargo in six months",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kyrgyzstan/4233294.html",
-      "published_date": "2026-10-10T12:32:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/iran/4233449.html",
+      "published_date": "2026-10-11T22:18:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Azerbaijan's cotton exports rise 23.3% in January-August",
+      "title": "Chronicles of Victory: October 12, 2020",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4233431.html",
+      "published_date": "2026-10-11T20:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijani boxer becomes European champion",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4233445.html",
+      "published_date": "2026-10-11T19:02:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijani boxer wins gold at U-17 European Championships",
       "source": "Azernews",
-      "url": "https://www.azernews.az/business/265322.html",
-      "published_date": "2026-10-10T12:03:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/sports/265368.html",
+      "published_date": "2026-10-11T18:17:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pope Leo XIV schedules lung surgery ahead of South America tour",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/265367.html",
+      "published_date": "2026-10-11T17:49:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Cambodian Prime Minister Hun Manet arrives in Azerbaijan on official visit",
@@ -673,41 +708,6 @@
       "source": "Trend News Agency",
       "url": "https://www.trend.az/casia/turkmenistan/4233280.html",
       "published_date": "2026-10-11T05:12:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Countries with highest demand for coffee worldwide revealed",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/265337.html",
-      "published_date": "2026-10-11T05:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chronicles of Victory: First VP Mehriban Aliyeva shares post on Armenian armed forces’ firing rockets on Ganja on October 11, 2020 (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4233275.html",
-      "published_date": "2026-10-11T03:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Georgia’s education non-profits capture 34.2% of auxiliary turnover",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/scaucasus/georgia/4233398.html",
-      "published_date": "2026-10-11T02:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkmenistan's POS card payments rise 11.3% in 8 months",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/scaucasus/georgia/4233277.html",
-      "published_date": "2026-10-11T01:04:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kazakhstan’s UPT money transfers abroad jump 12-fold in August",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4233269.html",
-      "published_date": "2026-10-10T23:12:00Z",
       "category": "Local Events"
     }
   ]
