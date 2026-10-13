@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T20:09:39Z",
+  "generated_at": "2026-10-13T03:16:09Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -291,6 +291,13 @@
       "category": "Military"
     },
     {
+      "title": "Azerbaijan plans to increase renewable energy capacity to 8 GW by 2032 – Elvin Ashrafzade",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4233927.html",
+      "published_date": "2026-10-13T00:01:00Z",
+      "category": "Energy"
+    },
+    {
       "title": "QatarEnergy CEO calls for new world energy order",
       "source": "Trend News Agency",
       "url": "https://www.trend.az/world/arab/4233861.html",
@@ -424,11 +431,32 @@
       "category": "Energy"
     },
     {
-      "title": "SECO sets water, energy as key Tajikistan priorities (Exclusive)",
+      "title": "Georgia's non-profit employment rises 3.1% to 64,500 in 2025",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/tajikistan/4232249.html",
-      "published_date": "2026-10-07T15:00:00Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/scaucasus/georgia/4233914.html",
+      "published_date": "2026-10-13T01:25:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "EFSD sees Kyrgyzstan's GDP growth slowing to 6.3% by 2029",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kyrgyzstan/4233913.html",
+      "published_date": "2026-10-13T00:11:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Fitch assigns 'AA-' rating to $575 million California lease revenue bonds",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/4233908.html",
+      "published_date": "2026-10-12T23:22:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "EFSD raises Kazakhstan’s 2027 GDP growth forecast to 5%",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kazakhstan/4233837.html",
+      "published_date": "2026-10-12T21:14:00Z",
+      "category": "Economy"
     },
     {
       "title": "Turkmenistan's top bank handles 51.5% of internet banking in eight months",
@@ -543,32 +571,25 @@
       "category": "Economy"
     },
     {
-      "title": "Iran’s petrochemical sector records $12 billion in export revenue",
+      "title": "Chronicles of Victory: President Ilham Aliyev interviewed by Turkish Haber Turk TV channel on October 13, 2020 (PHOTO/VIDEO)",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/4233381.html",
-      "published_date": "2026-10-11T07:20:51Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/azerbaijan/4233850.html",
+      "published_date": "2026-10-13T03:00:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Iran releases currency exchange rates for October 11",
+      "title": "Fitch assigns ‘AAAsf’ to Neuberger Berman’s $500 million CLO 65",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/4233377.html",
-      "published_date": "2026-10-11T05:51:53Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/world/4233909.html",
+      "published_date": "2026-10-13T02:17:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Weekly review of Azerbaijani currency market",
+      "title": "Uzbekistan to tender 18 passenger routes on Nov. 10",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4233232.html",
-      "published_date": "2026-10-11T04:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Iran increases medicine import funding by 28% to $2.99B",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/4233257.html",
-      "published_date": "2026-10-11T00:17:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/casia/uzbekistan/4233853.html",
+      "published_date": "2026-10-12T22:07:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Chronicles of Victory: October 13, 2020",
@@ -687,27 +708,6 @@
       "source": "Trend News Agency",
       "url": "https://www.trend.az/casia/kazakhstan/4233866.html",
       "published_date": "2026-10-12T14:00:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uzbekistan’s Fergana, Saudi Miahona discuss water infrastructure upgrades",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4233862.html",
-      "published_date": "2026-10-12T13:52:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "KazTransOil ships 13.8 million tons to Kazakh refineries in nine months",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4233860.html",
-      "published_date": "2026-10-12T13:47:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gurbanguly Berdimuhamedov, Shavkat Mirziyoyev discuss Turkmen-Uzbek ties",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/turkmenistan/4233847.html",
-      "published_date": "2026-10-12T13:37:40Z",
       "category": "Local Events"
     }
   ]
