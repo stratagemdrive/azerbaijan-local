@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T18:01:10Z",
+  "generated_at": "2026-10-14T01:28:34Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Hizb ut-Tahrir links emerge after hijab protest outside Azerbaijan’s embassy in Ankara",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/265517.html",
+      "published_date": "2026-10-13T20:53:55Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Azerbaijan, Turkmenistan cooperation boosts Middle Corridor efficiency - minister",
       "source": "Trend News Agency",
@@ -144,11 +151,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Azerbaijan warns against attempts to undermine secular statehood",
+      "title": "Netanyahu, Trump said to discuss renewed war on Iran",
       "source": "Azernews",
-      "url": "https://www.azernews.az/nation/265355.html",
-      "published_date": "2026-10-11T11:55:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/region/265514.html",
+      "published_date": "2026-10-13T19:59:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Jeep to revive legendary model",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/265508.html",
+      "published_date": "2026-10-13T19:30:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Prime Minister of Cambodia visits enterprises of the Ministry of Defence Industry (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4234450.html",
+      "published_date": "2026-10-13T19:01:46Z",
+      "category": "Military"
     },
     {
       "title": "US-Russia diesel deal raises concerns in Europe",
@@ -267,27 +288,6 @@
       "source": "Azernews",
       "url": "https://www.azernews.az/region/265360.html",
       "published_date": "2026-10-11T14:38:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Finland prepares new military aid package for Ukraine",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/265358.html",
-      "published_date": "2026-10-11T13:45:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "French defense company to open first foreign military maintenance base in Japan",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/265354.html",
-      "published_date": "2026-10-11T11:29:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Polish police receive warning of possible assassination attempt against Donald Tusk",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/265352.html",
-      "published_date": "2026-10-11T10:33:00Z",
       "category": "Military"
     },
     {
@@ -431,6 +431,41 @@
       "category": "Energy"
     },
     {
+      "title": "IMF puts Central Asia's current average account deficit at 0.8% in 2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/4234283.html",
+      "published_date": "2026-10-13T22:09:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran’s startup lending rises 132% to $3.73B in six months",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4234239.html",
+      "published_date": "2026-10-13T21:05:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Rysgal accounts for 46.1% of Turkmenistan's mobile banking in eight months",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/turkmenistan/4234252.html",
+      "published_date": "2026-10-13T19:31:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Türkiye’s airports handle 193.1 million passengers in first nine months of 2026",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/265487.html",
+      "published_date": "2026-10-13T18:30:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Turkmenistan's mobile banking transactions rise 140.7% to $20.3M",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/turkmenistan/4234233.html",
+      "published_date": "2026-10-13T18:16:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "Central Asia GDP growth averages 6.2% in 2026 – Trend’s calculations",
       "source": "Trend News Agency",
       "url": "https://www.trend.az/casia/4234192.html",
@@ -536,39 +571,46 @@
       "category": "Economy"
     },
     {
-      "title": "EFSD sees Kyrgyzstan's GDP growth slowing to 6.3% by 2029",
+      "title": "Tajikistan's Kulob industrial output up over 18% in Jan-Aug 2026",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kyrgyzstan/4233913.html",
-      "published_date": "2026-10-13T00:11:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/casia/tajikistan/4234471.html",
+      "published_date": "2026-10-13T23:16:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Fitch assigns 'AA-' rating to $575 million California lease revenue bonds",
+      "title": "Chronicles of Victory: October 14, 2020",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/world/4233908.html",
-      "published_date": "2026-10-12T23:22:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/azerbaijan/4234284.html",
+      "published_date": "2026-10-13T20:01:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "EFSD raises Kazakhstan’s 2027 GDP growth forecast to 5%",
+      "title": "Alena Aliyeva shares footage from premiere of \"44\" film (PHOTO)",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4233837.html",
-      "published_date": "2026-10-12T21:14:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/azerbaijan/politics/4234456.html",
+      "published_date": "2026-10-13T19:59:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Turkmenistan's top bank handles 51.5% of internet banking in eight months",
+      "title": "Azerbaijan's insurance sector capital exceeds prudential requirements",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/turkmenistan/4233809.html",
-      "published_date": "2026-10-12T19:26:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/azerbaijan/4234404.html",
+      "published_date": "2026-10-13T19:42:35Z",
+      "category": "Local Events"
     },
     {
-      "title": "EU has set quotas on Chinese hybrid car imports",
+      "title": "Elon Musk pours $366 million into 2026 US midterm elections",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/265429.html",
-      "published_date": "2026-10-12T17:26:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/region/265499.html",
+      "published_date": "2026-10-13T19:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijan's Sabah FC secures their first victory in Champions League main stage",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/society/4234451.html",
+      "published_date": "2026-10-13T18:59:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Georgia’s foreign trade turnover grows in 9 months",
@@ -666,48 +708,6 @@
       "source": "Trend News Agency",
       "url": "https://www.trend.az/azerbaijan/4234367.html",
       "published_date": "2026-10-13T15:12:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Nostalgic exploitation’: South Ossetia’s new president sends schoolchildren to collect rosehips",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/nostalgic-exploitation-south-ossetias-new-president-sends-schoolchildren-to-collect-rosehips/",
-      "published_date": "2026-10-13T14:54:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Explosion hits Central Asia - Center gas pipeline in Russia",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/265507.html",
-      "published_date": "2026-10-13T13:55:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baku Jazz Festival concludes with grand finale at Maiden Tower",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/265500.html",
-      "published_date": "2026-10-13T13:47:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijani MPs criticise Turkish authorities over anti-Azerbaijan statements",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/265504.html",
-      "published_date": "2026-10-13T13:35:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seaside Boulevard welcomes visitors with delicious tea and traditional sweets",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/265466.html",
-      "published_date": "2026-10-13T12:58:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man who killed Russian tourist in Abkhazia could face life sentence but serve just eight years",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/man-who-killed-russian-tourist-in-abkhazia-could-face-life-sentence-but-serve-just-eight-years/",
-      "published_date": "2026-10-13T12:07:47Z",
       "category": "Local Events"
     }
   ]
