@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T15:30:51Z",
+  "generated_at": "2026-10-16T00:53:47Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,34 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Qatar condemns Colombia's Jerusalem embassy",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/265651.html",
+      "published_date": "2026-10-15T18:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Footage about President Ilham Aliyev's meeting with with Amir of State of Qatar posted on his social media (VIDEO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4235397.html",
+      "published_date": "2026-10-15T17:45:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Footage about inauguration of Trans-Caspian Fiber-Optic Cable Line posted on President Ilham Aliyev's social media (VIDEO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4235393.html",
+      "published_date": "2026-10-15T17:37:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "President Ilham Aliyev’s social media accounts shared video on inauguration of Trans-Caspian Fiber-Optic Cable Line",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/265656.html",
+      "published_date": "2026-10-15T17:12:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Lavrov says Russia has not received new peace plan",
       "source": "Azernews",
@@ -123,32 +151,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Kazakhstan allocates additional $25 million to IMF regional center supporting Azerbaijan and Central Asia",
+      "title": "Burnham blames Moscow for energy ceasefire failure",
       "source": "Azernews",
-      "url": "https://www.azernews.az/business/265607.html",
-      "published_date": "2026-10-15T10:16:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/region/265647.html",
+      "published_date": "2026-10-15T18:33:00Z",
+      "category": "Military"
     },
     {
-      "title": "Armenia, Azerbaijan, and Georgia, top stories this morning",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/news-in-azerbaijan-armenia-georgia-12-16-october-2026/",
-      "published_date": "2026-10-15T05:40:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Dinner hosted on behalf of President Ilham Aliyev in honor of participants of 7th CICA Summit (PHOTO/VIDEO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4234914.html",
-      "published_date": "2026-10-14T18:47:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Dinner hosted on behalf of President Ilham Aliyev in honor of participants of 7th CICA Summit",
+      "title": "Former OpenAI engineer arrested over alleged secret recording device in executive meeting room",
       "source": "Azernews",
-      "url": "https://www.azernews.az/nation/265587.html",
-      "published_date": "2026-10-14T18:47:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/region/265652.html",
+      "published_date": "2026-10-15T15:42:00Z",
+      "category": "Military"
     },
     {
       "title": "Nearly half of Britons say they would not fight for their country, poll shows",
@@ -277,18 +291,18 @@
       "category": "Military"
     },
     {
-      "title": "US shared secret AI tech with Britain",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/265428.html",
-      "published_date": "2026-10-12T17:57:00Z",
-      "category": "Military"
+      "title": "China oil demand down 440,000 bpd in August as EV sales hit record",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/4235399.html",
+      "published_date": "2026-10-15T19:38:00Z",
+      "category": "Energy"
     },
     {
-      "title": "IDF says it dismantled tunnels in southern Lebanon",
+      "title": "France unveils €1.3B aid package for farmers",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/265433.html",
-      "published_date": "2026-10-12T16:53:00Z",
-      "category": "Military"
+      "url": "https://www.azernews.az/region/265650.html",
+      "published_date": "2026-10-15T17:25:00Z",
+      "category": "Energy"
     },
     {
       "title": "Azerbaijan extends permit term for building solar power plants in Jabrayil",
@@ -417,18 +431,32 @@
       "category": "Energy"
     },
     {
-      "title": "Azerbaijan plans to increase renewable energy capacity to 8 GW by 2032 – Elvin Ashrafzade",
+      "title": "EFSD raises Kazakhstan’s 2027 GDP growth forecast to 5%",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4233927.html",
-      "published_date": "2026-10-13T00:01:00Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/casia/kazakhstan/4235414.html",
+      "published_date": "2026-10-16T00:27:00Z",
+      "category": "Economy"
     },
     {
-      "title": "QatarEnergy CEO calls for new world energy order",
+      "title": "Georgia's non-profit output per worker is 9.1 times turnover",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/world/arab/4233861.html",
-      "published_date": "2026-10-12T13:51:59Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/scaucasus/georgia/4235413.html",
+      "published_date": "2026-10-15T23:24:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "EBRD reports inflation developments in Kyrgyzstan",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kyrgyzstan/4235410.html",
+      "published_date": "2026-10-15T21:19:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "China's trade surplus pace points to $1.2 trillion in 2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/4235400.html",
+      "published_date": "2026-10-15T18:24:00Z",
+      "category": "Economy"
     },
     {
       "title": "Iranian banks increase startup lending by 92.2% in August–September",
@@ -543,32 +571,88 @@
       "category": "Economy"
     },
     {
-      "title": "Magyar denies resignation rumors",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/265567.html",
-      "published_date": "2026-10-14T16:49:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Azerbaijani delegation joins IMF, World Bank annual meetings in Bangkok",
+      "title": "Türkiye's AI adoption gap by firm size triples to 24 points by 2026",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4234898.html",
-      "published_date": "2026-10-14T16:04:53Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/world/turkey/4235412.html",
+      "published_date": "2026-10-15T22:14:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "China-North Korea bridge reopens after 12 years",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/265573.html",
-      "published_date": "2026-10-14T15:24:00Z",
-      "category": "Economy"
+      "title": "President Ilham Aliyev is one of brightest leaders in world – Isaac Herzog in interview with Mikhail Gusman (VIDEO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4235408.html",
+      "published_date": "2026-10-15T20:11:37Z",
+      "category": "Local Events"
     },
     {
-      "title": "IMF recommends improvements to strategic management at Azerbaijan’s Central Bank",
+      "title": "Chronicles of Victory: October 16, 2020",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4234991.html",
+      "published_date": "2026-10-15T20:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mastercard launches multicurrency platform",
       "source": "Azernews",
-      "url": "https://www.azernews.az/business/265570.html",
-      "published_date": "2026-10-14T14:22:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/region/265654.html",
+      "published_date": "2026-10-15T19:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Microsoft warns US over skilled immigration curbs",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/265653.html",
+      "published_date": "2026-10-15T19:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Uzbekistan's ECOLAND project to boost sustainable rural livelihoods - UNDP (Exclusive)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/uzbekistan/4235338.html",
+      "published_date": "2026-10-15T18:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "FM Fidan warns against turning Türkiye–Azerbaijan differences into social media propaganda",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/265657.html",
+      "published_date": "2026-10-15T17:32:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alena Aliyeva shares footage from 1st International Inclusive Employment Conference in Baku (PHOTO/VIDEO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4235390.html",
+      "published_date": "2026-10-15T17:10:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Uzbekistan to restore 140,000 hectares under ECOLAND project - UNDP (Exclusive)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/uzbekistan/4235316.html",
+      "published_date": "2026-10-15T17:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zelensky: Ukraine hits Russian jets, Black Sea target",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/265649.html",
+      "published_date": "2026-10-15T16:49:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli right-wing party rules out coalition with Netanyahu",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/265648.html",
+      "published_date": "2026-10-15T16:17:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kazakhstan's businesses shifting to digital financial management - Mastercard (Exclusive)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kazakhstan/4235250.html",
+      "published_date": "2026-10-15T16:00:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Kazakhstan's money transfers to Uzbekistan fall 33.7% in August",
@@ -624,90 +708,6 @@
       "source": "Trend News Agency",
       "url": "https://www.trend.az/azerbaijan/politics/4235295.html",
       "published_date": "2026-10-15T12:45:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Young art enthusiasts find inspiration at National Art Museum",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/265630.html",
-      "published_date": "2026-10-15T11:54:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijani citizens repatriated from Syria receive social support",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/events/265631.html",
-      "published_date": "2026-10-15T11:39:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan to compete with nine boxers at U19 World Championships",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/sports/265629.html",
-      "published_date": "2026-10-15T10:37:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran’s production-sector financing rises nearly 12-fold",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/4234926.html",
-      "published_date": "2026-10-14T22:22:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan denies reports of hijab ban in medical institutions",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4234934.html",
-      "published_date": "2026-10-14T21:33:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan warns of fake Health Ministry letter on hijab restrictions",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/265589.html",
-      "published_date": "2026-10-14T21:13:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chronicles of Victory: October 15, 2020",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4234762.html",
-      "published_date": "2026-10-14T20:01:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkmengaz announces tender for general and process equipment",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/turkmenistan/4234822.html",
-      "published_date": "2026-10-14T19:29:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Halkbank accounts for 86.6% of Turkmenistan's e-commerce payments",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/turkmenistan/4234905.html",
-      "published_date": "2026-10-14T18:47:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kazakhstan launches e-permit for foreigners",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/265569.html",
-      "published_date": "2026-10-14T18:22:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Ilham Aliyev meets with President of Tajikistan (VIDEO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4234911.html",
-      "published_date": "2026-10-14T18:09:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "E-commerce payments in Turkmenistan rise 47.5% in January-August",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/turkmenistan/4234906.html",
-      "published_date": "2026-10-14T17:49:00Z",
       "category": "Local Events"
     }
   ]
