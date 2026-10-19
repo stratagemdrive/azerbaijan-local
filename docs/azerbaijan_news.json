@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T14:20:20Z",
+  "generated_at": "2026-10-19T00:36:15Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Lebanon urges Iran to appoint new ambassador to Beirut",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/265793.html",
+      "published_date": "2026-10-18T21:38:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "British ambassador highlights bilateral ties in Independence Day message to Azerbaijan",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/265778.html",
+      "published_date": "2026-10-18T14:51:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkish Deputy FM reaffirms Ankara’s strong ties with Baku on Independence Day",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/265783.html",
+      "published_date": "2026-10-18T14:25:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ukrainian Ambassador congratulates Azerbaijan on Restoration of Independence Day (PHOTO)",
       "source": "Trend News Agency",
@@ -130,25 +151,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Israel said to prepare for election assassination attempts​",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/265721.html",
-      "published_date": "2026-10-17T04:00:00Z",
-      "category": "Diplomacy"
+      "title": "Tanker strikes naval mine in Strait of Hormuz",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/4236312.html",
+      "published_date": "2026-10-18T22:36:00Z",
+      "category": "Military"
     },
     {
-      "title": "Peskov: Russia agrees with Trump on Zelensky",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/265717.html",
-      "published_date": "2026-10-16T18:04:00Z",
-      "category": "Diplomacy"
+      "title": "Exposure of Iranian agents in Germany: another provocation set to tune of Azerbaijani national anthem (VIDEO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4236296.html",
+      "published_date": "2026-10-18T18:41:00Z",
+      "category": "Military"
     },
     {
-      "title": "“We owe a debt to nature”: Leaders’ summit at COP17 in Armenia",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/leaders-summit-at-cop17-in-armenia/",
-      "published_date": "2026-10-16T17:31:13Z",
-      "category": "Diplomacy"
+      "title": "Azerbaijan’s mine crisis takes centre stage at photo exposition in Rome",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/culture/265785.html",
+      "published_date": "2026-10-18T18:39:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian parliament approves new defense minister",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/265779.html",
+      "published_date": "2026-10-18T17:08:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "US resumes intelligence sharing with Ukraine after pause, Zelenskyy says",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/265782.html",
+      "published_date": "2026-10-18T16:12:00Z",
+      "category": "Military"
     },
     {
       "title": "\"Falcons Meet – 2026\" exercise participants visit Military Trophy Park in Baku",
@@ -256,39 +291,25 @@
       "category": "Military"
     },
     {
-      "title": "At least 20 killed in suspected ISIS-linked attack on Nigerian military base",
+      "title": "Rising fires across Africa’s tropical forests raise fears for Congo basin",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/265684.html",
-      "published_date": "2026-10-16T10:18:00Z",
-      "category": "Military"
+      "url": "https://www.azernews.az/region/265776.html",
+      "published_date": "2026-10-18T17:36:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Burnham blames Moscow for energy ceasefire failure",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/265647.html",
-      "published_date": "2026-10-15T18:33:00Z",
-      "category": "Military"
+      "title": "China’s transport energy prices rise 14.9% year on year in September",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/4236109.html",
+      "published_date": "2026-10-18T15:20:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Former OpenAI engineer arrested over alleged secret recording device in executive meeting room",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/265652.html",
-      "published_date": "2026-10-15T15:42:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Nearly half of Britons say they would not fight for their country, poll shows",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/265641.html",
-      "published_date": "2026-10-15T13:55:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Azerbaijan participates in CIS talks on military cooperation and security",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/265628.html",
-      "published_date": "2026-10-15T12:12:00Z",
-      "category": "Military"
+      "title": "Iran’s Tejarat Bank allocates around $605M for solar power plant construction",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4236268.html",
+      "published_date": "2026-10-18T14:55:07Z",
+      "category": "Energy"
     },
     {
       "title": "Sales value on Iran’s Energy Exchange rises by 12%",
@@ -410,25 +431,18 @@
       "category": "Energy"
     },
     {
-      "title": "Oxford Institute warns of fiercer Europe-Asia LNG competition in winter",
+      "title": "Exports via Iran’s Mahirud border terminal increase by 52%",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/world/4235880.html",
-      "published_date": "2026-10-16T13:53:00Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/iran/4236250.html",
+      "published_date": "2026-10-18T21:22:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Uzbekistan, EBRD discuss privatization, SME financing, energy and transport",
+      "title": "EBRD expects gradual increase in Turkmenistan operations as projects emerge (Exclusive)",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4235868.html",
-      "published_date": "2026-10-16T13:39:32Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Gasoline and diesel production declines in first nine months of 2026",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/oil_and_gas/265702.html",
-      "published_date": "2026-10-16T13:33:00Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/casia/turkmenistan/4236137.html",
+      "published_date": "2026-10-18T16:00:00Z",
+      "category": "Economy"
     },
     {
       "title": "IOI sees integrated planning as key to safer Caspian investment (Exclusive)",
@@ -557,18 +571,116 @@
       "category": "Economy"
     },
     {
-      "title": "Azerbaijan and Iran resume two-way natural gas trade as Tehran eyes expanded cooperation",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/business/265729.html",
-      "published_date": "2026-10-17T08:53:00Z",
-      "category": "Economy"
+      "title": "Chronicles of Victory: October 19, 2020",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4236043.html",
+      "published_date": "2026-10-18T20:01:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Kyrgyzstan, Armenia hold talks on economic ties",
+      "title": "Gulf states condemn Houthi attacks on Saudi Arabia and pledge support",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/265788.html",
+      "published_date": "2026-10-18T19:58:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vehicle breaches security fence at Germany’s Leipzig/Halle Airport",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/265787.html",
+      "published_date": "2026-10-18T19:20:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijani judokas conclude the Asian Open Cup with 14 medals (PHOTO)",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kyrgyzstan/4236091.html",
-      "published_date": "2026-10-17T08:50:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/azerbaijan/society/4236299.html",
+      "published_date": "2026-10-18T19:07:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "China’s food prices fall 1.7% in September as pork drops 10%",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/4236100.html",
+      "published_date": "2026-10-18T18:26:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Ilham Aliyev’s social media accounts shared weekly summary of his activities",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/265786.html",
+      "published_date": "2026-10-18T18:03:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Weekly review of President Ilham Aliyev’s activities published on his social media (VIDEO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4236293.html",
+      "published_date": "2026-10-18T17:46:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijani Gymnasts win Trampoline Gymnastics World Cup series titles (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4236287.html",
+      "published_date": "2026-10-18T17:17:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kazakhstan's money transfers to Kyrgyzstan fall 74.77% in August",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kazakhstan/4236124.html",
+      "published_date": "2026-10-18T17:14:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Speaker of Milli Majlis Sahiba Gafarova arrives in Kyrgyz Republic on a visit (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4236284.html",
+      "published_date": "2026-10-18T16:50:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ecuadorian priest dies after cross falls on him during livestreamed mass",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/265781.html",
+      "published_date": "2026-10-18T16:39:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijani Gymnasts Win Another Gold Medal at the Trampoline Gymnastics World Cup (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4236280.html",
+      "published_date": "2026-10-18T15:51:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkish party leader highlights Azerbaijan-Türkiye brotherhood on Independence Day",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/265780.html",
+      "published_date": "2026-10-18T15:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Seljan Mahsudova wins Trampoline Gymnastics World Cup (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4236274.html",
+      "published_date": "2026-10-18T15:37:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lithuania foils arson attempt at Starlink equipment facility",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/265777.html",
+      "published_date": "2026-10-18T15:19:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Young man calls for a Cyprus without walls at Peace Festival in Pile",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/265784.html",
+      "published_date": "2026-10-18T14:45:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Kazakhstan's money transfers to Tajikistan fall 1.05% in August",
@@ -596,118 +708,6 @@
       "source": "Trend News Agency",
       "url": "https://www.trend.az/casia/uzbekistan/4235996.html",
       "published_date": "2026-10-18T13:17:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baku hosts World Sumo Championships for the first time",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/sports/265774.html",
-      "published_date": "2026-10-18T12:55:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkish President congratulates Azerbaijan on Restoration of Independence Day (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4236266.html",
-      "published_date": "2026-10-18T12:43:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Erdoğan congratulates Azerbaijan on Independence Day, praises close ties",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/265772.html",
-      "published_date": "2026-10-18T12:01:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "French presidential candidate calls for Macron’s resignation amid protests",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/265771.html",
-      "published_date": "2026-10-18T11:51:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "At least 19 dead in stampede at Hindu festival in India’s Kolkata",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/265769.html",
-      "published_date": "2026-10-18T11:23:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan defends its secular identity - analysis",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4236253.html",
-      "published_date": "2026-10-18T11:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkmen exchange quotations edge up 0.6% as light industry rebounds",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/turkmenistan/4236092.html",
-      "published_date": "2026-10-18T10:04:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan, Uzbekistan deepen ties with new trade union agreement",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/265765.html",
-      "published_date": "2026-10-18T08:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uzbektelecom shares surge more than tenfold in 2026",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4235925.html",
-      "published_date": "2026-10-18T08:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "France arrests 1,200 as mass protests over living standards turn violent",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/265758.html",
-      "published_date": "2026-10-18T07:14:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kazakhstan's money transfers to China rise 9.97% in August",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4236090.html",
-      "published_date": "2026-10-18T07:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan marks Day of Restoration of Independence",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/265763.html",
-      "published_date": "2026-10-18T06:48:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkmen exchange quotations plunge 52.4% as petrochemicals tumble",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/turkmenistan/4236087.html",
-      "published_date": "2026-10-18T06:31:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Neftçi and Sabah raise bar as Qarabağ face tougher Premier League challenge",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/sports/265756.html",
-      "published_date": "2026-10-18T05:55:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Georgia’s adjusted hourly gender pay gap widens to 13.3% in 2025",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/scaucasus/georgia/4236074.html",
-      "published_date": "2026-10-18T05:12:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan marks October 18 - Day of Restoration of Independence",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4236232.html",
-      "published_date": "2026-10-18T05:07:07Z",
       "category": "Local Events"
     }
   ]
