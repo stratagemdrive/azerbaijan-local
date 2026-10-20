@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T17:21:30Z",
+  "generated_at": "2026-10-20T01:21:12Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Azerbaijan, UN discuss issue of declining water level of Caspian Sea",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4236742.html",
+      "published_date": "2026-10-19T19:22:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Leyla Aliyeva meets with Oguljahan Atabayeva in Arkadag",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/culture/265849.html",
+      "published_date": "2026-10-19T18:11:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Leyla Aliyeva pays visit to Turkmenistan",
       "source": "Azernews",
@@ -137,18 +151,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Netanyahu demands proof of settler attack on diplomats",
+      "title": "Iran: US lacks capacity to restart conflict",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/265755.html",
-      "published_date": "2026-10-18T05:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump: 'Amazing' Canada deal coming at some point",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/265754.html",
-      "published_date": "2026-10-18T04:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/region/265839.html",
+      "published_date": "2026-10-19T17:42:00Z",
+      "category": "Military"
     },
     {
       "title": "South Ossetia’s new authorities seek to crack down on illegal trade in ‘award’ weapons",
@@ -284,11 +291,18 @@
       "category": "Military"
     },
     {
-      "title": "Chronicles of Victory: President Ilham Aliyev addresses nation on October 17, 2020",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/265725.html",
-      "published_date": "2026-10-17T06:41:00Z",
-      "category": "Military"
+      "title": "Iran's electricity imports from Azerbaijan reach over 33M kWh",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4236764.html",
+      "published_date": "2026-10-19T23:45:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Azerbaijan reduces greenhouse gas emissions",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4236761.html",
+      "published_date": "2026-10-19T22:29:00Z",
+      "category": "Energy"
     },
     {
       "title": "Azerbaijan’s electricity exports fall 67.3% to $17.6M in nine months",
@@ -417,18 +431,18 @@
       "category": "Energy"
     },
     {
-      "title": "Sanders urges Trump to end Iran war and tax 'big oil'",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/265726.html",
-      "published_date": "2026-10-17T07:11:00Z",
-      "category": "Energy"
+      "title": "Kazakhstan’s exports grow four times faster than imports",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kazakhstan/4236765.html",
+      "published_date": "2026-10-20T01:00:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Azerbaijan’s $2.6 billion energy expansion sets up an 8 GW green power goal",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/analysis/265554.html",
-      "published_date": "2026-10-16T16:32:00Z",
-      "category": "Energy"
+      "title": "ABB Bank holds International Risk Forum (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/business/4236733.html",
+      "published_date": "2026-10-19T18:04:20Z",
+      "category": "Economy"
     },
     {
       "title": "Azerbaijan’s Central Bank opens macOS device management tender",
@@ -557,18 +571,123 @@
       "category": "Economy"
     },
     {
-      "title": "Weekly review of Azerbaijani currency market",
+      "title": "Uzbekistan, U.S. sign agreements worth $12 billion",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4236027.html",
-      "published_date": "2026-10-18T04:00:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/casia/uzbekistan/4236758.html",
+      "published_date": "2026-10-19T21:17:59Z",
+      "category": "Local Events"
     },
     {
-      "title": "Uzbekistan’s bank lending rises 7.4% to about $53.8B",
+      "title": "Armenia considers restricting regional cars from entering Yerevan",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/cars-from-regions-banned-from-yerevan/",
+      "published_date": "2026-10-19T20:13:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chronicles of Victory: October 20, 2020",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4236221.html",
-      "published_date": "2026-10-18T02:00:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/azerbaijan/4236352.html",
+      "published_date": "2026-10-19T20:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AfD's Weidel: French protests 'warning signal' for Germany",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/265842.html",
+      "published_date": "2026-10-19T19:49:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkmenistan’s external quotations fall to $97M as agriculture halves",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/turkmenistan/4236606.html",
+      "published_date": "2026-10-19T19:38:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ashgabat hosts concert of State Symphony Orchestra of Turkmenistan",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/culture/265852.html",
+      "published_date": "2026-10-19T19:23:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leyla Aliyeva watches concert of State Symphony Orchestra of Turkmenistan in Ashgabat (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4236747.html",
+      "published_date": "2026-10-19T19:09:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leyla Aliyeva watches performance of Turkmen iconic Galkynysh national equestrian group in Arkadag city (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4236744.html",
+      "published_date": "2026-10-19T18:56:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump slams Fox News for 'defending' Democrats",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/265841.html",
+      "published_date": "2026-10-19T18:50:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leyla Aliyeva watches performance of Turkmen iconic Galkynysh national equestrian group in Arkadag city",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/culture/265851.html",
+      "published_date": "2026-10-19T18:48:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leyla Aliyeva visits Children’s Health and Rehabilitation Center in Arkadag city (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4236738.html",
+      "published_date": "2026-10-19T18:41:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leyla Aliyeva visits Children’s Health and Rehabilitation Center in Arkadag city",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/healthcare/265850.html",
+      "published_date": "2026-10-19T18:34:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leyla Aliyeva meets with Oguljahan Atabayeva in Arkadag (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4236735.html",
+      "published_date": "2026-10-19T18:18:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran's insurance premiums rise 113% in six months",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4236477.html",
+      "published_date": "2026-10-19T18:18:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "France to boost police presence on weekend",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/265840.html",
+      "published_date": "2026-10-19T18:16:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijan reaffirms firm commitment to fundamental principles of international humanitarian law at UNGA",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4236729.html",
+      "published_date": "2026-10-19T17:53:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Ilham Aliyev’s social media accounts shared new video",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/265848.html",
+      "published_date": "2026-10-19T17:52:17Z",
+      "category": "Local Events"
     },
     {
       "title": "We did not stoop to level of barbarians and child killers who caused so much suffering to our people - President Ilham Aliyev (VIDEO)",
@@ -589,125 +708,6 @@
       "source": "Trend News Agency",
       "url": "https://www.trend.az/azerbaijan/society/4236720.html",
       "published_date": "2026-10-19T16:52:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "International Azerbaijan Congress opens in Eskişehir, Türkiye (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4236717.html",
-      "published_date": "2026-10-19T16:43:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijani diaspora discusses national unity at Thessaloniki meeting (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/society/4236712.html",
-      "published_date": "2026-10-19T16:22:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tajik president remotely opens two schools and two kindergartens in Rudaki",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/tajikistan/4236711.html",
-      "published_date": "2026-10-19T15:46:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "TV host gets 30-day detention in Georgia over Facebook post: reactions",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/journalist-jailed-over-facebook-post/",
-      "published_date": "2026-10-19T15:44:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "IranAir says foreign airlines owe $30M in unpaid service fees",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/4236670.html",
-      "published_date": "2026-10-19T15:34:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Türkiye-to-Kazakhstan money transfers drop 17.10% to $3.65M in August",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4236488.html",
-      "published_date": "2026-10-19T15:24:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan’s SOFAZ cuts bonds, lifts equities 23.1% to $16.44B",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4236703.html",
-      "published_date": "2026-10-19T15:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: ‘Irakli Bzhinava’s arrest in Russia is blow to freedom in Abkhaz society’",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/opinion-irakli-bzhinavas-arrest-in-russia-is-blow-to-freedom-in-abkhaz-society/",
-      "published_date": "2026-10-19T14:59:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gold worth $28.06B makes up 37.9% of Azerbaijan’s SOFAZ assets",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4236691.html",
-      "published_date": "2026-10-19T14:57:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump says migrants have ‘taken over France’ and calls for borders to be closed",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/265834.html",
-      "published_date": "2026-10-19T14:41:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Beslan Kobakhia on POWs, historical narratives and peace. A view from Abkhazia, video discussion",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/beslan-kobakhia-on-pows-historical-narratives-and-peace-a-view-from-abkhazia-video-discussion/",
-      "published_date": "2026-10-19T14:31:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "INPEX, Sumitomo Osaka Cement test reusable CO₂ capture technology",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/world/4236683.html",
-      "published_date": "2026-10-19T14:08:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uzbekistan to tender 24 passenger bus routes for carriers on Nov. 18",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4236679.html",
-      "published_date": "2026-10-19T14:06:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Louvre Museum forced to close as student protests spread across Paris",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/265837.html",
-      "published_date": "2026-10-19T14:03:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uzbekistan’s microfinance sector capital grows 56.6% to about $366M",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4236677.html",
-      "published_date": "2026-10-19T14:01:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tajikistan, OIC discuss expanding cooperation at Baghdad meeting",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/tajikistan/4236674.html",
-      "published_date": "2026-10-19T13:53:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "National weightlifters secure nine medals in Albania",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/sports/265831.html",
-      "published_date": "2026-10-19T13:40:00Z",
       "category": "Local Events"
     }
   ]
