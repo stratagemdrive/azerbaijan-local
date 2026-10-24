@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T15:39:33Z",
+  "generated_at": "2026-10-24T01:14:29Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,48 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Azerbaijan highlights disability rights reforms and mine victims at the UN",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/politics/4238553.html",
+      "published_date": "2026-10-23T20:18:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkmenistan’s MFA announces tender for supply of consular service stickers",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/turkmenistan/4238387.html",
+      "published_date": "2026-10-23T19:25:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Von der Leyen: Alarmed by Russian escalation in Black Sea",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/266098.html",
+      "published_date": "2026-10-23T19:25:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "MHP leader Devlet Bahçeli meets with Azerbaijani Ambassador to Türkiye",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/266100.html",
+      "published_date": "2026-10-23T17:12:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Azerbaijan coordinates consular support after Black Sea ship drone attack",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/266099.html",
+      "published_date": "2026-10-23T16:45:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Azerbaijan–Ukraine trade exceeds $407 million as bilateral commerce grows for third year",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/business/266093.html",
+      "published_date": "2026-10-23T15:59:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Russia’s peace deal could be Europe’s next security crisis",
       "source": "Azernews",
@@ -109,46 +151,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Azerbaijan protests against UN Special Rapporteur on freedom of religion or belief",
+      "title": "Melania Trump secures localized ceasefire between Russia and Ukraine in Oleshky",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4238165.html",
-      "published_date": "2026-10-22T23:29:18Z",
-      "category": "Diplomacy"
+      "url": "https://www.trend.az/scaucasus/georgia/4238564.html",
+      "published_date": "2026-10-23T21:12:00Z",
+      "category": "Military"
     },
     {
-      "title": "Azerbaijan raises issue of landmine threat at UN",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4238147.html",
-      "published_date": "2026-10-22T19:13:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Belarus to send more potash fertilizers to US",
+      "title": "Terror probe opened into shooting in Paris suburbs",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/266035.html",
-      "published_date": "2026-10-22T19:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/region/266096.html",
+      "published_date": "2026-10-23T18:05:00Z",
+      "category": "Military"
     },
     {
-      "title": "Russia: West must lift sanctions to restore ties",
+      "title": "Netanyahu: Israel to destroy terrorist bases",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/266032.html",
-      "published_date": "2026-10-22T18:30:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/region/266094.html",
+      "published_date": "2026-10-23T16:31:00Z",
+      "category": "Military"
     },
     {
-      "title": "Azerbaijan and Norway hold political consultations",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4238121.html",
-      "published_date": "2026-10-22T15:00:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Azerbaijan’s US ambassador participates in Drake Energy Forum in Pennsylvania",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/events/266026.html",
-      "published_date": "2026-10-22T13:47:00Z",
-      "category": "Diplomacy"
+      "title": "‘Buying Czech aircraft is part of Armenia’s air force modernisation’ — military expert",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/buying-czech-aircraft-is-part-of-armenias-air-force-modernisation-military-expert/",
+      "published_date": "2026-10-23T16:00:53Z",
+      "category": "Military"
     },
     {
       "title": "Azerbaijani citizens rescued after drone attack on ship off Romania - MFA",
@@ -263,32 +291,11 @@
       "category": "Military"
     },
     {
-      "title": "UK to provide additional military aid to Saudi Arabia",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/265907.html",
-      "published_date": "2026-10-20T16:49:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "South Korea threatens stern retaliation as North Korea warns of border escalation",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/265900.html",
-      "published_date": "2026-10-20T14:44:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Third World War is inevitable, former Serbian president Vučić warns",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/265898.html",
-      "published_date": "2026-10-20T13:54:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Amazon accused of using AI to predict union activity at warehouses",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/265888.html",
-      "published_date": "2026-10-20T13:23:00Z",
-      "category": "Military"
+      "title": "India’s Rossari Biotech eyes supplying Turkmen oil, gas sector (Exclusive)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/turkmenistan/4238454.html",
+      "published_date": "2026-10-23T16:00:00Z",
+      "category": "Energy"
     },
     {
       "title": "Global natural gas production falls year-on-year despite August increase",
@@ -424,11 +431,32 @@
       "category": "Energy"
     },
     {
-      "title": "Tanker struck by unknown projectile near Iraq",
+      "title": "Azerbaijan’s IBA leads banks in nine-month profit at $207.28M – ranking",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4238411.html",
+      "published_date": "2026-10-23T18:12:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Zelensky: 270 return from Russian captivity",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/265968.html",
-      "published_date": "2026-10-21T13:57:00Z",
-      "category": "Energy"
+      "url": "https://www.azernews.az/region/266095.html",
+      "published_date": "2026-10-23T17:34:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Azerbaijan chairs Turkic Investment Fund’s Board of Governors (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4238542.html",
+      "published_date": "2026-10-23T16:53:38Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Kazakhstan’s ferroalloy export value to U.S. rises 91.2% in January–August",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kazakhstan/4238392.html",
+      "published_date": "2026-10-23T16:17:00Z",
+      "category": "Economy"
     },
     {
       "title": "Turkmen exchange quotations rise 6.4% to $104.2M on petrochemicals growth",
@@ -543,32 +571,39 @@
       "category": "Economy"
     },
     {
-      "title": "Latvia eyes dairy, meat, food tech exports to Kazakhstan (Exclusive)",
+      "title": "Chronicles of Victory: October 24, 2020",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4238100.html",
-      "published_date": "2026-10-22T16:00:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/azerbaijan/4238312.html",
+      "published_date": "2026-10-23T20:01:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Uzbekistan’s Ipoteka Bank nine-month profit jumps 20-fold to $173M",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4237730.html",
-      "published_date": "2026-10-22T15:20:00Z",
-      "category": "Economy"
+      "title": "Pentagon cites large 'black triangle' in new UFO docs",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/266097.html",
+      "published_date": "2026-10-23T18:43:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Russia leads Azerbaijan's fruit, vegetable exports with 83.1% in 8 months",
+      "title": "Uzbekistan’s microfinance assets reach $1.7B as larger firms dominate",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/4238111.html",
-      "published_date": "2026-10-22T14:50:27Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/casia/uzbekistan/4238397.html",
+      "published_date": "2026-10-23T17:18:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "IMF raises Tajikistan’s 2026 GDP growth forecast to 7.3%",
+      "title": "Azerbaijan's egg self-sufficiency reaches 104% as domestic production exceeds demand",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/business/266092.html",
+      "published_date": "2026-10-23T17:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Baku Olive Festival kicks off with three days of food, traditions and concerts (PHOTO)",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/tajikistan/4238116.html",
-      "published_date": "2026-10-22T14:46:17Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/azerbaijan/4238539.html",
+      "published_date": "2026-10-23T16:26:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Tajikistan commissions 110 kV Yova substation in Sughd region",
@@ -673,41 +708,6 @@
       "source": "Azernews",
       "url": "https://www.azernews.az/region/266088.html",
       "published_date": "2026-10-23T12:32:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan signs agreement to participate in EXPO 2030 Riyadh",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/266083.html",
-      "published_date": "2026-10-23T12:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan, Uzbekistan exchange experience in financial sector",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/business/266076.html",
-      "published_date": "2026-10-23T11:53:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CINEMO Int'l Mobile Film Festival awarded winners in Baku",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/266072.html",
-      "published_date": "2026-10-23T11:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flashmob to be held in Baku ahead of 7th World Forum on Intercultural Dialogue",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/266067.html",
-      "published_date": "2026-10-23T10:34:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Young Turks documentary alleges late US Senator Graham paid male escorts for sex",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/266073.html",
-      "published_date": "2026-10-23T10:25:43Z",
       "category": "Local Events"
     }
   ]
