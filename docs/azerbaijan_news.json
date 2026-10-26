@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T14:53:29Z",
+  "generated_at": "2026-10-26T00:51:31Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -151,6 +151,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Donald Trump keeps military option open amid Iran negotiations",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/business/266175.html",
+      "published_date": "2026-10-25T17:12:00Z",
+      "category": "Military"
+    },
+    {
       "title": "National Library opens exhibition dedicated to Gubadli",
       "source": "Azernews",
       "url": "https://www.azernews.az/culture/266176.html",
@@ -284,11 +291,25 @@
       "category": "Military"
     },
     {
-      "title": "OpenAI, Google expand partnership with cloud deal",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/265971.html",
-      "published_date": "2026-10-21T18:56:00Z",
-      "category": "Military"
+      "title": "Iran’s National Drilling Company completes drilling of nine more oil and gas wells",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4238909.html",
+      "published_date": "2026-10-25T19:37:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Iran’s Energy Exchange sees increase in value of sales",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4238893.html",
+      "published_date": "2026-10-25T17:35:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Iran's crude oil output potential rises 1.5% to over 3.7 million bpd",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4238773.html",
+      "published_date": "2026-10-25T16:21:00Z",
+      "category": "Energy"
     },
     {
       "title": "Iranian top primary oil refining center's capacity up 2-fold to 320,000 bpd",
@@ -410,25 +431,32 @@
       "category": "Energy"
     },
     {
-      "title": "Azerbaijan moves to extend its energy influence across Caspian",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/analysis/266009.html",
-      "published_date": "2026-10-23T10:47:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Azerbaijan approves net-zero emissions strategy by 2060",
+      "title": "Uzbek Ipak Yuli Bank raises 9-month net profit 9.2% to $69M",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/business/green-economy/4238130.html",
-      "published_date": "2026-10-22T16:58:35Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/casia/uzbekistan/4238940.html",
+      "published_date": "2026-10-26T00:17:00Z",
+      "category": "Economy"
     },
     {
-      "title": "OPEC chief to attend Libya energy summit as Tripoli seeks to boost oil production",
+      "title": "Azerbaijan, Uzbekistan present joint Silk Road Tour in Berlin",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/266027.html",
-      "published_date": "2026-10-22T16:23:00Z",
-      "category": "Energy"
+      "url": "https://www.azernews.az/nation/266188.html",
+      "published_date": "2026-10-25T17:38:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Hyundai and Kia sales drop sharply",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/266182.html",
+      "published_date": "2026-10-25T16:34:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Ukraine’s grain exports: why world needs Black Sea Corridor",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/analysis/265828.html",
+      "published_date": "2026-10-25T15:37:00Z",
+      "category": "Economy"
     },
     {
       "title": "IMF raises Turkmenistan’s 2027 GDP growth forecast to 2.5%",
@@ -543,32 +571,116 @@
       "category": "Economy"
     },
     {
-      "title": "Uzbekistan, Iran seek to expand trade and investment cooperation",
+      "title": "Tajikistan to build 51.4-km road along Rogun reservoir",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4238723.html",
-      "published_date": "2026-10-24T09:54:35Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/casia/tajikistan/4238942.html",
+      "published_date": "2026-10-25T23:12:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Turkmenistan prepares International Conference on Construction and Industry",
+      "title": "Türkiye-to-Kazakhstan money transfers drop 17.10% to $3.65M in August",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/turkmenistan/4238705.html",
-      "published_date": "2026-10-24T09:42:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/casia/kazakhstan/4238939.html",
+      "published_date": "2026-10-25T22:29:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Cryptocurrency market declines as Bitcoin falls to $80,672",
+      "title": "Student List party wins elections in Serbia - preliminary results",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/4238938.html",
+      "published_date": "2026-10-25T21:35:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Baku’s Olive Festival wraps up three days of local flavours and live music",
       "source": "Azernews",
-      "url": "https://www.azernews.az/business/266115.html",
-      "published_date": "2026-10-24T09:03:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/events/266191.html",
+      "published_date": "2026-10-25T20:21:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Uzbekistan, EY explore AI, technology export cooperation opportunities",
+      "title": "Chronicles of Victory: October 26, 2020",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4238687.html",
-      "published_date": "2026-10-24T08:27:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/azerbaijan/4238760.html",
+      "published_date": "2026-10-25T20:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eldeniz and Sanan Make History in Astana",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4238951.html",
+      "published_date": "2026-10-25T19:22:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Scientists develop more accurate method to predict Kondo Effect in metals",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/266187.html",
+      "published_date": "2026-10-25T19:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Olive Festival concludes at Baku Boulevard (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/society/4238931.html",
+      "published_date": "2026-10-25T18:41:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protests in Barcelona escalate into riots and clashes with police",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/266189.html",
+      "published_date": "2026-10-25T18:35:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkic States sign charter to strengthen audit cooperation",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/business/266168.html",
+      "published_date": "2026-10-25T18:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Oktay Saral confirms departure from post as Turkish president's chief adviser",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/turkey/4238915.html",
+      "published_date": "2026-10-25T17:05:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Erdoğan’s chief adviser Oktay Saral reportedly set to resign",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/266190.html",
+      "published_date": "2026-10-25T16:29:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Donald Trump claims Denmark agreed to hand Greenland to US",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/266179.html",
+      "published_date": "2026-10-25T16:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijani wrestler wins gold at World Championships",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4238922.html",
+      "published_date": "2026-10-25T15:40:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kyrgyzstan invests $39.2M in Ak-Sy district facilities in 2021-2026",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kyrgyzstan/4238776.html",
+      "published_date": "2026-10-25T15:23:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Typhoon Champi hits Taiwan, leaves casualties",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/266165.html",
+      "published_date": "2026-10-25T15:10:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Euronews reports on CICA's efforts to turn regional dialogue into action",
@@ -596,118 +708,6 @@
       "source": "Trend News Agency",
       "url": "https://www.trend.az/azerbaijan/4238913.html",
       "published_date": "2026-10-25T13:56:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CNPC’s Turkmenistan branch opens tender for online analyzer replacement",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/turkmenistan/4238766.html",
-      "published_date": "2026-10-25T13:25:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Azerbaijan Party and Turkiye's Victory Party discuss future cooperation",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/266159.html",
-      "published_date": "2026-10-25T13:08:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan's water agency rolls out $4.3M tender for Khojaly's villages",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4238744.html",
-      "published_date": "2026-10-25T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baku holds rally in support of footballers from Kanaky–New Caledonia and French Polynesia",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/sports/266174.html",
-      "published_date": "2026-10-25T12:27:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan secure second straight Victory at FIFA U-15 World Cup",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/sports/266186.html",
-      "published_date": "2026-10-25T12:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Olive Festival draws crowds in Baku despite rainy weather",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/266185.html",
-      "published_date": "2026-10-25T11:14:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Olive Festival continues in Baku despite rainy weather (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4238902.html",
-      "published_date": "2026-10-25T11:04:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan secure another victory at FIFA U-15 World Cup",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4238899.html",
-      "published_date": "2026-10-25T10:28:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bulgaria opens polls for presidential election",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/266167.html",
-      "published_date": "2026-10-25T10:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Isabelle Berune praises young athletes competing on international stage",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/sports/266178.html",
-      "published_date": "2026-10-25T09:27:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Another peaceful rally by Azerbaijani families of missing persons held in Brussels (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4238892.html",
-      "published_date": "2026-10-25T09:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gianni Infantino thanks President Ilham Aliyev for organization of FIFA U-15 World Cup",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/266173.html",
-      "published_date": "2026-10-25T09:03:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Strait of Hormuz will no longer be managed according to previous model – Iranian FM",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/4238886.html",
-      "published_date": "2026-10-25T08:56:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Ilham Aliyev sends congratulatory letter to President of Kazakhstan",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/politics/4238881.html",
-      "published_date": "2026-10-25T08:30:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Ilham Aliyev sends congratulatory letter to President of Kazakhstan",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/266172.html",
-      "published_date": "2026-10-25T08:29:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baku opens tender for about $1.64M renovation of historical building",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4238692.html",
-      "published_date": "2026-10-25T08:13:00Z",
       "category": "Local Events"
     }
   ]
