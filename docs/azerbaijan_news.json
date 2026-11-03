@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T20:38:41Z",
+  "generated_at": "2026-11-03T03:46:19Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -151,6 +151,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Vance says progress made in US-Iran talks aimed at ending conflict",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/us/4242096.html",
+      "published_date": "2026-11-02T22:15:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Uzbekistan, US discuss expanding cooperation in artificial intelligence at Seattle forum",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/uzbekistan/4242085.html",
+      "published_date": "2026-11-02T21:11:23Z",
+      "category": "Military"
+    },
+    {
       "title": "OpenAI, Anthropic set up first election 'war rooms'",
       "source": "Azernews",
       "url": "https://www.azernews.az/region/266683.html",
@@ -274,20 +288,6 @@
       "source": "Azernews",
       "url": "https://www.azernews.az/region/266562.html",
       "published_date": "2026-10-31T11:40:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "BBC identifies over 285,000 Russian soldiers killed in Ukraine war",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/266560.html",
-      "published_date": "2026-10-31T10:50:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Azerbaijan, Kazakhstan seek to expand cooperation in logistics and AI",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/business/266564.html",
-      "published_date": "2026-10-31T10:19:00Z",
       "category": "Military"
     },
     {
@@ -431,6 +431,13 @@
       "category": "Energy"
     },
     {
+      "title": "‘Certain circles in Russia and Eurasian Economic Union back secret plan by Armenian opposition’ – Pashinyan",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/certain-circles-in-russia-and-eurasian-economic-union-back-secret-plan-by-armenian-opposition-pashinyan/",
+      "published_date": "2026-11-02T21:43:42Z",
+      "category": "Economy"
+    },
+    {
       "title": "Iran’s Eqtesad Novin Bank net income from financial intermediation rises 98%",
       "source": "Trend News Agency",
       "url": "https://www.trend.az/iran/4242022.html",
@@ -564,11 +571,39 @@
       "category": "Economy"
     },
     {
-      "title": "Iran's Bushehr Province exports $3.59B in goods in seven months",
+      "title": "Russia, US, Ukraine to hold trilateral working-level talks in Abu Dhabi on November 10–11",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/4241530.html",
-      "published_date": "2026-10-31T23:14:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/world/4242111.html",
+      "published_date": "2026-11-03T03:10:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Araghchi outlines Iran's seven-day plan for potential negotiations with US",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4242107.html",
+      "published_date": "2026-11-03T02:18:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The neutral capital: Could Ashgabat become a channel for U.S.-Iran de-escalation?",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/turkmenistan/4242087.html",
+      "published_date": "2026-11-03T01:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Explosions reported on the Iranian island of Qeshm",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4242101.html",
+      "published_date": "2026-11-03T00:13:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijani chess player Mahammad Muradli places eighth at KazChess Masters",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4242090.html",
+      "published_date": "2026-11-02T23:21:00Z",
+      "category": "Local Events"
     },
     {
       "title": "GYLA challenges conviction of defendant in case over storming of Georgia’s presidential palace",
@@ -673,41 +708,6 @@
       "source": "Trend News Agency",
       "url": "https://www.trend.az/world/us/4242044.html",
       "published_date": "2026-11-02T14:08:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maersk unveils new Finland-Sweden freight link",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/world/europe/4242043.html",
-      "published_date": "2026-11-02T14:01:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uzbekistan presents 2050 strategy for water supply and wastewater services",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4242036.html",
-      "published_date": "2026-11-02T13:53:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kazakhstan's manufacturing sector nears stabilization in October - S&P Global",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4242002.html",
-      "published_date": "2026-11-02T13:48:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kazakhstan’s KASE Global trading reaches $71.3M in October",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4242029.html",
-      "published_date": "2026-11-02T13:46:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Halliburton acquires Norway-based software company Keystone",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/world/us/4242024.html",
-      "published_date": "2026-11-02T13:42:41Z",
       "category": "Local Events"
     }
   ]
