@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T18:29:36Z",
+  "generated_at": "2026-11-05T02:57:42Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Azerbaijan-Georgia trade turnover rises 42.3% to around $888M",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4243042.html",
+      "published_date": "2026-11-05T02:21:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "European Commission: Georgia’s EU integration process remains stalled, situation worsens over past year",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/eus-negative-assessment-of-georgia-integration-process-stalled-situation-worsens/",
+      "published_date": "2026-11-04T16:30:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Azerbaijan plans $335M for international relations and aid in 2027",
       "source": "Trend News Agency",
@@ -57,6 +71,13 @@
       "source": "JAMnews",
       "url": "https://jam-news.net/some-european-leaders-dont-want-to-be-photographed-with-you-georgian-pms-visit-to-brussels-what-happened/",
       "published_date": "2026-11-04T09:55:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia, Azerbaijan, and Georgia, top stories this morning",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/news-in-azerbaijan-armenia-georgia-2-6-november-2026/",
+      "published_date": "2026-11-04T05:20:00Z",
       "category": "Diplomacy"
     },
     {
@@ -127,27 +148,6 @@
       "source": "Azernews",
       "url": "https://www.azernews.az/nation/266685.html",
       "published_date": "2026-11-02T15:11:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Turkmen, Iranian FMs discuss bilateral and regional cooperation in Ashgabat",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/4242046.html",
-      "published_date": "2026-11-02T14:13:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US assistant secretary to visit Turkmenistan for bilateral consultations",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/turkmenistan/4242020.html",
-      "published_date": "2026-11-02T13:39:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Azerbaijan foils attempt to smuggle over 136 kg of drugs from Iran",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/events/266676.html",
-      "published_date": "2026-11-02T13:29:00Z",
       "category": "Diplomacy"
     },
     {
@@ -291,6 +291,13 @@
       "category": "Military"
     },
     {
+      "title": "Eni report: Uzbekistan’s oil consumption climbs 75% over decade to 147,000 bpd",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/uzbekistan/4242906.html",
+      "published_date": "2026-11-04T19:34:00Z",
+      "category": "Energy"
+    },
+    {
       "title": "Türkiye to unveil national energy 2040 vision, targeting 70% renewable energy share",
       "source": "Azernews",
       "url": "https://www.azernews.az/region/266800.html",
@@ -424,11 +431,32 @@
       "category": "Energy"
     },
     {
-      "title": "OPEC+ countries agree to maintain oil output levels",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/oil_and_gas/266614.html",
-      "published_date": "2026-11-01T17:35:00Z",
-      "category": "Energy"
+      "title": "Azerbaijan imports 544.89 tons of RON-98 gasoline from Romania in 8 months",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4243035.html",
+      "published_date": "2026-11-04T23:32:16Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Android's market share in Azerbaijan falls to 54.9% in October",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4243031.html",
+      "published_date": "2026-11-04T21:33:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Azerbaijani Parliament Committee discusses draft state budget for 2027 (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4243008.html",
+      "published_date": "2026-11-04T19:36:27Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Georgia's monthly inflation hits 0.9% in October, led by clothing prices",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/scaucasus/georgia/4242973.html",
+      "published_date": "2026-11-04T18:31:00Z",
+      "category": "Economy"
     },
     {
       "title": "Inflation in Iran's West Azerbaijan Province exceeds 107%",
@@ -543,32 +571,81 @@
       "category": "Economy"
     },
     {
-      "title": "Android's market share in Azerbaijan falls to 54.9% in October",
+      "title": "Uzbekistan’s microfinance assets reach $1.8B, sector remains concentrated",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4242498.html",
-      "published_date": "2026-11-03T13:55:11Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/casia/uzbekistan/4243041.html",
+      "published_date": "2026-11-05T01:27:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "EBRD shares risk on $8.2M loan to Kazakhstan's AB Restaurants",
+      "title": "Azerbaijan's lending to real sector climbs to $21B",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4242486.html",
-      "published_date": "2026-11-03T13:46:16Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/azerbaijan/4243040.html",
+      "published_date": "2026-11-05T00:30:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Ziraat Bank Azerbaijan issues bonds worth $8.8M",
+      "title": "Sabah suffers defeat to Viking in Champions League",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4242469.html",
-      "published_date": "2026-11-03T13:42:29Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/azerbaijan/4243027.html",
+      "published_date": "2026-11-04T22:12:33Z",
+      "category": "Local Events"
     },
     {
-      "title": "Uzbekistan completes $171M World Bank-backed power grid project",
+      "title": "Chronicles of Victory: November 5, 2020",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4242484.html",
-      "published_date": "2026-11-03T13:37:38Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/azerbaijan/4242828.html",
+      "published_date": "2026-11-04T20:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tesla, SpaceX fall around 4% as Dems flip Senate",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/266818.html",
+      "published_date": "2026-11-04T19:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Residents of Turkiye’s Ergani welcome proposal to make district province",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/266793.html",
+      "published_date": "2026-11-04T19:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijani gymnasts make successful start at world championships (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4243018.html",
+      "published_date": "2026-11-04T18:55:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Recep Tayyip Erdoğan: I take great pleasure in conveying my most sincere wishes to President Ilham Aliyev",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/266822.html",
+      "published_date": "2026-11-04T18:46:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "I take great pleasure in conveying my most sincere wishes to President Ilham Aliyev - Recep Tayyip Erdoğan",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4243021.html",
+      "published_date": "2026-11-04T18:42:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Google to invest $15B in Malaysian data centers",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/266812.html",
+      "published_date": "2026-11-04T18:40:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "First Vice-President Mehriban Aliyeva, along with her family members, attended symphonic show by internationally acclaimed violinist David Garrett",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/266821.html",
+      "published_date": "2026-11-04T18:26:00Z",
+      "category": "Local Events"
     },
     {
       "title": "First VP Mehriban Aliyeva and family members attend symphonic show by world-famous violinist David Garrett (PHOTO)",
@@ -631,83 +708,6 @@
       "source": "Trend News Agency",
       "url": "https://www.trend.az/azerbaijan/4242988.html",
       "published_date": "2026-11-04T15:11:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crown Prince of Saudi Arabia congratulates President Ilham Aliyev",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4242899.html",
-      "published_date": "2026-11-04T15:03:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Karabakh Revival Fund to support creation of central parks in Karabakh (Exclusive)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4242991.html",
-      "published_date": "2026-11-04T14:57:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Karabakh Revival Fund plans entrepreneur facilities in three cities in 2027 (Exclusive)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4242985.html",
-      "published_date": "2026-11-04T14:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran: We'll respond if US uses UAE, Bahrain bases",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/266817.html",
-      "published_date": "2026-11-04T14:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan earmarks $1.26B for agriculture, utilities, environment in 2027",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4242979.html",
-      "published_date": "2026-11-04T14:43:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Razi Customs ranks third in Iran for rail freight transport",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/4242676.html",
-      "published_date": "2026-11-04T14:23:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kazakhstan ranks ninth globally in coal output at 106 Mt in 2025 – Eni",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4242975.html",
-      "published_date": "2026-11-04T14:06:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ADB warns climate change to raise flood, landslide risks in Kura basin",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4242953.html",
-      "published_date": "2026-11-04T14:04:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "King of Saudi Arabia sends congratulatory letter to President Ilham Aliyev",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4242903.html",
-      "published_date": "2026-11-04T14:03:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jeyran Imanova speaks out after Turan's 3-0 victory over Maritsa Plovdiv",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/sports/266797.html",
-      "published_date": "2026-11-04T13:54:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan, Russia, Belarus, Uzbekistan discuss fire, rescue sports (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4242940.html",
-      "published_date": "2026-11-04T13:45:00Z",
       "category": "Local Events"
     }
   ]
