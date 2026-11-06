@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T18:33:15Z",
+  "generated_at": "2026-11-06T02:57:34Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Burnham: Putin won't be invited to G20 summit in UK",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/266888.html",
+      "published_date": "2026-11-05T19:00:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran denies EU allegations of intervention in Yemen",
       "source": "Azernews",
@@ -141,13 +148,6 @@
       "source": "Azernews",
       "url": "https://www.azernews.az/region/266740.html",
       "published_date": "2026-11-03T14:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Georgia’s ruling party founder Ivanishvili again named press freedom predator",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/ivanishvili-press-freedom-predator/",
-      "published_date": "2026-11-03T13:58:29Z",
       "category": "Diplomacy"
     },
     {
@@ -293,6 +293,13 @@
     {
       "title": "Kazakhstan's crude oil exports to Singapore rise 2.6-fold in eight months",
       "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kazakhstan/4243526.html",
+      "published_date": "2026-11-05T23:12:38Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Kazakhstan's crude oil exports to Singapore rise 2.6-fold in eight months",
+      "source": "Trend News Agency",
       "url": "https://www.trend.az/casia/kazakhstan/4243268.html",
       "published_date": "2026-11-05T15:10:00Z",
       "category": "Energy"
@@ -421,13 +428,6 @@
       "source": "Trend News Agency",
       "url": "https://www.trend.az/casia/kazakhstan/4241980.html",
       "published_date": "2026-11-02T19:10:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Can Azerbaijan convert its energy advantage into AI investment boom?",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/analysis/266638.html",
-      "published_date": "2026-11-02T16:14:00Z",
       "category": "Energy"
     },
     {
@@ -571,6 +571,76 @@
       "category": "Economy"
     },
     {
+      "title": "Earthquake hits Türkiye",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/turkey/4243534.html",
+      "published_date": "2026-11-06T02:07:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kyrgyzstan’s foreign-invested firms lift 2025 trade 28.3% to $4.1B",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kyrgyzstan/4243525.html",
+      "published_date": "2026-11-06T01:13:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump says of possibility of reaching major agreement on Ukraine",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/us/4243523.html",
+      "published_date": "2026-11-06T00:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kyrgyz foreign-invested firms’ transport, telecom services at $359M in 2025",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kyrgyzstan/4243518.html",
+      "published_date": "2026-11-05T22:15:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijan to be represented by 14 judokas at Zagreb Grand Prix",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4243496.html",
+      "published_date": "2026-11-05T21:02:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chronicles of Victory: November 6, 2020",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4243270.html",
+      "published_date": "2026-11-05T20:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Uzbekistan to tender 28 passenger routes under long-term contracts",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/uzbekistan/4243352.html",
+      "published_date": "2026-11-05T19:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Apple launches seven-part bond offering",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/266889.html",
+      "published_date": "2026-11-05T19:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia declares Georgian opposition party Droa ‘undesirable organisation’",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/russia-declares-georgian-opposition-party-droa-undesirable-organisation/",
+      "published_date": "2026-11-05T19:10:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Election watchdogs warn that new amendments to Georgia’s Election Code will undermine trust in election results",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/election-watchdogs-warn-that-new-amendments-to-georgias-election-code-will-undermine-trust-in-election-results/",
+      "published_date": "2026-11-05T18:53:44Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Agriculture slump weighs on Turkmen exchange quotations as petrochemicals edge up",
       "source": "Trend News Agency",
       "url": "https://www.trend.az/casia/turkmenistan/4243307.html",
@@ -638,76 +708,6 @@
       "source": "Trend News Agency",
       "url": "https://www.trend.az/casia/kyrgyzstan/4243477.html",
       "published_date": "2026-11-05T15:39:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woodside sets shareholder payouts at 20-40% of adjusted cash flow",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/world/4243399.html",
-      "published_date": "2026-11-05T15:37:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan's ABB Invest leads ranking by turnover with $15.58B in Jan-Oct",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4243376.html",
-      "published_date": "2026-11-05T15:32:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Victor Wembanyama scores career-high 52 points and 24 rebounds in Spurs win",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/sports/266860.html",
-      "published_date": "2026-11-05T15:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Poets from 30 countries celebrate Shusha through international literary project",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/266852.html",
-      "published_date": "2026-11-05T14:51:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran’s Shurijeh D gas storage facility sets second injection record",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/4243404.html",
-      "published_date": "2026-11-05T14:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Birth rate hits lowest level since 1950: why has number of newborns in Azerbaijan fallen by 42% in 10 years?",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/birth-rate-hits-lowest-level-since-1950-why-has-number-of-newborns-in-azerbaijan-fallen-by-42-in-10-years/",
-      "published_date": "2026-11-05T14:39:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cristiano Ronaldo announces retirement from Portugal national team",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/sports/266870.html",
-      "published_date": "2026-11-05T14:33:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian banks' lending rises 71.7% to $37.8B in seven months",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/4243218.html",
-      "published_date": "2026-11-05T14:19:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jordan's King awards Kazakhstan's Tokayev highest state honor",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4243441.html",
-      "published_date": "2026-11-05T14:11:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "David Garrett brings classical music and rock together in spectacular Baku performance",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/266854.html",
-      "published_date": "2026-11-05T14:00:00Z",
       "category": "Local Events"
     }
   ]
