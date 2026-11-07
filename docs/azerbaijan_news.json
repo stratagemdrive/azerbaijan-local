@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T17:50:05Z",
+  "generated_at": "2026-11-07T02:27:16Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,41 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "U.S., Azerbaijan and Armenia begin technical work on TRIPP project",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4243996.html",
+      "published_date": "2026-11-07T01:46:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia takes a step closer to EU with launch of biometric passport system",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/armenia-takes-a-step-closer-to-eu-with-launch-of-biometric-passport-system/",
+      "published_date": "2026-11-06T21:15:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US adds eight Canada-based organizations to Iran-related sanctions list",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/us/4243980.html",
+      "published_date": "2026-11-06T21:13:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran: We won't be satisfied with US paper commitments",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/266961.html",
+      "published_date": "2026-11-06T18:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Azerbaijan and Bulgaria hold sixth round of political consultations (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4243963.html",
+      "published_date": "2026-11-06T17:58:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN outlines indicators of progress on Caspian agreements (Exclusive)",
       "source": "Trend News Agency",
@@ -50,6 +85,13 @@
       "source": "Azernews",
       "url": "https://www.azernews.az/nation/266949.html",
       "published_date": "2026-11-06T12:37:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia, Azerbaijan, and Georgia, top stories this morning",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/news-in-azerbaijan-armenia-georgia-2-6-november-2026/",
+      "published_date": "2026-11-06T04:05:00Z",
       "category": "Diplomacy"
     },
     {
@@ -109,46 +151,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Azerbaijan-Georgia trade turnover rises 42.3% to around $888M",
+      "title": "At Least 25 seafarers killed in Strait of Hormuz amid US-Iran conflict",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4243042.html",
-      "published_date": "2026-11-05T02:21:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "European Commission: Georgia’s EU integration process remains stalled, situation worsens over past year",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/eus-negative-assessment-of-georgia-integration-process-stalled-situation-worsens/",
-      "published_date": "2026-11-04T16:30:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Azerbaijan plans $335M for international relations and aid in 2027",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4242970.html",
-      "published_date": "2026-11-04T15:09:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kazakhstan plans potential wheat supplies to Israel via Azerbaijan",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/266809.html",
-      "published_date": "2026-11-04T14:16:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Turkmenistan, UN-Habitat discuss cooperation program for 2027–2031",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/turkmenistan/4242969.html",
-      "published_date": "2026-11-04T14:00:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Uzbekistan, WTO discuss accession progress and economic reforms",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4242962.html",
-      "published_date": "2026-11-04T13:53:36Z",
-      "category": "Diplomacy"
+      "url": "https://www.trend.az/world/us/4243983.html",
+      "published_date": "2026-11-06T22:16:00Z",
+      "category": "Military"
     },
     {
       "title": "Trump: Only foolish leadership will reject 'Super Intelligence'",
@@ -281,13 +288,6 @@
       "source": "Azernews",
       "url": "https://www.azernews.az/culture/266741.html",
       "published_date": "2026-11-03T12:45:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Armenian soldier found dead as military records over 30 non-combat deaths in 2026",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/266737.html",
-      "published_date": "2026-11-03T12:22:00Z",
       "category": "Military"
     },
     {
@@ -431,6 +431,27 @@
       "category": "Energy"
     },
     {
+      "title": "Iran's Semnan Province exports rise 54% to about $221M in 7 months (",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4243994.html",
+      "published_date": "2026-11-07T00:28:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Kazakhstan’s ferroalloy exports to Germany up 4.57% to $53.5M in Jan-Aug",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kazakhstan/4243990.html",
+      "published_date": "2026-11-06T23:26:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Fed's Williams: Inflation too high for too long",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/266962.html",
+      "published_date": "2026-11-06T18:31:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "Woodside to cut over 500 jobs globally as part of cost reduction drive",
       "source": "Trend News Agency",
       "url": "https://www.trend.az/world/4243753.html",
@@ -550,25 +571,74 @@
       "category": "Economy"
     },
     {
-      "title": "Kyrgyzstan’s foreign-invested firms raise 2025 imports 37% to $3.1B",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kyrgyzstan/4243456.html",
-      "published_date": "2026-11-05T14:39:00Z",
-      "category": "Economy"
+      "title": "‘We didn’t even get chance to ask’ – Georgia’s new gambling law takes Patriarchate by surprise",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/we-didnt-even-get-chance-to-ask-georgias-new-gambling-law-takes-patriarchate-by-surprise/",
+      "published_date": "2026-11-06T23:07:42Z",
+      "category": "Local Events"
     },
     {
-      "title": "Brussels announces new €4.36 billion aid package for Ukraine",
+      "title": "Russia signals new opportunities for closer ties with Georgia",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/russia-signals-new-opportunities-for-closer-ties-with-georgia/",
+      "published_date": "2026-11-06T22:02:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chronicles of Victory: November 7, 2020",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4243868.html",
+      "published_date": "2026-11-06T20:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump announces Stephen Miller's appointment to top White House post",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/us/4243973.html",
+      "published_date": "2026-11-06T19:54:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Agricultural lending in Iran nearly doubles in seven months",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4243736.html",
+      "published_date": "2026-11-06T19:37:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Argentina to retire Lionel Messi's No. 10 shirt for upcoming friendlies",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/266881.html",
-      "published_date": "2026-11-05T14:19:00Z",
-      "category": "Economy"
+      "url": "https://www.azernews.az/sports/266934.html",
+      "published_date": "2026-11-06T19:30:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Kyrgyzstan’s foreign-invested firms increase 2025 exports 6.4% to $953.1M",
+      "title": "Divorce rates are rising in Armenia: divorced women and experts explain why",
+      "source": "JAMnews",
+      "url": "https://jam-news.net/divorce-rates-are-rising-in-armenia-divorced-women-and-experts-explain-why/",
+      "published_date": "2026-11-06T19:13:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alphabet acquires $548M stake in Qualcomm",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/266955.html",
+      "published_date": "2026-11-06T19:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Participants of Azerbaijan NGOs Cooperation Forum addressed President Ilham Aliyev",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kyrgyzstan/4243444.html",
-      "published_date": "2026-11-05T14:14:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/azerbaijan/4243965.html",
+      "published_date": "2026-11-06T18:35:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kazakhstan's per capita gas consumption rises 10.65% in 2025 - Eni",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kazakhstan/4243842.html",
+      "published_date": "2026-11-06T18:15:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Bus accident in France leaves two dead",
@@ -638,76 +708,6 @@
       "source": "Azernews",
       "url": "https://www.azernews.az/nation/266964.html",
       "published_date": "2026-11-06T14:21:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Return of IDPs to their native lands was greatest dream of every citizen - President Ilham Aliyev (FULL SPEECH)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4243928.html",
-      "published_date": "2026-11-06T14:14:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Aliyev: Our people and future generations will always take pride in our Victory",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/266963.html",
-      "published_date": "2026-11-06T14:14:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan’s Gaya Ensemble blends folk music and jazz at Victory Day concert",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/266942.html",
-      "published_date": "2026-11-06T14:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Our people and future generations will always take pride in our Victory - President Ilham Aliyev",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4243924.html",
-      "published_date": "2026-11-06T14:09:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan marks Victory Day in Kenya with focus on peace and reconstruction (PHOTO/VIDEO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4243902.html",
-      "published_date": "2026-11-06T13:53:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nostrum’s Kazakhstan hydrocarbon processing up 13.26% in nine months",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4243908.html",
-      "published_date": "2026-11-06T13:46:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hazar Logistik, Gebrüder Weiss discuss cargo transit via Turkmenbashi port",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/turkmenistan/4243892.html",
-      "published_date": "2026-11-06T13:41:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan's tricolor flag embodies its path to independence – analyst",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4243890.html",
-      "published_date": "2026-11-06T13:37:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan Dance Festival brings together more than 1,000 participants from 20 countries",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/266951.html",
-      "published_date": "2026-11-06T13:37:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan's tumbling team wins its third world championship title",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4243879.html",
-      "published_date": "2026-11-06T13:34:15Z",
       "category": "Local Events"
     }
   ]
