@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T02:27:16Z",
+  "generated_at": "2026-11-07T16:45:51Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,48 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "UN warns about impact of floods in Gaza",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/266997.html",
+      "published_date": "2026-11-07T15:53:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Footage of President Ilham Aliyev's visit to Shusha, Khankendi, and Aghdam posted on his social media",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/267005.html",
+      "published_date": "2026-11-07T15:49:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Footage of President Ilham Aliyev's visit to Shusha, Khankendi, and Aghdam posted on his social media (VIDEO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4244128.html",
+      "published_date": "2026-11-07T15:47:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Azerbaijan's Victory Day commemorated at University of Essex in UK",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/events/266989.html",
+      "published_date": "2026-11-07T14:50:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sybiha: Russia's actions fit definition of genocide",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/266981.html",
+      "published_date": "2026-11-07T11:34:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Azerbaijan, Armenia and US launch trilateral working groups to advance TRIPP corridor",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/karabakh/266982.html",
+      "published_date": "2026-11-07T11:12:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "U.S., Azerbaijan and Armenia begin technical work on TRIPP project",
       "source": "Trend News Agency",
@@ -109,46 +151,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Azerbaijan, UK reaffirm commitment to strengthening strategic partnership",
+      "title": "Pakistan's PM congratulates President Aliyev on Victory Day, calls for stronger strategic partnership",
       "source": "Azernews",
-      "url": "https://www.azernews.az/business/266883.html",
-      "published_date": "2026-11-05T15:43:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/nation/267004.html",
+      "published_date": "2026-11-07T15:29:00Z",
+      "category": "Military"
     },
     {
-      "title": "Uzbekistan's TMK urges wider use of Trans-Caspian route for mineral exports",
+      "title": "NEQSOL Holding organized charity tournament with “YASHAT” Foundation to support conflict-affected people (PHOTO)",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4243426.html",
-      "published_date": "2026-11-05T13:45:17Z",
-      "category": "Diplomacy"
+      "url": "https://www.trend.az/azerbaijan/4244123.html",
+      "published_date": "2026-11-07T15:15:00Z",
+      "category": "Military"
     },
     {
-      "title": "Iranian embassy faces criticism over dismissal of letter signed by 55 Azerbaijani NGOs",
+      "title": "US deploys Marines from Japan to Middle East amid tensions with Iran",
       "source": "Azernews",
-      "url": "https://www.azernews.az/nation/266879.html",
-      "published_date": "2026-11-05T12:36:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/region/266993.html",
+      "published_date": "2026-11-07T13:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "Russian diesel tankers diverted amid US sanctions and political backlash",
+      "title": "President Ilham Aliyev promotes Azerbaijani military officers to higher ranks",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/266866.html",
-      "published_date": "2026-11-05T12:10:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.azernews.az/nation/266985.html",
+      "published_date": "2026-11-07T12:16:00Z",
+      "category": "Military"
     },
     {
-      "title": "‘Factual inaccuracies and misjudgements’ – Georgian Foreign Ministry responds to European Commission report",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/factual-inaccuracies-and-misjudgements-georgian-foreign-ministry-responds-to-european-commission-report/",
-      "published_date": "2026-11-05T10:51:41Z",
-      "category": "Diplomacy"
+      "title": "Why Azerbaijan's victory still matters six years after the 44-day war?",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/analysis/266986.html",
+      "published_date": "2026-11-07T12:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "Georgia must adopt European laws if it wants to join EU – ambassador",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/georgias-eu-accession/",
-      "published_date": "2026-11-05T07:22:47Z",
-      "category": "Diplomacy"
+      "title": "Recep Tayyip Erdoğan congratulates President Ilham Aliyev on Victory Day",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/266983.html",
+      "published_date": "2026-11-07T10:39:53Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran now exports military equipment to numerous countries – IRGC spokesman",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4244034.html",
+      "published_date": "2026-11-07T10:34:46Z",
+      "category": "Military"
+    },
+    {
+      "title": "President Ilham Aliyev promotes Azerbaijani military officers to higher ranks",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4244078.html",
+      "published_date": "2026-11-07T09:41:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russia sends military intelligence chief to Ukraine peace talks",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/266977.html",
+      "published_date": "2026-11-07T09:13:00Z",
+      "category": "Military"
     },
     {
       "title": "At Least 25 seafarers killed in Strait of Hormuz amid US-Iran conflict",
@@ -228,67 +291,32 @@
       "category": "Military"
     },
     {
-      "title": "Iran sees new strategic threat in Trump’s South Caucasus project",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/analysis/266778.html",
-      "published_date": "2026-11-04T15:13:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Baku, Moscow strengthen cooperation in emergency management",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/266808.html",
-      "published_date": "2026-11-04T13:43:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Mecca joint defence agreement to be discussed in Turkish Parliament",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/266795.html",
-      "published_date": "2026-11-04T13:20:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Azerbaijan-Türkiye brotherhood celebrated at handicrafts exhibition in Bursa",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/266796.html",
-      "published_date": "2026-11-04T12:28:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "“Victory Round” to be held in Azerbaijan Premier League on November 6–8",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/sports/266791.html",
-      "published_date": "2026-11-04T12:20:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Azerbaijan's 44-day war victory not solely due to drones – Press Council",
+      "title": "Turkmenistan fulfills natural gas production plan at 108.3% in Jan-Oct",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4242492.html",
-      "published_date": "2026-11-03T14:05:44Z",
-      "category": "Military"
+      "url": "https://www.trend.az/casia/turkmenistan/4243885.html",
+      "published_date": "2026-11-07T16:14:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Trump calls $30 billion cost of Iran operation 'mere pittance'",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/266736.html",
-      "published_date": "2026-11-03T13:34:00Z",
-      "category": "Military"
+      "title": "Turkmenistan exceeds oil refining plan by 7.1% in January-October",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/turkmenistan/4243874.html",
+      "published_date": "2026-11-07T14:25:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Book on Azerbaijan's Karabakh victory highlights strategic importance of Hadrut and Shusha battles",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/266744.html",
-      "published_date": "2026-11-03T13:10:00Z",
-      "category": "Military"
+      "title": "Uzbekistan’s natural gas consumption rises 5.1% to 54.3 bcm in 2025 – Eni",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/uzbekistan/4243865.html",
+      "published_date": "2026-11-07T11:17:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Book on Azerbaijan's military strategy and victory in Karabakh presented in Baku",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/266741.html",
-      "published_date": "2026-11-03T12:45:00Z",
-      "category": "Military"
+      "title": "Kazakhstan's natural gas consumption rises 12.1% in 2025 - Eni",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kazakhstan/4243854.html",
+      "published_date": "2026-11-07T09:31:00Z",
+      "category": "Energy"
     },
     {
       "title": "China tightens control over fuel exports amid market pressures",
@@ -403,32 +431,25 @@
       "category": "Energy"
     },
     {
-      "title": "EDB outlines conditions for Central Asian electricity exports to China (Exclusive)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/4242532.html",
-      "published_date": "2026-11-03T18:03:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Kyrgyzstan’s oil reserve life falls to 18 years from 47 in 2015 – Eni",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kyrgyzstan/4242523.html",
-      "published_date": "2026-11-03T16:10:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "SOCAR, KazMunayGas discuss expanding Kazakh oil transportation via Azerbaijan",
+      "title": "Shah Deniz gas output and tax revenues set to decline in 2027",
       "source": "Azernews",
-      "url": "https://www.azernews.az/oil_and_gas/266742.html",
-      "published_date": "2026-11-03T15:26:00Z",
-      "category": "Energy"
+      "url": "https://www.azernews.az/oil_and_gas/266998.html",
+      "published_date": "2026-11-07T16:22:00Z",
+      "category": "Economy"
     },
     {
-      "title": "IEA forecasts decline in global natural gas demand",
+      "title": "Uber AZ rebrands itself in Azerbaijan while taxi services remain unchanged",
       "source": "Azernews",
-      "url": "https://www.azernews.az/oil_and_gas/266727.html",
-      "published_date": "2026-11-03T14:29:00Z",
-      "category": "Energy"
+      "url": "https://www.azernews.az/business/266995.html",
+      "published_date": "2026-11-07T15:19:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Uzbekistan’s gas exports remain nearly flat at 5.72 bcm in 2025 – Eni",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/uzbekistan/4243869.html",
+      "published_date": "2026-11-07T13:37:00Z",
+      "category": "Economy"
     },
     {
       "title": "Iran's Semnan Province exports rise 54% to about $221M in 7 months (",
@@ -550,164 +571,143 @@
       "category": "Economy"
     },
     {
-      "title": "French union counts over 250,000 protesters today",
+      "title": "Iran's Commodity Exchange sales value declines 15.7%",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4244099.html",
+      "published_date": "2026-11-07T16:38:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Ilham Aliyev shares video post on occasion of November 8 - Victory Day (VIDEO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4244131.html",
+      "published_date": "2026-11-07T16:03:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistani PM congratulates President Ilham Aliyev on occasion of Victory Day",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4244119.html",
+      "published_date": "2026-11-07T15:29:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kyrgyzstan SMEs record $2.3 billion in industrial output for 2025",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kyrgyzstan/4243910.html",
+      "published_date": "2026-11-07T15:11:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azercell contributes to development of new generation of female ICT specialists",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/266886.html",
-      "published_date": "2026-11-05T17:47:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Turkmen exchange quotations retreat as construction materials disappear again",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/turkmenistan/4243294.html",
-      "published_date": "2026-11-05T16:14:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Azerbaijan's Central Bank, MFC discuss development of microfinance",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4243476.html",
-      "published_date": "2026-11-05T15:44:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "‘We didn’t even get chance to ask’ – Georgia’s new gambling law takes Patriarchate by surprise",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/we-didnt-even-get-chance-to-ask-georgias-new-gambling-law-takes-patriarchate-by-surprise/",
-      "published_date": "2026-11-06T23:07:42Z",
+      "url": "https://www.azernews.az/events/266990.html",
+      "published_date": "2026-11-07T14:25:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Russia signals new opportunities for closer ties with Georgia",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/russia-signals-new-opportunities-for-closer-ties-with-georgia/",
-      "published_date": "2026-11-06T22:02:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chronicles of Victory: November 7, 2020",
+      "title": "Other countries may join Azerbaijan-Kazakhstan agreement on TITR",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4243868.html",
-      "published_date": "2026-11-06T20:01:00Z",
+      "url": "https://www.trend.az/azerbaijan/4244117.html",
+      "published_date": "2026-11-07T14:24:21Z",
       "category": "Local Events"
     },
     {
-      "title": "Trump announces Stephen Miller's appointment to top White House post",
+      "title": "Azerbaijan's MFA issues statement on 8 November – Victory Day",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/world/us/4243973.html",
-      "published_date": "2026-11-06T19:54:45Z",
+      "url": "https://www.trend.az/azerbaijan/4244114.html",
+      "published_date": "2026-11-07T14:17:24Z",
       "category": "Local Events"
     },
     {
-      "title": "Agricultural lending in Iran nearly doubles in seven months",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/4243736.html",
-      "published_date": "2026-11-06T19:37:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Argentina to retire Lionel Messi's No. 10 shirt for upcoming friendlies",
+      "title": "Israeli choreographer Shahar Binyamini brings contemporary dance to Baku festival",
       "source": "Azernews",
-      "url": "https://www.azernews.az/sports/266934.html",
-      "published_date": "2026-11-06T19:30:00Z",
+      "url": "https://www.azernews.az/culture/266994.html",
+      "published_date": "2026-11-07T14:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Divorce rates are rising in Armenia: divorced women and experts explain why",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/divorce-rates-are-rising-in-armenia-divorced-women-and-experts-explain-why/",
-      "published_date": "2026-11-06T19:13:12Z",
+      "title": "Heydar Aliyev Foundation VP Leyla Aliyeva, Head of Baku Media Center Arzu Aliyeva attend celebratory event at “Tut Əlimdən” Children's Rehabilitation Center (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4244107.html",
+      "published_date": "2026-11-07T13:53:43Z",
       "category": "Local Events"
     },
     {
-      "title": "Alphabet acquires $548M stake in Qualcomm",
+      "title": "“Tut Əlimdən” Children's Rehabilitation Center hosts celebration marking anniversary of historic victory",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/266955.html",
-      "published_date": "2026-11-06T19:00:00Z",
+      "url": "https://www.azernews.az/events/267003.html",
+      "published_date": "2026-11-07T13:45:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Participants of Azerbaijan NGOs Cooperation Forum addressed President Ilham Aliyev",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4243965.html",
-      "published_date": "2026-11-06T18:35:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kazakhstan's per capita gas consumption rises 10.65% in 2025 - Eni",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4243842.html",
-      "published_date": "2026-11-06T18:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bus accident in France leaves two dead",
+      "title": "Zelensky urges Congress to focus more on Ukraine",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/266960.html",
-      "published_date": "2026-11-06T17:34:00Z",
+      "url": "https://www.azernews.az/region/266988.html",
+      "published_date": "2026-11-07T13:41:00Z",
       "category": "Local Events"
     },
     {
-      "title": "President Ilham Aliyev presents keys to apartments to residents relocating to villages of Jahangirbayli and Soltanli (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4243947.html",
-      "published_date": "2026-11-06T17:00:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "TBC Georgia’s loans grow 18% and deposits rise 15% in Q3 2026",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/scaucasus/georgia/4243792.html",
-      "published_date": "2026-11-06T16:18:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "IFC provides $10M equivalent to Kyrgyz poultry producer Adal Azyk",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kyrgyzstan/4243939.html",
-      "published_date": "2026-11-06T15:34:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘The purge has only just begun’? South Ossetia’s new authorities arrest ‘chief baker’",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/the-purge-has-only-just-begun-south-ossetias-new-authorities-arrest-chief-baker/",
-      "published_date": "2026-11-06T15:33:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Apple, Meta, Musk's firms may face Democratic probes",
+      "title": "Renowned theatre director Lev Dodin meets audiences at Baku International Arts Festival",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/266953.html",
-      "published_date": "2026-11-06T15:32:00Z",
+      "url": "https://www.azernews.az/culture/266992.html",
+      "published_date": "2026-11-07T13:17:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Kyrgyzstan's SME foreign trade turnover rises 9.2% to $8.66B in 2025",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kyrgyzstan/4243937.html",
-      "published_date": "2026-11-06T15:29:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nizami Ganjavi Center delegation holds talks with Italy's president (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4243935.html",
-      "published_date": "2026-11-06T15:26:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protesters break into Microsoft's Dutch data center",
+      "title": "Baku festival celebrates Shostakovich's legacy and his influence on Azerbaijani music",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/266956.html",
-      "published_date": "2026-11-06T15:01:00Z",
+      "url": "https://www.azernews.az/culture/266991.html",
+      "published_date": "2026-11-07T12:38:00Z",
       "category": "Local Events"
     },
     {
-      "title": "President: Return of IDPs to their native lands was greatest dream of every citizen",
+      "title": "Kazakhstan's proven gas reserves stand at 1,830 bcm in 2025 - Eni",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kazakhstan/4243867.html",
+      "published_date": "2026-11-07T12:24:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ankara billboards display congratulatory messages to Azerbaijan",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4244103.html",
+      "published_date": "2026-11-07T11:46:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijani gymnast wins silver medal at World Championships (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4244090.html",
+      "published_date": "2026-11-07T11:04:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Recep Tayyip Erdoğan congratulates President Ilham Aliyev on occasion of Victory Day",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4244084.html",
+      "published_date": "2026-11-07T10:53:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "President of Kyrgyzstan congratulates President Ilham Aliyev",
       "source": "Azernews",
-      "url": "https://www.azernews.az/nation/266964.html",
-      "published_date": "2026-11-06T14:21:00Z",
+      "url": "https://www.azernews.az/nation/266984.html",
+      "published_date": "2026-11-07T10:50:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran stresses need to prevent further escalation – Araghchi",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4244040.html",
+      "published_date": "2026-11-07T10:33:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Ilham Aliyev reviews facilities at Aghdam Zeytun enterprise",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/266980.html",
+      "published_date": "2026-11-07T10:23:23Z",
       "category": "Local Events"
     }
   ]
