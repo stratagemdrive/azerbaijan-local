@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T16:56:15Z",
+  "generated_at": "2026-11-09T02:13:15Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Iran's Hormuz proposal remains valid, Araghchi says",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/267066.html",
+      "published_date": "2026-11-08T19:59:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Presidents of Azerbaijan and Türkiye and First Ladies met with decorated servicemen",
       "source": "Azernews",
@@ -144,17 +151,17 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armenia takes a step closer to EU with launch of biometric passport system",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/armenia-takes-a-step-closer-to-eu-with-launch-of-biometric-passport-system/",
-      "published_date": "2026-11-06T21:15:02Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Victory Day celebrations continue across Baku",
       "source": "Azernews",
       "url": "https://www.azernews.az/events/267052.html",
       "published_date": "2026-11-08T15:39:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Recep Tayyip Erdoğan congratulates Azerbaijan on sixth anniversary of Victory Day",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/267057.html",
+      "published_date": "2026-11-08T15:30:00Z",
       "category": "Military"
     },
     {
@@ -284,11 +291,32 @@
       "category": "Military"
     },
     {
-      "title": "At Least 25 seafarers killed in Strait of Hormuz amid US-Iran conflict",
+      "title": "Kyrgyzstan’s mining output increases 14.2% to $915M in 2025",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/world/us/4243983.html",
-      "published_date": "2026-11-06T22:16:00Z",
-      "category": "Military"
+      "url": "https://www.trend.az/casia/kyrgyzstan/4244475.html",
+      "published_date": "2026-11-08T22:36:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Kazakhstan’s oil exports to Germany fall 12% in January-August",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kazakhstan/4244284.html",
+      "published_date": "2026-11-08T19:17:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Global oil benchmarks post mixed results over the week",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/oil_and_gas/267059.html",
+      "published_date": "2026-11-08T18:35:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Uzbekistan increases solar electricity output by 537.5% in 2024, Eni says",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/uzbekistan/4244340.html",
+      "published_date": "2026-11-08T17:11:00Z",
+      "category": "Energy"
     },
     {
       "title": "Fluor’s Q3 new awards jump 234% to $10.9 billion on LNG Canada deal",
@@ -403,32 +431,18 @@
       "category": "Energy"
     },
     {
-      "title": "Kyrgyzstan’s foreign-invested firms put 42% of 2025 investment into mining",
+      "title": "Azerbaijan’s Tax Service launches tender for transformer substation upgrade",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kyrgyzstan/4243424.html",
-      "published_date": "2026-11-05T13:51:00Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/azerbaijan/4244315.html",
+      "published_date": "2026-11-08T21:21:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Azerbaijan, European partners prepare for key energy corridor talks",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/266875.html",
-      "published_date": "2026-11-05T13:05:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Azerbaijan, Ukraine review prospects for joint energy projects",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/266872.html",
-      "published_date": "2026-11-05T11:58:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Eni report: Uzbekistan’s oil consumption climbs 75% over decade to 147,000 bpd",
+      "title": "Azerbaijan’s Central Bank announces tender for XSOAR system support",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/uzbekistan/4242906.html",
-      "published_date": "2026-11-04T19:34:00Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/azerbaijan/4244288.html",
+      "published_date": "2026-11-08T18:14:00Z",
+      "category": "Economy"
     },
     {
       "title": "Türkiye's strong economy and political influence bring us great joy - President Ilham Aliyev (VIDEO)",
@@ -557,24 +571,129 @@
       "category": "Economy"
     },
     {
-      "title": "Central Bank discusses financial stability and banking reforms with S&P Global Ratings",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/business/266946.html",
-      "published_date": "2026-11-06T13:03:00Z",
-      "category": "Economy"
+      "title": "Kyrgyzstan’s foreign-invested enterprises increase 1.9-fold since 2021",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kyrgyzstan/4244550.html",
+      "published_date": "2026-11-09T01:12:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Abkhazia to raise electricity tariffs for businesses by 40% to pay for Russian power imports",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/abkhazia-to-raise-electricity-tariffs-for-businesses-by-40-to-pay-for-russian-power-imports/",
-      "published_date": "2026-11-06T12:32:43Z",
-      "category": "Economy"
+      "title": "Iran's Hormozgan Province records $9.5B in customs trade",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4244548.html",
+      "published_date": "2026-11-09T00:07:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kyrgyzstan’s industrial output surges 10.6% to 819.6 billion soms in 2025",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kyrgyzstan/4244469.html",
+      "published_date": "2026-11-08T23:03:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Post marking November 9 – Flag Day shared on President Ilham Aliyev’s social media accounts (VIDEO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4244534.html",
+      "published_date": "2026-11-08T20:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chronicles of Victory: November 9, 2020",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4244356.html",
+      "published_date": "2026-11-08T20:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijan celebrates November 9 - National Flag Day",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4244530.html",
+      "published_date": "2026-11-08T20:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump vows America will return 'stronger than ever'",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/267061.html",
+      "published_date": "2026-11-08T19:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijani gymnasts win three medals at World Championships (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4244522.html",
+      "published_date": "2026-11-08T19:14:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iraq, Türkiye agree on joint monitoring of PKK withdrawal",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/267060.html",
+      "published_date": "2026-11-08T19:02:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Araghchi says Iran’s proposal to US on Strait of Hormuz still stands",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4244519.html",
+      "published_date": "2026-11-08T18:45:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine names negotiating team for upcoming Abu Dhabi talks",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/267056.html",
+      "published_date": "2026-11-08T18:08:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Türkiye illuminates landmark buildings in Azerbaijani flag colors (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4244515.html",
+      "published_date": "2026-11-08T17:57:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijan marks Victory Day with grand concert on Baku Boulevard",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/events/267064.html",
+      "published_date": "2026-11-08T17:40:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "President of Türkiye Recep Tayyip Erdoğan concluded official visit to Azerbaijan",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/267063.html",
+      "published_date": "2026-11-08T17:12:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Baku's Victory Day concert concludes with spectacular fireworks (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4244511.html",
+      "published_date": "2026-11-08T17:08:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "President of Türkiye Recep Tayyip Erdoğan concluded official visit to Azerbaijan (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4244509.html",
+      "published_date": "2026-11-08T16:58:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Official banquet hosted in honor of President of Türkiye on behalf of President Ilham Aliyev (PHOTO)",
       "source": "Trend News Agency",
       "url": "https://www.trend.az/azerbaijan/4244503.html",
       "published_date": "2026-11-08T16:51:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Official banquet hosted in honor of President of Türkiye on behalf of President Ilham Aliyev",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/nation/267062.html",
+      "published_date": "2026-11-08T16:50:00Z",
       "category": "Local Events"
     },
     {
@@ -589,125 +708,6 @@
       "source": "Trend News Agency",
       "url": "https://www.trend.az/azerbaijan/4244270.html",
       "published_date": "2026-11-08T16:26:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baku’s joy is Ankara’s pride, and Shusha’s pride is pride of our entire nation – Turkish President",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4244500.html",
-      "published_date": "2026-11-08T16:22:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Footage of meeting with Erdoğan in Shusha posted on President Ilham Aliyev’s social media pages (VİDEO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4244495.html",
-      "published_date": "2026-11-08T15:22:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijanis gather at Brandenburg Gate in Berlin to mark Victory Day Anniversary",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4244484.html",
-      "published_date": "2026-11-08T15:01:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The exclamation mark that changed the course of Azerbaijan's history",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/analysis/267028.html",
-      "published_date": "2026-11-08T14:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Messages from Khankendi: Symbols of occupation become symbols of victory",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4244423.html",
-      "published_date": "2026-11-08T14:08:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Ilham Aliyev's speech in Khankendi was powerful and emotional - Mikhail Gusman",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4244457.html",
-      "published_date": "2026-11-08T14:03:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Presidents of Azerbaijan and Türkiye laid wreaths at Victory Monument in Khankendi",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/267049.html",
-      "published_date": "2026-11-08T13:52:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Train collision near Giza leaves 150 people injured",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/267048.html",
-      "published_date": "2026-11-08T13:44:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Presidents Ilham Aliyev and Recep Tayyip Erdoğan lay wreaths at Victory Monument in Khankendi (PHOTO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4244481.html",
-      "published_date": "2026-11-08T13:40:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan’s Accounts Chamber announces tender for software licences",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4244267.html",
-      "published_date": "2026-11-08T13:28:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "President of Türkiye describes relations between Ankara and Baku as an “ever-burning torch”",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4244467.html",
-      "published_date": "2026-11-08T13:22:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "First Lady of Azerbaijan Mehriban Aliyeva and First Lady of Türkiye Emine Erdoğan held conversation over tea (PHOTO/VIDEO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4244471.html",
-      "published_date": "2026-11-08T13:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "First Ladies of Azerbaijan and Türkiye held conversation over tea",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/267047.html",
-      "published_date": "2026-11-08T13:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Those trying to weaken our brotherhood with Azerbaijan will fail to achieve their goals - Recep Tayyip Erdoğan",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4244454.html",
-      "published_date": "2026-11-08T13:16:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Presidents of Azerbaijan and Türkiye visited Khojaly Genocide Memorial",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/267045.html",
-      "published_date": "2026-11-08T13:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Presidents Ilham Aliyev and Recep Tayyip Erdoğan pose for photographs in front of Shusha Fortress (PHOTO/VIDEO)",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4244477.html",
-      "published_date": "2026-11-08T12:52:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Presidents Ilham Aliyev and Recep Tayyip Erdoğan posed for photographs in front of Shusha Fortress",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/nation/267050.html",
-      "published_date": "2026-11-08T12:50:00Z",
       "category": "Local Events"
     }
   ]
