@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T21:19:10Z",
+  "generated_at": "2026-11-10T04:25:05Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -291,6 +291,27 @@
       "category": "Military"
     },
     {
+      "title": "Turkmenistan fulfills natural gas production plan at 108.3% in Jan-Oct",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/turkmenistan/4244802.html",
+      "published_date": "2026-11-10T03:57:38Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Kazakhstan’s oil shipments to Egypt jump 327% in January-August",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kazakhstan/4244789.html",
+      "published_date": "2026-11-10T00:23:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Kazakhstan’s oil exports to Germany fall 12% in January-August",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kazakhstan/4244785.html",
+      "published_date": "2026-11-09T22:03:14Z",
+      "category": "Energy"
+    },
+    {
       "title": "Azerbaijan's SOCAR strengthens energy ties with China's Sinopec",
       "source": "Azernews",
       "url": "https://www.azernews.az/oil_and_gas/267114.html",
@@ -410,25 +431,18 @@
       "category": "Energy"
     },
     {
-      "title": "Kazakhstan's natural gas consumption rises 12.1% in 2025 - Eni",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4243854.html",
-      "published_date": "2026-11-07T09:31:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "China tightens control over fuel exports amid market pressures",
+      "title": "French unions call for 'major' strike on November 17",
       "source": "Azernews",
-      "url": "https://www.azernews.az/oil_and_gas/266933.html",
-      "published_date": "2026-11-06T14:29:00Z",
-      "category": "Energy"
+      "url": "https://www.azernews.az/region/267124.html",
+      "published_date": "2026-11-10T04:00:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Turkmenistan, Japan discuss hydrogen energy and AI cooperation",
+      "title": "Turkmenistan reports 13.6% growth in transport and communications services",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/turkmenistan/4243922.html",
-      "published_date": "2026-11-06T14:13:04Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/casia/turkmenistan/4244788.html",
+      "published_date": "2026-11-09T23:07:21Z",
+      "category": "Economy"
     },
     {
       "title": "Eurogroup hails 'excellent' ECB president candidates",
@@ -557,18 +571,18 @@
       "category": "Economy"
     },
     {
-      "title": "Yemen market strikes leave over 30 casualties",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/266958.html",
-      "published_date": "2026-11-06T16:02:00Z",
-      "category": "Economy"
+      "title": "Azerbaijan-UK trade rises 3.9-fold to $3.72B in nine months",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4244799.html",
+      "published_date": "2026-11-10T02:56:59Z",
+      "category": "Local Events"
     },
     {
-      "title": "Turkmenistan's foreign trade growth accelerates to 9.5% in January-October",
+      "title": "Trump says U.S. ready to strike Iran if necessary",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/turkmenistan/4243776.html",
-      "published_date": "2026-11-06T15:12:00Z",
-      "category": "Economy"
+      "url": "https://www.trend.az/world/4244796.html",
+      "published_date": "2026-11-10T01:54:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Türkiye, Uzbekistan agree on joint steps to protect environment",
@@ -694,20 +708,6 @@
       "source": "Trend News Agency",
       "url": "https://www.trend.az/azerbaijan/4244758.html",
       "published_date": "2026-11-09T15:35:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fluor’s Q3 adjusted EBITDA falls 11.8% to $142 million, guidance kept",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/world/4244235.html",
-      "published_date": "2026-11-09T15:09:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dmitry Sitkovetsky discusses Shostakovich’s legacy at Baku Book Center",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/travel/267126.html",
-      "published_date": "2026-11-09T15:01:00Z",
       "category": "Local Events"
     }
   ]
