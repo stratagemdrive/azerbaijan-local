@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T18:25:19Z",
+  "generated_at": "2026-11-14T02:48:09Z",
   "country": "Azerbaijan",
   "total_stories": 100,
   "categories": [
@@ -151,6 +151,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Car explosion in Moscow leaves former Ukrainian PM's spokesman seriously injured",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/267392.html",
+      "published_date": "2026-11-13T19:15:00Z",
+      "category": "Military"
+    },
+    {
       "title": "Russia demands Finland leave NATO and alliance abandon Baltic Military bases",
       "source": "Azernews",
       "url": "https://www.azernews.az/region/267389.html",
@@ -284,11 +291,32 @@
       "category": "Military"
     },
     {
-      "title": "Russian-born AI entrepreneur Alexander Mashrabov granted Kazakh citizenship",
+      "title": "Kazakhstan's crude oil output falls 4.9% year over year in Q3 2026 - EIA",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/kazakhstan/4246338.html",
+      "published_date": "2026-11-14T02:13:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Uzbekistan's CO₂ emissions rise 1% to 121.8M tons in 2024 – Eni",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/casia/uzbekistan/4246314.html",
+      "published_date": "2026-11-13T20:22:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Renewables are transforming global energy systems, German minister says",
       "source": "Azernews",
-      "url": "https://www.azernews.az/region/267163.html",
-      "published_date": "2026-11-10T11:56:00Z",
-      "category": "Military"
+      "url": "https://www.azernews.az/region/267393.html",
+      "published_date": "2026-11-13T19:40:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Woodside's Mexico oil project 71% complete, first oil targeted in 2028",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/world/4246222.html",
+      "published_date": "2026-11-13T19:15:00Z",
+      "category": "Energy"
     },
     {
       "title": "Azerbaijan's role in global energy security to grow further — expert",
@@ -403,32 +431,11 @@
       "category": "Energy"
     },
     {
-      "title": "Kazakhstan promotes green energy corridor project with Azerbaijan and Uzbekistan at COP31",
+      "title": "ING sees Kazakhstan’s GDP growth accelerating to 4.8% in 2027",
       "source": "Trend News Agency",
-      "url": "https://www.trend.az/azerbaijan/4245393.html",
-      "published_date": "2026-11-11T18:24:26Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Erdoğan urges world leaders to turn climate pledges into action at COP31",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/267236.html",
-      "published_date": "2026-11-11T17:45:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "‘Who could be closer friend to us than Armenia?’ – Key takeaways from Iran’s vice-president’s visit to Yerevan",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/who-could-be-closer-friend-to-us-than-armenia-key-takeaways-from-irans-vice-presidents-visit-to-yerevan/",
-      "published_date": "2026-11-11T16:47:05Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Kyiv to temporarily suspend street lighting amid electricity shortages",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/region/267243.html",
-      "published_date": "2026-11-11T15:46:00Z",
-      "category": "Energy"
+      "url": "https://www.trend.az/casia/kazakhstan/4246337.html",
+      "published_date": "2026-11-14T01:14:00Z",
+      "category": "Economy"
     },
     {
       "title": "Mercedes-Benz halts new investments in Germany as factory closures come under consideration",
@@ -564,11 +571,46 @@
       "category": "Economy"
     },
     {
-      "title": "Azerbaijan’s proposed hourly wage system: Who stands to benefit – workers, employers or state?",
-      "source": "JAMnews",
-      "url": "https://jam-news.net/introduction-of-hourly-wages-in-azerbaijan/",
-      "published_date": "2026-11-12T07:12:16Z",
-      "category": "Economy"
+      "title": "Iran's agricultural and food prices continue to rise",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4246329.html",
+      "published_date": "2026-11-14T00:10:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leyla Aliyeva visits joint pavilion of Heydar Aliyev Foundation and Türkiye’s Zero Waste Foundation at COP31, meets with several experts (PHOTO)",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4246326.html",
+      "published_date": "2026-11-13T23:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijan to finish Nations League group stage in first place",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4246323.html",
+      "published_date": "2026-11-13T22:11:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian banks' trade lending grows 94.2% to about $4.92B in seven months",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4246319.html",
+      "published_date": "2026-11-13T21:09:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijani judoka Gultaj Mammadaliyeva wins bronze at Zagreb Grand Prix",
+      "source": "Trend News Agency",
+      "url": "https://www.trend.az/azerbaijan/4246308.html",
+      "published_date": "2026-11-13T19:04:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Microsoft service disruptions highlight risks of businesses' growing dependence on digital platforms",
+      "source": "Azernews",
+      "url": "https://www.azernews.az/region/267391.html",
+      "published_date": "2026-11-13T18:41:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Leyla Aliyeva attends discussions on environmental challenges of Caspian Sea at COP31 (PHOTO)",
@@ -666,48 +708,6 @@
       "source": "JAMnews",
       "url": "https://jam-news.net/children-in-cars-without-car-seats-why-are-child-car-seats-unpopular-in-armenia/",
       "published_date": "2026-11-13T13:32:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran to begin repairs on fire-damaged gas platform soon",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/iran/4246192.html",
-      "published_date": "2026-11-13T13:30:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kazakhstan, US-based Trans Ova Genetics to establish cattle embryo laboratory",
-      "source": "Trend News Agency",
-      "url": "https://www.trend.az/casia/kazakhstan/4246232.html",
-      "published_date": "2026-11-13T13:21:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijani film stars meet residents of Lachin at new cultural event",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/267376.html",
-      "published_date": "2026-11-13T12:53:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijan to send seven boxers to U-23 European Championships in Croatia",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/sports/267374.html",
-      "published_date": "2026-11-13T12:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italian culinary heritage showcased at masterclass in Baku",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/culture/267375.html",
-      "published_date": "2026-11-13T11:55:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dakar 2026 closing ceremony to take place today in Senegal",
-      "source": "Azernews",
-      "url": "https://www.azernews.az/sports/267371.html",
-      "published_date": "2026-11-13T11:40:00Z",
       "category": "Local Events"
     }
   ]
